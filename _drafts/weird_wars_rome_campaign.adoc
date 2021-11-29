@@ -1,6 +1,27 @@
 = Campaign for Weird Wars Rome
 
-The campaign focused on a group of legionaries of Legion XI, who are posted to the northern frontier near the end of the second century AD.
+The campaign focused on a group of Roman soldiers of _Legio VI Victrix_, who are posted to the northern frontier near the end of the second century AD, around the xref:https://en.wikipedia.org/wiki/List_of_Roman_emperors#193%E2%80%93235:_Year_of_the_Five_Emperors_and_Severan_dynasty[year of the five emperors].
+
+
+_Legio sexta victrix_ ("Victorious Sixth Legion") was a legion of the Imperial Roman army that was founded in 41 BC by the Emperor Augustus.
+This legion was stationed at Hadrian's Wall at the end of the second century AD.
+
+.Auxiliary cavalry instead of legionaries
+****
+Player characters are supposed to be Roman legionaries, but the players jhave the option of playing a squad of auxiliaries that are attached to a legion. 
+
+____
+In 175, the Roman emperor, Marcus Aurelius, defeated the Iazyges tribe of Sarmatians. He took them into Roman service and settled 5,500 of them in Britain; some were assigned to the Legio VI Victrix
+____
+
+The players should have the option to play a unit of Sarmatian auxiliary cavalry instead of legionaries.
+As cavalry, they could do more scouting work and have some mobility to get into stuff. 
+
+In the 2004 movie xref:https://en.wikipedia.org/wiki/King_Arthur_(2004_film)[Kirth Arthur], the protagonists were Sarmatian cavalry attached to a Roman legion.
+
+
+****
+
 
 NOTE: There's no conversion document for Weird Wars Rome as of the end of 2021. 
 
@@ -415,3 +436,16 @@ Navarchus::
 The captain of single warship.
 Praefectus Classis:: 
 The Roman equivalent of an admiral, this officer commanded a fleet.
+
+[appendix]
+== Inspiration
+
+.Movies
+* xref:https://www.imdb.com/title/tt0349683/?ref_=fn_al_tt_2[King Arthur] (2004)
+* xref:https://www.imdb.com/title/tt1020558/?ref_=fn_al_tt_1[Centurion] (2010)
+* xref:https://www.imdb.com/title/tt1034389/?ref_=fn_al_tt_2[The Eagle] (2011)
+* xref:https://www.imdb.com/title/tt0462396/?ref_=fn_al_tt_1[The Last Legion] (2007)
+* xref:https://www.imdb.com/title/tt0172495/?ref_=fn_al_tt_1[Gladiator] (2000)
+
+.TV
+* xref:https://www.imdb.com/title/tt0384766/?ref_=fn_al_tt_1[Rome] (2005-2007)
