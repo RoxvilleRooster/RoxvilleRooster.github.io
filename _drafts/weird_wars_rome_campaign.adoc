@@ -8,7 +8,7 @@ This legion was stationed at Hadrian's Wall at the end of the second century AD.
 
 .Auxiliary cavalry instead of legionaries
 ****
-Player characters are supposed to be Roman legionaries, but the players jhave the option of playing a squad of auxiliaries that are attached to a legion. 
+Player characters are supposed to be Roman legionaries, but the players have the option of playing a squad of auxiliaries that are attached to a legion. 
 
 ____
 In 175, the Roman emperor, Marcus Aurelius, defeated the Iazyges tribe of Sarmatians. He took them into Roman service and settled 5,500 of them in Britain; some were assigned to the Legio VI Victrix
@@ -64,7 +64,7 @@ Equestrian/Patrician (Aristocrat)::
 Requirements:: Novice + 
 Rome’s social elites were Patricians (Senatorials) and Equestrians (knights). 
 // (Commoners were called plebians, or plebs).
-Such individuals have +2 to Persusaion trait rolls.
+Such individuals have +2 to Persuasion trait rolls.
 Most aristocrats have small estates that provide income (in game terms, the character wants for nothing reasonable) and somewhere to go when not on active service. 
 Aristocrats may also find themselves subject to political maneuvers instigated both back in Rome or within the upper echelons of his legion.
 
@@ -420,7 +420,7 @@ Signifer::
 Standard bearer for a century. 
 His rank put him slightly above that of a legionary, but he had little command authority.
 Aquilifer:: 
-Despite carrying the legion’s standard, he ranked only slightly higher than a signifer (though he earned more).
+Despite carrying the legion’s standard, he ranked only slightly higher than a _signifer_ (though he earned more).
 Praefectus:: 
 Commanded an auxilia ala or cohort. 
 He held a rank similar in authority to that of a tribunus and was always a Roman. 
