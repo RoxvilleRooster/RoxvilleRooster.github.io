@@ -157,7 +157,7 @@ Sanity cannot drop below 0, but each time it would, the character suffers a new 
 
 [[disorder_table]]
 .Disorders
-[cols="20%,80%",options="header"]
+[cols="30%,70%",options="header"]
 |===
 | d20 | Result
 | 1–3 a| 
