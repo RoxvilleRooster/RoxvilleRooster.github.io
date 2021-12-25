@@ -34,7 +34,7 @@ The following token overlays are used to indicate status/conditions in combat. O
 | - | - | - |
 | Aiming | ![Aim](/images/roll20/target.PNG "Aiming") |   |
 | Bound | ![Bound](/images/roll20/net.PNG "Bound") | |
-| Cover | ![Cover](/images/roll20/tower.PNG "Cover") |  *light cover* = set overlay number to 1 or leave unset; *medium cover* = set overlay to 2; *heavy cover* = set overlay to 4 |
+| Cover | ![Cover](/images/roll20/tower.PNG "Cover") |  *light cover* = set overlay number to 2 or leave unset; *medium cover* = set overlay number to 4; *heavy cover* = set overlay number to 6; *full cover* = set overlay number to 8 |
 | Distracted | ![Distracted](/images/roll20/screaming_brain.PNG "Distracted") |   |
 | Dead | ![Dead](/images/roll20/red_x.PNG "Dead")  | Or just remove the token (a/k/a "off the table")  | 
 | Defend | ![Defending](/images/roll20/shield.PNG "Defending") | <!-- For *Full Defense*, set overlay number to 2 --> |
