@@ -42,10 +42,11 @@ The following token overlays are used to indicate status/conditions in combat. O
 | Hold | ![Hold](/images/roll20/time.PNG "Hold") | Character is holding his action |
 | Sanity Damaged | ![Sanity](/images/roll20/sanity.png "Sanity damaged") | Affected by fear, insanity, confusion, or charm
 | Shaken | ![Shaken](/images/roll20/melty_face.PNG "Shaken") | For *Unconscious* or *Incapacitated*, set overlay number to 2 or remove the token from play | 
-<!-- smoke.PNG >
 | Stealth | ![Stealth](/images/roll20/ninja.PNG "Stealth") | Indicate a character is *successfully* using Stealth to avoid detection | 
 | Stunned | ![Stunned](/images/roll20/stunned.png "Stunned")  | 
 | Vulnerable | ![Vulnerable](/images/roll20/arrows_in_back.PNG "Vulnerable") |   |
+
+<!-- smoke.PNG >
 
 ### Changes to settings
 
