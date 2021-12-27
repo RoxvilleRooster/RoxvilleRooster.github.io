@@ -1,4 +1,8 @@
 = Campaign for Weird Wars Rome
+:doctype: book
+// :sectnums:
+// :sectnumlevels: 5
+// :sectlinks:
 
 The campaign focused on a group of Roman soldiers of _Legio VI Victrix_, who are posted to the northern frontier near the end of the second century AD, around the xref:https://en.wikipedia.org/wiki/List_of_Roman_emperors#193%E2%80%93235:_Year_of_the_Five_Emperors_and_Severan_dynasty[year of the five emperors].
 
@@ -15,10 +19,10 @@ In 175, the Roman emperor, Marcus Aurelius, defeated the Iazyges tribe of Sarmat
 ____
 
 The players should have the option to play a unit of Sarmatian auxiliary cavalry instead of legionaries.
-As cavalry, they could do more scouting work and have some mobility to get into stuff. 
+As cavalry, they could do more scouting work and have some mobility to get into different types of action. 
 
-In the 2004 movie xref:https://en.wikipedia.org/wiki/King_Arthur_(2004_film)[Kirth Arthur], the protagonists were Sarmatian cavalry attached to a Roman legion.
-
+In the 2004 movie xref:https://en.wikipedia.org/wiki/King_Arthur_(2004_film)[King Arthur], the protagonists were Sarmatian cavalry attached to a Roman legion around 410 CE. 
+Sarmatian auxiliaries were brought to Britain in the time of Marcus Aurelius (d. 180 CE). footnote:[link:https://en.wikipedia.org/wiki/Roman_cavalry[Roman cavalry], Wikipedia] 
 
 ****
 
@@ -55,14 +59,14 @@ The next 4 Advances your hero earns are forfeited to "pay back" the debt.
 ===== Military Family
 Requirements:: Novice
 + 
-The hero’s father was a career soldier who rose to the ranks of centurio (or higher with the GM's permission) or legatus (for parents with the Equestrian or Military Family Edge). 
-He begins the game with a d4 in Fighting, Knowledge (Battle), Riding, or Throwing (player’s choice).
-In addition, he has +1 Persuasion when dealing with officers of centurio rank and above and to promotion rolls because of his father’s reputation.
-Should he fail to live up to his father’s deeds (GM's discretion), he suffers a –2 penalty to Persuasion until he makes amends.
+The hero's father was a career soldier who rose to the ranks of centurio (or higher with the GM's permission) or legatus (for parents with the Equestrian or Military Family Edge). 
+He begins the game with a d4 in Fighting, Knowledge (Battle), Riding, or Throwing (player's choice).
+In addition, he has +1 Persuasion when dealing with officers of centurio rank and above and to promotion rolls because of his father's reputation.
+Should he fail to live up to his father's deeds (GM's discretion), he suffers a -2 penalty to Persuasion until he makes amends.
 
 Equestrian/Patrician (Aristocrat)::
 Requirements:: Novice + 
-Rome’s social elites were Patricians (Senatorials) and Equestrians (knights). 
+Rome's social elites were Patricians (Senatorials) and Equestrians (knights). 
 // (Commoners were called plebians, or plebs).
 Such individuals have +2 to Persuasion trait rolls.
 Most aristocrats have small estates that provide income (in game terms, the character wants for nothing reasonable) and somewhere to go when not on active service. 
@@ -85,35 +89,35 @@ Characters with this Hindrance suffer double Sanity loss.
 On the plus side, they start with a Sanity of +2.
 
 Foreigner (Major / Minor)::
-The character comes from outside the Roman provinces and isn’t a Roman citizen. 
-He can’t be a legionary, but he may serve as a medicus, auxilia, speculatore, or similar character type.
+The character comes from outside the Roman provinces and isn't a Roman citizen. 
+He can't be a legionary, but he may serve as a medicus, auxilia, speculatore, or similar character type.
 As a Minor Hindrance, the Foreigner is a Greek (the only other civilization Rome truly respected).
-He suffers –2 Persuasion with "proper" Romans but begins the game with the ability to speak
+He suffers -2 Persuasion with "proper" Romans but begins the game with the ability to speak
 Latin and his native tongue.
 As a Major Hindrance, the character is from outside Rome or its recognized and civilized)
 provinces. 
-These foreigners have –2 Persuasion with "true" Romans and cannot reroll Persuasion trait rolls.
+These foreigners have -2 Persuasion with "true" Romans and cannot reroll Persuasion trait rolls.
 These characters are often sacrificed by their commanders as diversions, distractions, or to cover the retreat of the legions. 
 All auxilia are therefore Foreigners in a Romano-centric campaign.
-Foreigners of either stripe can’t own slaves or serve in the legions. 
+Foreigners of either stripe can't own slaves or serve in the legions. 
 Besides the disadvantages listed above, Foreigners may be called on to use their local knowledge to serve the Empire, perhaps betraying their own people.
 
 Replacement (Minor)::
 This soldier is fresh to service and still rough around the edges. 
 Not every young man fresh off the farm has this hindrance - only those who take a little longer to adjust to the realities of war.
-The warrior is not dealt an Action Card on the first round of any combat (he’s always "surprised"). 
+The warrior is not dealt an Action Card on the first round of any combat (he's always "surprised"). 
 In addition, he subtracts 2 from Notice rolls made to detect ambushes or booby traps, as well as most Common Knowledge rolls related to military operations.
 The replacement is often assigned the worst duties — latrine detail, punishing slaves, carrying
 water, and so forth.
-Of course, the soldier doesn’t stay new forever.
-After each relatively active month of service, the hero makes a Smarts roll at –2. 
-If the roll is successful, he drops one group of penalties - either the Action Card penalty or the –2 to Notice and Common Knowledge rolls. 
-He may roll again after another active month to rid himself of the other penalty, at which point he’s no longer a replacement.
+Of course, the soldier doesn't stay new forever.
+After each relatively active month of service, the hero makes a Smarts roll at -2. 
+If the roll is successful, he drops one group of penalties - either the Action Card penalty or the -2 to Notice and Common Knowledge rolls. 
+He may roll again after another active month to rid himself of the other penalty, at which point he's no longer a replacement.
 Shirker (Minor)::
 This soldier procrastinates and actively tries to dodge any sort of work, or tries to get someone else to do it for him. 
-When forced into doing something, he attempts to finish whatever he’s doing as quickly as possible.
-Shirkers suffer –2 to Promotion rolls. 
-His reputation for being lazy may not sit well with his companions or superior officers, so he has a –2 to his Persuasion with them.
+When forced into doing something, he attempts to finish whatever he's doing as quickly as possible.
+Shirkers suffer -2 to Promotion rolls. 
+His reputation for being lazy may not sit well with his companions or superior officers, so he has a -2 to his Persuasion with them.
 
 == Setting rules
 
@@ -123,8 +127,8 @@ NOTE: Setting rules for naval combat, sieges, travel, the _tetsudo_ formation, a
 
 === Sanity
 
-Sanity is a derived trait that monitors your character’s mental health and resilience. 
-A soldier’s starting Sanity is 2 plus half his Spirit die
+Sanity is a derived trait that monitors your character's mental health and resilience. 
+A soldier's starting Sanity is 2 plus half his Spirit die
 type unless modified by Edges and Hindrances.
 
 If a character increases his Spirit after character generation, it increases Sanity by one point as
@@ -143,7 +147,7 @@ If a character has at least one point of Sanity and goes two game months without
 He may also spend Spoils to recover Sanity (see <<#sanity_recover,Indulgence>>).
 When Sanity reaches 0, the soldier cannot recover normally. 
 He must spend time in a sanctum of some sort, such as a temple or famous philosopher's home. 
-At the end of each month, he may make a single Smarts roll at –2 (reflecting the primitive stage of psychology in this era). 
+At the end of each month, he may make a single Smarts roll at -2 (reflecting the primitive stage of psychology in this era). 
 If successful, he removes one of his Disorders (see <<#disorder_table>>). 
 If he removes all of his Disorders, he gains a point of Sanity instead and may then recover normally.
 
@@ -160,43 +164,43 @@ Sanity cannot drop below 0, but each time it would, the character suffers a new 
 [cols="30%,70%",options="header"]
 |===
 | d20 | Result
-| 1–3 a| 
+| 1-3 a| 
 Superstitious:: 
 Your character has found something that helps him deal with the terrors he faces. 
 Pick a simple routine or object to be the focus of this disorder. 
 + 
 As long as the focus is undisturbed, this soldier can function normally. 
-If the focus is lost or disturbed his trait rolls are modified by –1 for this mission.
-| 4–6 a| 
+If the focus is lost or disturbed his trait rolls are modified by -1 for this mission.
+| 4-6 a| 
 Thousand-Yard Stare::
-The distant look in this soldier’s eyes speaks volumes about the horrors he's seen. This soldier makes all his Notice rolls at –2.
-| 7–8 a|
+The distant look in this soldier's eyes speaks volumes about the horrors he's seen. This soldier makes all his Notice rolls at -2.
+| 7-8 a|
 Flashbacks:: 
 This legionary is overwhelmed by images of past battles and dead comrades. 
 In combat, images flash through his mind, confusing the past with reality. 
-He must make a Spirit test at –4 or gain the Hesitant hindrance for the remainder of the battle.
-| 9–10 a|
+He must make a Spirit test at -4 or gain the Hesitant hindrance for the remainder of the battle.
+| 9-10 a|
 Distant:: This legionary has been through many units and many comrades in the course of his career. 
 He finds it difficult to form relationships. Viewed as a bit of a wet blanket in the best
-situations, this soldier suffers a –2 penalty to his Persuasion and cannot spend a benny to reroll a Persuasion check.
-| 11–12 a| 
+situations, this soldier suffers a -2 penalty to his Persuasion and cannot spend a benny to reroll a Persuasion check.
+| 11-12 a| 
 Night Terrors:: 
 This character has been traumatized by past events and cannot sleep properly without some kind of sedative. 
 As a result, the individual is permanently tired. 
-When it is important to sleep, a failed Vigor roll (–2) means this character cannot.
-| 13–14 a|
+When it is important to sleep, a failed Vigor roll (-2) means this character cannot.
+| 13-14 a|
 Addiction:: 
 Many legionaries deal with their mental pain and stress with strong wine or other narcotics.
 The character has a Major Habit Hindrance.
-| 15–16 a|
+| 15-16 a|
 The Shakes:: 
-During combat or anytime the character is under stress (determined by the GM) his hands start shaking, reducing all Agility and Agility-related skill rolls by –2.
-| 17–18 a| 
+During combat or anytime the character is under stress (determined by the GM) his hands start shaking, reducing all Agility and Agility-related skill rolls by -2.
+| 17-18 a| 
 Paranoia:: 
 This legionary has seen things in the course of his duty that his superiors have refused to explain. 
 He feels that every unexplained or odd action has a deeper meaning and goes to great lengths to fit them into his skewed perception of the world around him. 
-He gets the Major Delusional hindrance, as well as a –2 to his Persuasion.
-| 19–20 a| 
+He gets the Major Delusional hindrance, as well as a -2 to his Persuasion.
+| 19-20 a| 
 Blood Lust:: 
 Bloody battle has awakened a strange lust within this veteran. 
 He has the Bloodthirsty hindrance and a Minor Habit for killing.
@@ -204,6 +208,7 @@ He has the Bloodthirsty hindrance and a Minor Habit for killing.
 |===
 
 
+// [[awards_honors]]
 === Awards and honors
 The individual battle honors can be won. 
 When any major awards is first granted, the character receives one advance. 
@@ -237,7 +242,7 @@ NOTE: This award is out of reach of most characters.
 // To qualify for this honor, the soldier had to be a legatus (which rules out most characters), have scored a victory over a significant foreign power, and be an elected magistrate. 
 // He also had to bring the army back to Rome, indicating the campaign was over and the legion was no longer required in the engagement. 
 // Should a character be awarded a triumph, he gains a permanent +2 bonus to Charisma, gains +5 Experience Points, draws an additional Benny per session, and makes many powerful friends and enemies.
-// Characters who march in their commander’s triumph draw an additional Benny per session for the next three sessions and gain +2 Charisma for the next month.
+// Characters who march in their commander's triumph draw an additional Benny per session for the next three sessions and gain +2 Charisma for the next month.
 
 ==== Lesser awards
 
@@ -333,7 +338,7 @@ The name comes from the fact that each contubernium shared a single tent when on
 Century (80):: 
 Despite the name, a century was usually formed of 80 actual soldiers and 20
 noncombatant cooks and other servants. 
-Led by a centurio (centurions), it was broken down into 8–10 contuberniums. 
+Led by a centurio (centurions), it was broken down into 8-10 contuberniums. 
 Each century had a _signum_, a standard which served as a rallying point and carried their battle honors.
 Cohort (480):: 
 Six centuries made a cohort, the largest formation within a legion. 
@@ -342,7 +347,7 @@ The first cohort is double strength (800—960 men depending on period), made up
 Legion (5280—6000):: 
 Ten cohorts made a legion. 
 Each legion had a single standard, the _aquila_ (eagle). 
-This carried the legion’s battle honors and was highly revered. 
+This carried the legion's battle honors and was highly revered. 
 Loss of the aquila could lead to the legion being disgraced and disbanded.
 
 == Auxiliaries
@@ -356,7 +361,7 @@ officer.
 
 Specialist troops included engineers, medics, priests, and _speculatores_. 
 They were organized into smaller groups, from a single man or contubernium up to about a century.
-Every legion also had an extensive mule train, with each contubernium having its own mule, on which was loaded the unit’s tent, mill stone, cooking pot, and extra rations.
+Every legion also had an extensive mule train, with each contubernium having its own mule, on which was loaded the unit's tent, mill stone, cooking pot, and extra rations.
 
 Artillery:: 
 A typical legion had one _onager_ (light catapult) per cohort (six per legion) and one _scorpio_ (light ballista) per century (60 per legion). 
@@ -379,7 +384,7 @@ In a cavalry _ala_, a _decurio_ commands 30 men _turma_.
 + 
 This is the highest rank characters can begin the game.
 Tesserarius (60):: 
-Each century had a _tesserarius_, who served as a sergeant of the watch and assistant to the century’s _optio_, taking his place if the optio fell in battle or was sick. 
+Each century had a _tesserarius_, who served as a sergeant of the watch and assistant to the century's _optio_, taking his place if the optio fell in battle or was sick. 
 They are third in command of a century. 
 Optio (60):: 
 Second in command to a _centurio_, and thus the second highest officer within a century. 
@@ -411,7 +416,7 @@ The highest rank within the legion and one appointed by the Emperor or Senate (d
 Not all had military experience, so the camp prefect was often the true military commander. Many legati were provincial governors or consuls, commanding a single legion raised to protect
 that province.
 Legatus Augusti pro Praetore:: 
-An "Imperial Legate" appointed by the Senate or Emperor in charge of multiple legions. He was usually the governor of the legions’ province as well.
+An "Imperial Legate" appointed by the Senate or Emperor in charge of multiple legions. He was usually the governor of the legions' province as well.
 
 
 === Other ranks
@@ -420,7 +425,7 @@ Signifer::
 Standard bearer for a century. 
 His rank put him slightly above that of a legionary, but he had little command authority.
 Aquilifer:: 
-Despite carrying the legion’s standard, he ranked only slightly higher than a _signifer_ (though he earned more).
+Despite carrying the legion's standard, he ranked only slightly higher than a _signifer_ (though he earned more).
 Praefectus:: 
 Commanded an auxilia ala or cohort. 
 He held a rank similar in authority to that of a tribunus and was always a Roman. 
