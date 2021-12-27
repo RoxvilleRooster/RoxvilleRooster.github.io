@@ -1,0 +1,164 @@
+= Campaign Plan for Weird Wars Rome
+:sectnums:
+
+In this story, the heroes slowly discover why the druids performed human sacrifice realize the implications of Rome's long-term campaign against the druids.   
+
+Christianized Britons were preventing the rituals of Satiada, which were keeping Aphoom-Zhah dormant
+
+== McGuffin
+
+strange ice:: 
+* does not melt
+* so cold that it burns
+
+living light::
+* appears as a pillar of white fire
+* moves and destroys with ice and cold
+* link:https://lovecraft.fandom.com/wiki/Aphoom-Zhah[Aphoom-Zhah]
+
+____
+It was a weird light, gray-white in color, and a bizarre sound
+accompanied it, a loud crackling, as if all the trees of the forest were snapping
+before the advance of some immense bulk. The temperature plummeted.
+____
+
+____
+For eons the White Sybils have
+kept the doom of Aphoom-Zhah at bay, and always comes a man, some unworthy priest, to break the people's covenant, and bring the cold death down upon us.
+____
+
+Satiada::
+Old Briton deity footnote:[link:https://en.wikipedia.org/wiki/Satiada[Satiada]]
+
+Crag Lake::
+link:https://en.wikipedia.org/wiki/Crag_Lough[Crag_Lough]
+
+== NPCs
+
+Flavius Priscus:: ambitious young officer out to prove himself 
+Gaius Fabianus:: pretentious officer and politician
+Marcellus Numerius:: aggressive and dashing officer
+Cassius Summanus:: medicus, scholar, and drunkard
+[TBD]:: young and enterprising Briton merchant
+[TBD]:: traveling bard and envoy of the druids 
+Tancorix:: 
+* The White Lady  / The white sybil 
+* mysterious and compelling leader of the Britons;
+* preaches the coming cold death, which is a punishment for the Briton's abandonment of the goddess Satiada;
+* lady of the lake/avalon
+* long red hair, dressed in white linen
+Modius Macula:: retired legionary, hates the cold and damp, bodyguard of the scholar
+Damis of Nineveh:: highly regarded scholar and Pythagorean mystic  footnote:[link:https://en.wikipedia.org/wiki/Pythagoras[Pythagoras]], mystery solver, business partner of Modius, seller of talismans
+Alain:: Bishop of Albion, Christian
+
+
+[appendix]
+== Names 
+
+* Bryhtonic names
+** link:http://www.old-north.co.uk/Holding/celt_personalnames.html[Brythonic Personal Names] (best source)
+** link:https://www.behindthename.com/names/usage/brythonic[Brythonic Names]
+** link:https://www.behindthename.com/names/usage/ancient-celtic[Ancient Celtic Names]
+** link:https://heraldry.sca.org/names/brythonic/brythonic.html[Names of Women of the Brythonic North in the 5-7th Centuries]
+** link:http://www.peiraeuspubliclibrary.com/names/europa/brythonic.html[Celtic Names - Britain, Gaul, and Wales]
+
+
+.British male names
+* Driskell
+* Gildas
+* Taland
+* Aod
+
+
+.British male names
+* Tancorix
+* Cartimandua
+* Cuamenai
+* Annerix
+* Saca
+* Getaxia
+* Brocca
+
+.British tribes/kingdoms
+* link:https://en.wikipedia.org/wiki/Brigantes[Brigantes]
+** link:https://en.wikipedia.org/wiki/Textoverdi[Textoverdi]
+* link:https://en.wikipedia.org/wiki/Carvetii[Carvetii]
+
+
+.Caledonians
+* link:https://en.wikipedia.org/wiki/Vacomagi[Vacomagi]
+* link:https://en.wikipedia.org/wiki/Damnonii[Damnonii]
+* link:https://en.wikipedia.org/wiki/Votadini[Votadini]
+* link:https://en.wikipedia.org/wiki/Novantae[Novantae]
+* link:https://en.wikipedia.org/wiki/Taexali[Taexali]
+* link:https://en.wikipedia.org/wiki/Caledonians[Caledonii]
+* link:https://en.wikipedia.org/wiki/Maeatae[Maeatae]
+
+.Briton kingdoms
+* link:https://en.wikipedia.org/wiki/Brigantia_(ancient_region)[Brigantia]
+** link:https://en.wikipedia.org/wiki/Isurium_Brigantum[Isurium] (Aldborough)
+
+** link:https://en.wikipedia.org/wiki/Ribchester[Bremetennacum Veteranorum] (Ribchester)
+** Mamucium (Manchester)
+** Coccium (Wigan)
+
+* link:https://en.wikipedia.org/wiki/Eboracum[Eboracum] (York)
+** link:https://en.wikipedia.org/wiki/Derventio_Brigantum[Derventio] (Malton), home to "Ala Gallorum Picentiana" auxilia calvary and Hamian (Syrian) archers
+* link:https://en.wikipedia.org/wiki/Luguvalium[Luguvalium] (Carlisle)
+** https://en.wikipedia.org/wiki/Dere_Street[Dere Street] - road that connects York, Catterick, and Carlisle 
+** https://en.wikipedia.org/wiki/Cataractonium[Cataractonium] (Catterick)
+
+
+.Places
+* link:http://www.roman-britain.co.uk/places-of-roman-britain/[Places of Roman Britain]
+
+.Regions
+* link:https://en.wikipedia.org/wiki/Pennines[Pennines]
+
+.Deities
+* link:https://en.wikipedia.org/wiki/Satiada[Satiada]
+* link:https://en.wikipedia.org/wiki/Brigantia_(goddess)[Brigantia] (syncretized with Victoria and Minerva)
+* link:https://en.wikipedia.org/wiki/Cunomaglus[Cunomaglus] (syncretized with Apollo)
+* link:https://en.wikipedia.org/wiki/Sulis[Sulis]  (syncretized with Minerva)
+* link:https://en.wikipedia.org/wiki/Christianity_in_Roman_Britain[Christianity]
+** link:https://en.wikipedia.org/wiki/Joseph_of_Arimathea[Joseph of Arimathea]
+
+== Events
+
+=== Monster in the bath
+
+Inspired by Andi Newton's "Green Water", where a Celtic woman avenges the murder of druids by becoming the monster in the Roman bath at Aquae Sulis.
+
+
+=== Hounds of death
+
+Inspired by William Meikle's "The Hounds of the Dawn", this tale focuses on curse from a Briton against the Romans who killed her people and dishonored her husband.
+
+____
+She raised her hands and began a chant, grotesque malformed words none present but her showed any sign of understanding, coarse, guttural sounds that hung and echoed in the quiet air long after she herself had fallen quiet under the whips and scourges of her guards and was dragged away.
+____
+
+The "hounds" form from a dark mist and, night by night, shred the officer's men and staff.
+
+Can the heroes stop this?
+
+=== Bloodsport
+
+Inspired by Josh Reynolds' "Matched Pairs", focuses on a Briton and a set of gladiators and  criminals set to fight in a aristocrat's personal gladiatorial games.
+The aristocrat has a otherworldly monster that he sets on the gladiators:
+
+____
+It was like nothing Attilus had ever seen - a gargantuan, toad-like shape, elephantine in size, its insectile proboscis surrounded by a forest of writhing tendrils. He thought he glimpsed stubby wings on its back, and its claws were those of some great crustacean. It uttered a painful, whistling shriek as it bounded towards them with frog-like leaps. The ground shook beneath its tread as it approached.
+____
+
+
+=== Down in the pit
+
+Inspired by Glynn Owen Barrass' "The Ruins at Raven's Rock", focuses on unit of legionaries sent to investigate an old "holy" site but instead awaken an ancient cosmic power.
+
+
+=== Sickness
+
+Inspired by John Linwood Grant's "Mothers Of Flesh And Fire", this story focuses on legionaries who brought back a supernatural sickness to the Roman civilization in Eboracum, that was tied to an ancient ane corrupt fertility goddess.
+
+
