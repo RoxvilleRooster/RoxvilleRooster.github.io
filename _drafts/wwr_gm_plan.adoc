@@ -171,3 +171,48 @@ Inspired by Glynn Owen Barrass' "The Ruins at Raven's Rock", focuses on unit of 
 Inspired by John Linwood Grant's "Mothers Of Flesh And Fire", this story focuses on legionaries who brought back a supernatural sickness to the Roman civilization in Eboracum, that was tied to an ancient ane corrupt fertility goddess.
 
 
+== Adventure generator
+
+=== Bridge defense
+
+Operation size::
+8 turmae (256; half an _ala_)
+
+Mission::
+Provide guard and operational support to the legion as they construct a bridge across a river in hostile territory.
+
+Support::
+Experienced legionaries
+
+Enemy force size::
+150% of PCs' force
+
+Complications::
+Bad intelligence.
+The location that was sited as where to build the bridge is unfit/unsuitable. 
+The better location is further into enemy territory and occupied.
+
+Weird event::
+Degenerate locals.
+The local tribe are worshipping dark gods. 
+Scouting will find the following:
+* druids are not openly operating in this area
+* there are queer marks on rocks and trees; these are not druid signs
+* "chaos broos"  
+* "The Ritual" / "Bone Tomahawk"
+* They want to capture and sacrifice the Romans to their dark god  
+
+////
+Operation size::
+
+Mission::
+
+Support::
+
+Enemy force size::
+
+Complications::
+
+Weird event::
+////
+
