@@ -35,7 +35,10 @@ link:https://en.wikipedia.org/wiki/Crag_Lough[Crag_Lough]
 
 == NPCs
 
-Flavius Priscus:: ambitious young officer out to prove himself 
+Gnaeus Antius:: centurion, strem officer, and straight arrow
+Titus Decimus:: _frumentarius_ and agent of the emperor
+Euandros:: Greek, auxilia medicus, scholar, member of the Twilight Legion
+Flavius Priscus:: ambitious young officer out to prove himself (later an imperial pretender)
 Gaius Fabianus:: pretentious officer and politician
 Marcellus Numerius:: aggressive and dashing officer
 Cassius Summanus:: medicus, scholar, and drunkard
@@ -50,7 +53,9 @@ Tancorix::
 Modius Macula:: retired legionary, hates the cold and damp, bodyguard of the scholar
 Damis of Nineveh:: highly regarded scholar and Pythagorean mystic  footnote:[link:https://en.wikipedia.org/wiki/Pythagoras[Pythagoras]], mystery solver, business partner of Modius, seller of talismans
 Alain:: Bishop of Albion, Christian
-
+Pertinax:: senator, former military tribune of Legio VI, and link:https://en.wikipedia.org/wiki/Pertinax[future emperor]
+Claudius Hieronymianus::
+link:https://en.wikipedia.org/wiki/Claudius_Hieronymianus[Legate and commander] of Legio VI in Severus' campaigns against the Caledonii 
 
 [appendix]
 == Names 
@@ -110,6 +115,7 @@ Alain:: Bishop of Albion, Christian
 
 
 .Places
+* link:https://en.wikipedia.org/wiki/Carpow[Carpow] (fort in Scotland from the time of Severus' campaigns) 
 * link:http://www.roman-britain.co.uk/places-of-roman-britain/[Places of Roman Britain]
 
 .Regions
@@ -122,6 +128,9 @@ Alain:: Bishop of Albion, Christian
 * link:https://en.wikipedia.org/wiki/Sulis[Sulis]  (syncretized with Minerva)
 * link:https://en.wikipedia.org/wiki/Christianity_in_Roman_Britain[Christianity]
 ** link:https://en.wikipedia.org/wiki/Joseph_of_Arimathea[Joseph of Arimathea]
+
+
+
 
 == Events
 
