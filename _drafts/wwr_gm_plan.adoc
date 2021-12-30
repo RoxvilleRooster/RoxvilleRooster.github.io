@@ -202,6 +202,30 @@ Scouting will find the following:
 * "The Ritual" / "Bone Tomahawk"
 * They want to capture and sacrifice the Romans to their dark god  
 
+=== Rescue mission
+
+Operation size::
+Contubernium
+
+Mission::
+Liberate allied prisoner(s) from captivity
+Who?;;
+Optio' girlfriend - she was not supposed to mess with the Romans; 
+an overzealous Briton (a jealous boyfriend) has abducted her because she needs to be given over to a dark goddess.
+
+Support::
+Auxilia (skirmishers)
+
+Enemy force size::
+150% size of PCs force
+
+Complications::
+Objective is behind enemy lines in bad terrain
+
+Weird event::
+Dark temple
+
+
 ////
 Operation size::
 
