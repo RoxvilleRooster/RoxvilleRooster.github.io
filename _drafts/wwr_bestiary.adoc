@@ -1,0 +1,20 @@
+= Weird Wars Rome bestiary addenda
+
+== Beast man
+
+Attributes: Agility d8, Smarts d4, Spirit d6, Strength d10, Vigor d10
+Skills: Fighting d8, Intimidation d10, Notice d8, Stealth d10, Survival d10
+Pace: 8; Parry: 6; Toughness: 8 (1)
+Edges: Improved Frenzy
+Gear: Two bone sabers (Str+d8) or bone axe (Str+d8) and Spiked Shield (+1 Parry, -2 Cover, Str+d4+2 damage in Shield Bash)
+Special Abilities
+Armor +1: Shaggy fur.
+Fear (-2): The sight of a beast man terrifies anyone who encounters one.
+Low Light Vision: Beast men ignore penalties for Dim and Dark lighting.
+Goat Feature - Gore: Beasts which move at least 6" can make a Horns attack with +4 damage.
+Horns: Str+d4.
+Infravision: Beasts halve penalties for dark lighting conditions against living targets (round down).
+Lord of the Pack: Every pack is led by the most powerful individual, a Wild Card with Strength, Vigor and Fighting raised by one die type. He can cast the boost trait, protection and sloth/ speed Powers with 10 Power Points, using Spirit as arcane skill.
+// Size +1: Horned Beasts are usually 8 feet tall, horns included.
+Disease: Anyone damaged by a beast's physical attack  who fails a Vigor roll catches a nasty disease. Each day thereafter, the victim must make a Vigor roll or lose one die of Strength and Vigor. If either attribute drops below d4, the victim dies. A Healing roll may be attempted each day to cure the disease. Reduced attributes return at the rate of one die per day.
+// Claws: Str+d4.
