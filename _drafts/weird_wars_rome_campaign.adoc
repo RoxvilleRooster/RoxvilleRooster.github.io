@@ -28,6 +28,8 @@ ____
 The players play a unit of Sarmatian auxiliary cavalry instead of legionaries.footnote:[In the 2004 movie xref:https://en.wikipedia.org/wiki/King_Arthur_(2004_film)[King Arthur], the protagonists were Sarmatian cavalry attached to a Roman legion around 410 CE.]
 As cavalry, they can engage in irregular operations and have some mobility to get into different types of action. 
 
+As _auxilia_, you are one of the _peregrini_, a free provincial subject of the Empire.
+At the end of 25 years of service in the _auxilia_, you are awarded Roman citizenship.
 ****
 
 
