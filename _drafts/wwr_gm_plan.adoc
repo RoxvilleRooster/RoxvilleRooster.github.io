@@ -56,6 +56,8 @@ Alain:: Bishop of Albion, Christian
 Pertinax:: senator, former military tribune of Legio VI, and link:https://en.wikipedia.org/wiki/Pertinax[future emperor]
 Claudius Hieronymianus::
 link:https://en.wikipedia.org/wiki/Claudius_Hieronymianus[Legate and commander] of Legio VI in Severus' campaigns against the Caledonii 
+Ulpius Marcellus:: former consular governor of Britain and later general who repelled a revolt during Commodus' reign; overuse of military discipline; eager to retake the Antonine wall
+link:https://en.wikipedia.org/wiki/Ulpius_Marcellus[Ulpius Marcellus]
 
 [appendix]
 == Names 
@@ -240,3 +242,29 @@ Complications::
 Weird event::
 ////
 
+== Looking for game post
+
+
+Campaign Name:: Weird Wars Rome - Beyond Hadrian's Wall
+GM:: Andy 
+Number of Players:: 1 out of 5
+System:: Savage Worlds (SWADE)
+Time:: 8:00 PM EST Wednesdays
+Elevator Pitch:: 
+You are soldiers in an auxiliary cavalry cohort (_ala quingenaria_) stationed near Hadrian's wall near the close of the 2nd century AD. 
+
+Commodus, a dissolute emperor rules from Rome and claims the name Britannicus for himself.
+The army has grown undisciplined and mutinous.
+North of Hadrian's wall, the tribal peoples stir. 
+To the south years of rule and subjugation cast a long shadow.
+In these shadows, dark beings rise up; in the twilight of the fading empire, the heroes do what they must.     
+
+You and your fellows are members of the same _contubernium_ (8-man tent group).
+
+This is a game of horror and war, not high fantasy.
+Sources from _Cthulhu Invictus_ will influence the adventures. 
+The player characters are mortal and, while they have seen at least some of the the horrors of war and the empire, there are even greater horrors. 
+
+Execution, torture, and human sacrifice are not uncommon in this setting but this is not something I want players to dwell on.   
+
+Experience with Savage Worlds is an asset but new players are welcome.
