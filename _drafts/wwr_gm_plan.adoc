@@ -250,21 +250,22 @@ GM:: Andy
 Number of Players:: 1 out of 5
 System:: Savage Worlds (SWADE)
 Time:: 8:00 PM EST Wednesdays
-Elevator Pitch:: 
-You are soldiers in an auxiliary cavalry cohort (_ala quingenaria_) stationed near Hadrian's wall near the close of the 2nd century AD. 
 
-Commodus, a dissolute emperor rules from Rome and claims the name Britannicus for himself.
+=== Elevator Pitch 
+Commodus, a dissolute emperor rules from Rome and claims the name Britannicus.
 The army has grown undisciplined and mutinous.
-North of Hadrian's wall, the tribal peoples stir. 
-To the south years of rule and subjugation cast a long shadow.
-In these shadows, dark beings rise up; in the twilight of the fading empire, the heroes do what they must.     
+North of Hadrian's wall, tribal peoples stir; to the south, years of rule and subjugation cast a long shadow.
+In these shadows, dark beings rise up. In the twilight of the fading empire, the heroes do what they must.     
 
-You and your fellows are members of the same _contubernium_ (8-man tent group).
+You are a soldier in an auxiliary cavalry cohort (_ala quingenaria_) stationed near Hadrian's wall at the close of the 2nd century AD. 
+You and your fellows are members of the same contubernium (8-man tent group).
 
-This is a game of horror and war, not high fantasy.
+This is a game of horror and war, not high fantasy. 
+The tone is more grim and gritty than pulpy and silly.
 Sources from _Cthulhu Invictus_ will influence the adventures. 
 The player characters are mortal and, while they have seen at least some of the the horrors of war and the empire, there are even greater horrors. 
 
 Execution, torture, and human sacrifice are not uncommon in this setting but this is not something I want players to dwell on.   
 
 Experience with Savage Worlds is an asset but new players are welcome.
+We'll use Discord for voice communications.
