@@ -41,6 +41,14 @@ Use the Weird Wars Rome setting in https://savaged.us/.
 
 Sanity is a derived trait, which functions as mental toughness. See <<#_sanity>>.
 
+Requirements;; Foreigner, Riding d6+, Fighting d6+
+
+=== Gear
+
+Members of the _auxilia_ cavalry have the following standard equipment.  
+
+Equipment;; Scale mail, metal helmet, hasta (spear) and clipeus (small shield), spatha (long sword), riding horse w/scale barding.
+
 === Edges
 
 The following edges are not available to player characters in this setting (though some
@@ -400,7 +408,8 @@ Each century of a legion is  commanded by a _centurio_, though select individual
 Like modern day sergeants, they were the backbone of the army, handling the day-to-day running
 of the legion as well as commanding men in the field. 
 Many were appointed through the ranks, meaning they were excellent soldiers who already had the loyalty of their men, but some were appointed to the post by a higher power, which did not always sit well with the men they commanded.
-For the auxiliary cavalry _alae_ units, a _turma_ of 32 men was commanded by a _decurio_, which is the relative equivalent of a _centurio_.
+For the auxiliary cavalry _alae_ units, a _turma_ of about 30 men was commanded by a _decurio_, which is the relative equivalent of a _centurio_.
+See link:https://en.wikipedia.org/wiki/Decurion_(Roman_cavalry_officer)[Decurion].
 Primus Ordino (5):: 
 The five centurios in charge of the second to sixth centuries of the first cohort held the title primi ordines.
 Pilus Prior (9):: 
