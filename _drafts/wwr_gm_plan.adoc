@@ -35,34 +35,112 @@ link:https://en.wikipedia.org/wiki/Crag_Lough[Crag_Lough]
 
 == NPCs
 
-Gnaeus Antius:: centurion, sterm officer, and straight arrow
-Titus Decimus:: _frumentarius_ and agent of the emperor
-Euandros:: Greek, auxilia medicus, scholar, member of the Twilight Legion
-Flavius Priscus:: ambitious young officer out to prove himself (later an imperial pretender)
+Gnaeus Antius:: centurion, stern officer, and straight arrow; studious; mocked for being a more clerk than soldier
+Description and mannerisms;;
+Studious. 
+Most often seen behind a desk, accompanied by his slave.
+Thinking curly black hair.
+Constantly takes notes of things others say, or what happens around.
+Favors a conciliatory and peaceful approach.
+Titus Decimus:: _frumentarius_ and agent of the emperor; ruthless and driven
+Description and mannerisms;;
+Shifts eyes between every person in the room, in an attempt to show dominance with all.
+Badass scar over eye.
+Euandros:: Greek, _auxilia medicus_, scholar, member of the Twilight Legion
+Description and mannerisms;;
+Talks with his hands.
+Paces when talking.
+Flavius Priscus:: ambitious young officer out to prove himself 
+Description and mannerisms;;
+Dark-skinned and African complexion.
+Closely cropped black hair and a well-tended black beard.
+Compact frame with strong limbs.
+Intelligent and curious eyes.
+A born soldier.
 Gaius Fabianus:: pretentious officer and politician
-Marcellus Numerius:: aggressive and dashing officer
-Cassius Summanus:: medicus, scholar, and drunkard
-[TBD]:: young and enterprising Briton merchant
-[TBD]:: traveling bard and envoy of the druids 
+Description and mannerisms;;
+Always appears on the verge of yawning.
+Handsome.
+Pale skin.
+Trim and confident.
+Marcellus Numerius:: aggressive and dashing officer; ruthless; wants to make a name for himself and move on to more active posts
+Description and mannerisms;;
+Intense eyes. 
+Does not break eye contact.
+Cheeks are pockmark scarred.
+Always using his outdoor voice.
+Cassius Summanus:: medicus, scholar, herbalist, and painkiller addict
+Description and mannerisms;;
+Long fingers and large feet.
+Long arms, short legs, and a barrel-shaped chest gives him an ape-like appearance.
+Thick head of close-cropped silvering black, curly hair.  
+Awen:: young and enterprising Briton merchant; widow of a Roman merchant 
+Description and mannerisms;;
+Her hair is a mane of lush chestnut.
+Missing her right ear; the removed ear is covered by the way she wears her hair.
+Imposing and curt.
+Madien:: traveling bard and envoy of the druids
+Description and mannerisms;;
+Refined attire.
+Clean shaven in the Roman style.
+Wears his long brown hair in braids.
+Welcoming and gregarious.
+Galcagus:: Caledonian chieftain and opponent of Rome; descendant of link:https://en.wikipedia.org/wiki/Calgacus[Calgacus]
+Description and mannerisms;;
+Short, stout, and athletic.
+Hairy arms.
+Battle scarred.
+Generally laconic.
 Tancorix:: 
 * The White Lady  / The white sybil 
 * mysterious and compelling leader of the Britons;
 * preaches the coming cold death, which is a punishment for the Briton's abandonment of the goddess Satiada;
 * lady of the lake/avalon
-* long red hair, dressed in white linen
+Description and mannerisms;;
+Lithe.
+Striking green eyes.
+Long red hair.
+Dresses in white linen.
+Melodious voice.
+Thick and unusual accent. 
 Modius Macula:: retired legionary, hates the cold and damp, bodyguard of the scholar
+Description and mannerisms;;
+Short, black hair.
+Fit and athletic.
+Carries himself with the confidence of a skilled fighting man.
+Laconic and observant.
 Damis of Nineveh:: highly regarded scholar and Pythagorean mystic  footnote:[link:https://en.wikipedia.org/wiki/Pythagoras[Pythagoras]], mystery solver, business partner of Modius, seller of talismans
+Description and mannerisms;;
+Bushy eyebrows and grey beard.
+Large brown and intelligent eyes.
+Burn scars on his left hand.
+Stiff and arthritic but does not complain.
 Alain:: Bishop of Albion, Christian
+Description and mannerisms;;
+Tonsured black hair.
+Pinched face with a trimmed beard.
+Tall and thin with long, bony fingers.
 Lucius Ulpius Marcellus:: former consular governor of Britain (c. 178 - c. 184) and later general who repelled a revolt during Commodus' reign; overuse of military discipline; eager to retake the Antonine wall
 link:https://en.wikipedia.org/wiki/Ulpius_Marcellus[Ulpius Marcellus]
 // Marcellus undertook punitive raids north of the border and may have attempted to reoccupy the Antonine Wall. However, he ultimately withdrew to Hadrian's Wall and probably concluded treaties with the relevant tribes. 
+Description and mannerisms;;
+TBD
 Marcus Antius Crescens Calpurnianus::
 Senator and acting governor of Britain (c. 185)
 link:https://en.wikipedia.org/wiki/Marcus_Antius_Crescens_Calpurnianus[Marcus Antius Crescens Calpurnianus]
+Description and mannerisms;;
+TBD
 Publius Helvius Pertinax:: senator, former military tribune of Legio VI, governor of Britain (185-187), and link:https://en.wikipedia.org/wiki/Pertinax[future emperor]
 Claudius Hieronymianus::
 link:https://en.wikipedia.org/wiki/Claudius_Hieronymianus[Legate and commander] of Legio VI in Severus' campaigns against the Caledonii 
 Decimus Clodius Albinus:: Governor of Britain (c. 191 - c. 197), Roman imperial pretender between 193 and 197; link:https://en.wikipedia.org/wiki/Clodius_Albinus[Clodius Albinus]
+Virius Lupus::
+Governor of Britain (c. 197); link:https://en.wikipedia.org/wiki/Virius_Lupus[Virius Lupus]
+
+
+****
+link:https://en.wikipedia.org/wiki/List_of_governors_of_Roman_Britain[List of governors of Roman Britain]
+****
 
 [appendix]
 == Names 
@@ -150,6 +228,7 @@ Decimus Clodius Albinus:: Governor of Britain (c. 191 - c. 197), Roman imperial 
 * link:https://en.wikipedia.org/wiki/Balnageith[Balnageith] - marching camp, Severan invasion
 * link:https://en.wikipedia.org/wiki/Ythan_Wells[Ythan_Wells] - marching camp
 * link:https://en.wikipedia.org/wiki/Bothwellhaugh_Roman_Fort[Bothwellhaugh]
+* link:https://en.wikipedia.org/wiki/Ardoch_Roman_Fort[Ardoch]
 
 .Gask Ridge
 ====
@@ -158,6 +237,8 @@ image::https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gask_Ridge.jpg/
 Flavian-era fortifications along the link:https://en.wikipedia.org/wiki/Gask_Ridge[Gask Ridge]
 ====
 
+.Other places of interest
+* link:https://en.wikipedia.org/wiki/Burnswark_Hill[Burnswark Hill] - siege during the Antonine period
 
 .Roman forts and camps in Scotland
 ====
