@@ -233,6 +233,27 @@ Scouting will find the following:
 * "The Ritual" / "Bone Tomahawk"
 * They want to capture and sacrifice the Romans to their dark god  
 
+=== Siege support
+
+Operation size::
+3-4 _turmae_
+
+Mission::
+Reconnoiter enemy fortification; support siege; chase down fleeing enemy
+
+Support::
+Legionaries
+
+Enemy force size::
+Roughly equal
+
+Complications::
+* Terrain where escapees go is problematic for cavalry (dense forest)
+* Ambitious officer puts heroes in harms wasy because he favors the legionaries 
+
+Weird event::
+Cursed by wife of chief after capture
+
 === Rescue mission
 
 Operation size::
@@ -280,7 +301,9 @@ Number of Players:: 1 out of 5; experience with Savage Worlds is an asset but ne
 Characters:: Customize your character based on an archetype
 Requirements:: Computer and microphone
 System:: Savage Worlds Adventure Edition (SWADE)
-Time:: #7:30 PM EST Wednesdays, sessions typically last 3 hours#
+Time::
+10 AM EST Saturdays, sessions typically last 2.5 hours 
+// #7:30 PM EST Wednesdays, sessions typically last 3 hours#
 Platform:: Discord for voice, Roll20 for VTT
 Notes:: Looking for mature players who can commit to show up for session. 
 Mature Content (18+)::  
