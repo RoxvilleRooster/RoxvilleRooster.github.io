@@ -35,7 +35,7 @@ link:https://en.wikipedia.org/wiki/Crag_Lough[Crag_Lough]
 
 == NPCs
 
-Gnaeus Antius:: centurion, strem officer, and straight arrow
+Gnaeus Antius:: centurion, sterm officer, and straight arrow
 Titus Decimus:: _frumentarius_ and agent of the emperor
 Euandros:: Greek, auxilia medicus, scholar, member of the Twilight Legion
 Flavius Priscus:: ambitious young officer out to prove himself (later an imperial pretender)
@@ -53,11 +53,16 @@ Tancorix::
 Modius Macula:: retired legionary, hates the cold and damp, bodyguard of the scholar
 Damis of Nineveh:: highly regarded scholar and Pythagorean mystic  footnote:[link:https://en.wikipedia.org/wiki/Pythagoras[Pythagoras]], mystery solver, business partner of Modius, seller of talismans
 Alain:: Bishop of Albion, Christian
-Pertinax:: senator, former military tribune of Legio VI, and link:https://en.wikipedia.org/wiki/Pertinax[future emperor]
+Lucius Ulpius Marcellus:: former consular governor of Britain (c. 178 - c. 184) and later general who repelled a revolt during Commodus' reign; overuse of military discipline; eager to retake the Antonine wall
+link:https://en.wikipedia.org/wiki/Ulpius_Marcellus[Ulpius Marcellus]
+// Marcellus undertook punitive raids north of the border and may have attempted to reoccupy the Antonine Wall. However, he ultimately withdrew to Hadrian's Wall and probably concluded treaties with the relevant tribes. 
+Marcus Antius Crescens Calpurnianus::
+Senator and acting governor of Britain (c. 185)
+link:https://en.wikipedia.org/wiki/Marcus_Antius_Crescens_Calpurnianus[Marcus Antius Crescens Calpurnianus]
+Publius Helvius Pertinax:: senator, former military tribune of Legio VI, governor of Britain (185-187), and link:https://en.wikipedia.org/wiki/Pertinax[future emperor]
 Claudius Hieronymianus::
 link:https://en.wikipedia.org/wiki/Claudius_Hieronymianus[Legate and commander] of Legio VI in Severus' campaigns against the Caledonii 
-Ulpius Marcellus:: former consular governor of Britain and later general who repelled a revolt during Commodus' reign; overuse of military discipline; eager to retake the Antonine wall
-link:https://en.wikipedia.org/wiki/Ulpius_Marcellus[Ulpius Marcellus]
+Decimus Clodius Albinus:: Governor of Britain (c. 191 - c. 197), Roman imperial pretender between 193 and 197; link:https://en.wikipedia.org/wiki/Clodius_Albinus[Clodius Albinus]
 
 [appendix]
 == Names 
@@ -117,7 +122,9 @@ link:https://en.wikipedia.org/wiki/Ulpius_Marcellus[Ulpius Marcellus]
 
 
 .Places
-* link:https://en.wikipedia.org/wiki/Carpow[Carpow] (fort in Scotland from the time of Severus' campaigns) 
+* link:https://en.wikipedia.org/wiki/Carpow[Carpow] (fort in Scotland from the time of Severus' campaigns)
+* link:https://en.wikipedia.org/wiki/Cawdor_(Roman_fort)[Cawdor] - fort
+* link:https://en.wikipedia.org/wiki/Trimontium_(Newstead)[Trimontium] - fort
 * link:http://www.roman-britain.co.uk/places-of-roman-britain/[Places of Roman Britain]
 
 .Regions
@@ -132,8 +139,30 @@ link:https://en.wikipedia.org/wiki/Ulpius_Marcellus[Ulpius Marcellus]
 ** link:https://en.wikipedia.org/wiki/Joseph_of_Arimathea[Joseph of Arimathea]
 
 
+.Roman forts and camps in Scotland
+* link:https://en.wikipedia.org/wiki/Normandykes[Normandykes] - marching camp, Severan invasion
+* Balmakewan 
+* link:https://en.wikipedia.org/wiki/Bellie[Bellie] - camp 
+* link:https://en.wikipedia.org/wiki/Raedykes[Raedykes] - marching camp
+* link:https://en.wikipedia.org/wiki/Stracathro[Stracathro] - marching camp 
+* link:https://en.wikipedia.org/wiki/Deers_Den[Deers Den] - likely tied to the Severan invasion
+* link:https://en.wikipedia.org/wiki/Battledykes[Battledykes] - marching camp, Severan invasion
+* link:https://en.wikipedia.org/wiki/Balnageith[Balnageith] - marching camp, Severan invasion
+* link:https://en.wikipedia.org/wiki/Ythan_Wells[Ythan_Wells] - marching camp
+* link:https://en.wikipedia.org/wiki/Bothwellhaugh_Roman_Fort[Bothwellhaugh]
+
+.Gask Ridge
+====
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gask_Ridge.jpg/880px-Gask_Ridge.jpg[]
+
+Flavian-era fortifications along the link:https://en.wikipedia.org/wiki/Gask_Ridge[Gask Ridge]
+====
 
 
+.Roman forts and camps in Scotland
+====
+image:https://upload.wikimedia.org/wikipedia/commons/2/2d/RomanFortsNorthernScotland.gif[]
+====
 == Events
 
 === Monster in the bath
