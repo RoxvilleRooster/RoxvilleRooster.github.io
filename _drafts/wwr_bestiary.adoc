@@ -1,6 +1,330 @@
-= Weird Wars Rome bestiary addenda
+= Weird Wars Rome bestiary
+:hardbreaks:
+:toc: auto
+:toclevels: 3
 
-== Beast man
+== Animals
+
+=== Boar
+A big, ill-tempered, feral hog. These animals are the descendants of domestic pigs that were released or escaped into the wild.
+
+Attributes: Agility d6, Smarts d4 (A), Spirit d12, Strength d8, Vigor d10
+Skills: Athletics d6, Fighting d6, Notice d6
+Pace: 6; Parry: 5; Toughness: 7
+Edges: Berserk
+Special Abilities
+Hardy: A second Shaken result does not cause a Wound to a wild boar.
+Tusks: Str+d4, may charge
+
+
+=== Bear
+Larger ursines, such as grizzlies, Kodiaks, and polar bears. A favored tactic of all these bears is to grapple and bite with their fierce fangs.
+
+Attributes: Agility d6, Smarts d6 (A), Spirit d8, Strength d12+2, Vigor d12
+Skills: Athletics d8, Fighting d8, Notice d8, Stealth d8
+Pace: 8; Parry: 6; Toughness: 10
+Edges: Brute
+Special Abilities
+Bite/Claws: Str+d6.
+Size 2: These creatures can stand up to 8' tall and weigh over 1,000 pounds.
+
+=== Dire Wolf
+Dire wolves are very large and feral canines. They may also be found roaming in packs in the deepest, darkest woods.
+
+Attributes: Agility d8, Smarts d4 (A), Spirit d6, Strength d8, Vigor d8
+Skills: Athletics d8, Fighting d8, Intimidation d8, Notice d6, Stealth d8
+Pace: 10; Parry: 6; Toughness: 6
+Edges: Alertness
+Special Abilities
+Bite: Str+d6.
+Speed: d10 running die.
+
+  
+=== Dog / Wolf
+The stats below are for large dogs as well as wolves, hyenas, and the like.
+
+Attributes: Agility d8, Smarts d6 (A), Spirit d6, Strength d6, Vigor d6
+Skills: Athletics d8, Fighting d6, Notice d10, Stealth d8
+Pace: 8; Parry: 5; Toughness: 4
+Edges: Alertness
+Special Abilities
+Bite: Str+d4.
+Size -1: The heads of these canines come to an average human's waist, and they weigh about 60 pounds.
+Speed: d10 running die.
+
+=== Dog of war
+
+The Britons, Gauls, and Germans use vicious hounds trained to attack men.
+
+Attributes: Agility d8, Smarts d6 (A), Spirit d6, Strength d6, Vigor d6
+Skills: Athletics d8, Fighting d6, Notice d10, Stealth d8, Survival d8
+Pace: 8; Parry: 5; Toughness: 4
+Edges: Alertness
+Special Abilities
+Bite: Str+d4.
+Size -1: The heads of these canines come to an average human's waist, and they weigh about 60 pounds.
+Speed: d10 running die.
+Go for the Throat: War dogs are trained to go for an opponent's soft spots. With a raise on its attack roll, it hits the target’s most weakly armored location.
+
+
+
+
+
+=== Horse, War
+War horses are large beasts trained for aggression. They are trained to fight with both hooves, either to their front or their rear.
+
+Attributes: Agility d6, Smarts d4 (A), Spirit d6, Strength d12+2, Vigor d10
+Skills: Athletics d6, Fighting d8, Notice d6
+Pace: 8; Parry: 6; Toughness: 10
+Edges: Fleet-Footed.
+Special Abilities
+Kick: Str+d4, to the front or rear as desired.
+Size 3: Warhorses are large creatures bred for their power and stature.
+
+
+=== Horse
+Riding horses compromise speed with carrying capacity.
+
+Attributes: Agility d8, Smarts d4 (A), Spirit d6, Strength d12, Vigor d8
+Skills: Athletics d8, Fighting d4, Notice d6
+Pace: 12; Parry: 4; Toughness: 8
+Edges: Fleet-Footed.
+Special Abilities
+Kick: Str+d4, to the front or rear as desired.
+Size 2: Typical quarter horse of about 1000 lbs.
+
+
+=== Swarm
+ The swarm described here can be of most anything-from biting ants to stinging wasps to filthy rats. They cover an area equal to a Large, Medium, or Small Blast Template and attack everyone within it every round. When a swarm is Incapacitated it’s effectively dispersed.
+
+Attributes: Agility d10, Smarts d4 (A), Spirit d12, Strength d8, Vigor d10
+Skills: Notice d6
+Pace: 10; Parry: 4; Toughness: 7
+Edges: -
+Special Abilities
+Bite or Sting: Swarms inflict hundreds of tiny bites every round to their victims, hitting automatically and causing 2d4 damage to everyone in the template. Damage is applied to the least armored location (victims in completely sealed suits are immune).
+Split: Some swarms split into two smaller swarms when Wounded (GM's call). Reduce the Blast Template one size after a Wound; Small swarms are destroyed.
+Swarm: Parry +2. Because the swarm is composed of scores, hundreds, or thousands of creatures, cutting and piercing weapons do no real damage. Area effect weapons work normally, and a character can stomp to inflict his damage in Strength each round. Some swarms (bees, hornets, birds) may be foiled by total immersion in water.
+
+
+== Supernaturals
+
+=== Banshee
+Banshees are female spirits who appear as maidens, matrons, or crones. Their long nails may be able to tear through flesh, but their most feared power is their terrible keening, which can drive a man mad.
+
+Attributes: Agility d6, Smarts d6, Spirit d8, Strength d6, Vigor d8
+Skills: Fighting d6, Notice d8, Stealth d6
+Pace: 6; Parry: 5; Toughness: 8
+Special Abilities
+Claws: Str+d4.
+Scream: Once per night, and again anytime a banshee draws a Joker in combat, it may elicit the banshee's trademark scream. Anyone within 12" (24 yards) must make a Spirit roll or die. Those who are successful automatically lose one point of Sanity and are Shaken.
+Undead: +2 Toughness; +2 to recover from being Shaken; no additional damage from called shots; immune to disease and poison; does not suffer wound penalties.
+
+
+=== Bog Men
+As far back as the Stone Age, the Celts and Germanic tribes of Britannia and Northern Europe threw human sacrifices in dark bogs. Over the centuries, the peat rich waters of the bogs mummified the bodies, turning their skin hard and black, glistening with an unholy pallor. Lengths of rope, used to strangle them in life, and broken spear points, used to impale them, protrude from their blackened corpses.
+
+Attributes: Agility d8, Smarts d6, Spirit d10, Strength d8, Vigor d8
+Skills: Fighting d8, Notice d8, Stealth d12
+Pace: 4; Parry: 6; Toughness: 8
+Special Abilities
+Burrow: Bog men move through water and boggy soil at Pace 6. When they erupt from the ground, victims must make a Notice roll opposed by the bog man's Stealth. If the creature wins, it gains +2 to attack and damage that round, or +4 with a raise.
+Slam: Str.
+Strangle/Drown: Bog men usually attack by grappling their foes, inflicting Str damage each round. If their slam attack is a raise, however, they have grasped their foe around the neck or dragged them underwater. Victims must make a Vigor roll each round on the bog person's Action Card (a free action) or suffer a level of Fatigue. This can lead to Death.
+Thermal Vision: Bog people have no eyes, just sunken pits, yet they can locate victims with ease. They suffer no penalties during the day, and halve all Darkness penalties.
+Undead: +2 Toughness; +2 to recover from being Shaken; no additional damage from called shots; immune to disease and poison; does not suffer wound penalties.
+Weakness (Fire): Bog bodies are infused with peat-saturated water and take +4 damage from fire.
+
+
+=== Fog Of War
+“Friendly fire” is present in every conflict, but more so during Rome’s frequent civil wars, when legionaries on both sides wear exactly the same armor. While much of it can be chalked up to the confusion inherent in battle, the fiendish creature known as the fog of war certainly does its best to facilitate such tragedies. In its natural form, a fog of war is a cloud of gray mist filling a Small Burst Template. Occasionally, the faces of pained and dying soldiers from various wars may appear fleetingly in the smoky form, psychic impressions left from previous victims. The fog of war is able to alter its form into nearly any shape of equal volume when the need arises. These sentient killers sow paranoia, fear, and confusion in an effort to promote friendly fire. They do this through subtle means, such as depriving troops of sleep and putting them on edge, altering perceptions with magical abilities, or simply dominating an officer to order an action leading to fratricide. Fogs of war find glee in such senseless and unfortunate deaths.
+
+Attributes: Agility d4, Smarts d6, Spirit d8, Strength d4, Vigor d8
+Skills: Notice d6, Persuasion d8, Stealth d10
+Pace: 6; Parry: 2; Toughness: 6
+Special Abilities
+Domination: A fog of war attacks victims simply by engulfing it within its foggy tendrils. Any creature caught inside must make a Vigor roll each round to avoid inhaling. Those who do are subject to domination by the fog of war. This works like the puppet spell, with the fog's Spirit replacing the arcane skill roll. The Duration of this power is variable. So long as the victim remains within the fog, he is subject to the power. Once he leaves, it lasts for 10 rounds.
+Gaseous Form: As a result of its insubstantial nature, the creature suffers half damage from all forms of damage. It can pass through small holes or narrow openings. It can't enter water or other liquid.
+Illusions: A fog of war can create minor illusions of sight and sound with a successful Spirit roll opposed by the target's Smarts. Illusions have no physical form, and are used simply to confuse, startle, or disorient victims.
+Powers: A fog of war can use the obscure, speak language, and telekinesis powers using its Spirit as its arcane skill. It has unlimited Power Points.
+Weaknesses: Strong winds or rain quickly disperse the fog (1d4 rounds).
+
+=== Fury
+A fury forms from the tumult of frenzied activity found on battlefields where hand to hand combat takes place. The frenetic action, fear, rage, and death cause a whirling cloud of battlefield debris to form. This swirling mass of swords, spears, bits of armor, and even blood-soaked body parts rises up from the heaviest fighting and moves along the battle lines, attacking each side indiscriminately. In truly huge battles, several furies can form in different spots across the battlefield. Once the passions of combat subside, the fury will settle to the ground, becoming indistinguishable from the detritus of war.
+
+Attributes: Agility d6, Smarts d6, Spirit d10, Strength d6, Vigor d12
+Skills: Fighting d6
+Pace: 6; Parry: 7; Toughness: 10
+Special Abilities
+Fear: A tornado of weapons, armor, and body parts is terrifying to behold.
+Fearless: Immune to Fear and Intimidation.
+Storm of Steel: A fury fills a Small Burst Template with whirling bits of flying debris. Each turn it moves a full Pace across a battlefield increases its size by a larger Burst Template. Any character in the template is attacked by the fury for 2d6 damage. Furies will not attack anyone who goes prone, however.
+Swarm: Parry +2. The fury consists of scores of broken weapons, armor, and body parts. Cutting and piercing weapons do half damage. Area-effect weapons work normally.
+Weakness (Magic): Magical weapons (including those blessed by smite spells and the like) do full normal damage.
+Weakness (Test of Fury): Mighty warriors or pious holy men can attempt to absorb the fury's energy into themselves. With a raise on an opposed Spirit roll, the fury’s energy is dispersed.
+
+=== Ghost
+Specters, shades, and phantoms sometimes return from death to haunt the living or fulfill some unfinished business.
+
+Attributes: Agility d6, Smarts d6, Spirit d10, Strength d6, Vigor d6
+Skills: Athletics d6, Common Knowledge d8, Fighting d6, Intimidation d12, Notice d12, Stealth d12, Taunt d10
+Pace: 6; Parry: 5; Toughness: 5
+Edges: -
+Gear: Thrown objects (Str+d4).
+Special Abilities
+Ethereal: Ghosts are invisible and immaterial at will and can only be harmed by magical attacks.
+Fear (−2): Ghosts cause Fear checks at −2 when they let themselves be seen.
+
+
+
+
+=== Hate
+A hate is formed when multiple souls suffer a collective fate. They are most commonly found on battlefields, at scenes of massacres, and in death camps. When the bodies of the victims die, their souls flock to form a mass of swirling, screaming spirits. Hates are filled only with thoughts of vengeance. Although initially they target those who oppressed them in life, their desire for revenge can never be truly sated, and any living creature becomes suitable prey.
+
+Attributes: Agility d6, Smarts d6, Spirit d10, Strength d6, Vigor d10
+Skills: Notice d6
+Pace: 6; Parry: 4; Toughness: 7
+Special Abilities
+Fear: Within a hate can be seen the leering faces of the vengeful dead.
+Fearless: Immune to Fear and Intimidation.
+Immunity: Hates cannot be harmed by physical weapons.
+Rage: A hate fills a Large Burst Template. Any character in the template must make an opposed Spirit roll. Failure means the victim goes berserk (as the Edge) and launches a violent attack against the nearest character, friend or foe. Victims may attempt to break free (another opposed Spirit roll) on their action each round.
+Swarm: Parry +2. The hate is composed of scores of souls, cutting and piercing weapons do no real damage. Area-effect weapons work normally.
+Weakness: Magical weapons (including those blessed by smite spells and the like) do full normal damage. They are also vulnerable to weapons taken from the dead of a battlefield in which the hates were created.
+
+=== Husk
+A husk is created when a person dies of extreme heat or cold. A husk’s skin dries and shrivels, becoming tough and leathery. Its eyes sink into its sockets and blood is the only thing that can sustain it. Husks are instinctive predators and very cunning. They may stake out a desert oasis or warm spring, the water useless to them, but a draw for their human prey. They may also stalk a convoy or caravan, hoping to pick off any stragglers.
+
+Attributes: Agility d6, Smarts d6, Spirit d8, Strength d6, Vigor d8
+Skills: Climbing d6, Fighting d8, Notice d6, Stealth d8
+Pace: 6; Parry: 6; Toughness: 8
+Special Abilities
+Bite/Claw: Str+d4.
+Environmental Protection: Husks ignore all damage from heat or cold-based attacks.
+Frenzy: Husk may make two attacks at –2.
+Level Headed: Husks get two Action Cards and act on the best.
+Undead: +2 Toughness; +2 to recover from being Shaken; no additional damage from called shots; immune to disease and poison; does not suffer wound penalties.
+
+
+=== Sluagh
+The sluagh is a horde of evil spirits that manifests itself as a flock of large, black, crow-like birds. Their only goal is to capture and devour the souls of the dying, which means a battlefield is something of an all-you-can-eat buffet for them. Although they usually appear on battlefields, they may sometimes attack lone humans and peck them to death.
+
+Attributes: Agility d8, Smarts d4 (A), Spirit d8, Strength d10, Vigor d10
+Skills: Notice d8
+Pace: -; Parry: 4; Toughness: 7
+Special Abilities
+Bite/Claw: Sluagh attack everyone within the flock every round, hitting automatically for 2d4 damage. Characters inside solid buildings are immune. Light cover, like a tent or canvas tarp, is shredded and rendered useless in three rounds.
+Destabilization: If the sluagh pass over an Incapacitated victim, he must make a Vigor roll at –2 or perish.
+Fly: Pace 12, Climb 3.
+Low Light Vision: Sluagh ignore the penalties for Dim and Dark lighting.
+Swarm: +2 Parry. Sluagh attack in flocks of up to 100 birds. These flocks are treated as an individual creature the size of a Medium Burst Template. The flock can only be harmed by area effect attacks. A Wound disperses the flock.
+
+=== Werebear
+Certain British warriors, blessed by their dark gods through bloody rituals, have the power to transform into man/bear hybrids. They do not pass on their bloodline through their attacks, nor are they immune to mundane weapons.
+
+Attributes: Agility d8, Smarts d6, Spirit d8, Strength d12+6, Vigor d12+2
+Skills: Athletics d10, Fighting d12, Intimidation d10, Notice d12, Stealth d8, Survival d8
+Pace: 6; Parry: 8; Toughness: 11
+Edges: Alertness, Combat Reflexes, Sweep
+Special Abilities
+Bear Hug: A werebear that hits with a raise has pinned his foe and may bite at +2 until the foe is freed. The opponent may only attempt to escape the hug on his action, which requires a raise on an opposed Strength roll.
+Bite/Claws: Str+d8.
+Low Light Vision: Werebears ignore penalties for Dim and Dark lighting.
+Shapechanger: Werebears can change between their human and man/bear hybrid forms as a normal action by making a Vigor roll at +2. With a normal success, they can't take any other actions that round, including movement. With a raise, they can take other actions as normal.
+Size +2: These creatures stand up to 8' tall and weigh over 1000 pounds each.
+
+
+=== Wereboar
+Wereboars are found only among the Picts, and serve as their elite warriors. Legio XX’s symbol was a boar, and they were stationed on the border between Britannia and Caledonia for much of their existence. Coincidence?
+
+Attributes: Agility d6, Smarts d4, Spirit d10, Strength d12, Vigor d10
+Skills: Fighting d10, Intimidation d10, Notice d8, Stealth d8
+Pace: 6; Parry: 7; Toughness: 8
+Edges: Berserk, Improved Nerves of Steel
+Special Abilities
+Hardy: Multiple Shaken results do not cause a wound.
+Low Light Vision: Werebears ignore penalties for Dim and Dark lighting.
+Shapechanger: Wereboars can change between their human and man/boar hybrid forms as a normal action by making a Vigor roll at +2. With a normal success, they can't take any other actions that round, including movement. With a raise, they can take other actions as normal (wereboars can also take on a true boar form, see p. 131).
+Size +1: These creatures stand up to 7' tall and weigh over 700 pounds each.
+Tusks: Str+d8.
+
+
+=== Werewolf
+When a full moon emerges, humans infected with lycanthropy lose control and become snarling creatures bent on murder. Some embrace their cursed state and revel in the destruction they cause. Customize the Special Abilities that make sense for your particular flesh-ripper. Older or “pure-blood” lycanthropes may be Invulnerable to all but silver or magic, for example.
+
+Attributes: Agility d8, Smarts d6, Spirit d6, Strength d12+2, Vigor d10
+Skills: Athletics d8, Common Knowledge d8, Fighting d12+2, Intimidation d10, Notice d12, Stealth d10, Survival d10
+Pace: 8; Parry: 9; Toughness: 8
+Edges: -
+Special Abilities
+Bite/Claws: Str+d8.
+Fast Regeneration: Werewolves may attempt a natural healing roll every round unless the Wounds were caused by silvered objects.
+Fear (−2): Werewolves chill the blood of all who see them.
+Infection: Anyone slain by a werewolf has a 50% chance of rising as a werewolf themselves. The character involuntarily transforms every full moon. He gains control of his lycanthropy only after 1d6 years as a werewolf.
+Infravision: Halve penalties for Illumination when attacking warm targets.
+Size 1: Werewolves are stout creatures.
+
+=== Wolfman
+Those wounded by werewolves but not slain become wolfmen. They are bloodthirsty savages when the full moon transforms them.
+
+Attributes: Agility d10, Smarts d4 (A), Spirit d8, Strength d10, Vigor d8
+Skills: Fighting d8, Notice d8, Stealth d4, Survival d6
+Pace: 6; Parry: 6; Toughness: 6
+Special Abilities
+Bite: Str+d6
+Go for the Throat: If a wolfman hits on a raise, it strikes its opponent in his least armored location.
+Fleet-Footed: A wolfman rolls a d10 running die instead of the usual d6.
+Immunity: Wolfmen take half damage from all attacks, except those made by silver or magic.
+Improved Frenzy: Wolfmen can make 2 Fighting attacks each round at no penalty.
+Weakness (Magic/Silver): Wolfmen take full damage from magic and silver weapons.
+
+
+=== Zombie
+These walking dead are typical groaning fiends looking for fresh meat.
+
+Attributes: Agility d6, Smarts d4, Spirit d4, Strength d6, Vigor d6
+Skills: Athletics d4, Fighting d6, Intimidation d6, Notice d4, Shooting d6
+Pace: 4; Parry: 5; Toughness: 7
+Edges: -
+Special Abilities
+Bite/Claws: Str.
+Fearless: Zombies are immune to Fear and Intimidation.
+Undead: +2 Toughness; +2 to recover from being Shaken; no additional damage from Called Shots; ignores 1 point of Wound penalties; doesn't breathe; immune to disease and poison.
+Weakness (Head): Called Shots to a zombie's head do the usual +4 damage.
+
+
+
+== Monsters
+
+=== Arbor Bellum
+Arboris bellum (war trees) are trees animated through dryad or special druidic magic. They are not sentient, but possess animal-like intelligence. Trees older than a century are Wild Cards.
+
+Attributes: Agility d4, Smarts d4 (A), Spirit d10, Strength d12+6, Vigor d10
+Skills: Fighting d8, Notice d6
+Pace: 6; Parry: 6; Toughness: 19 (4)
+Special Abilities
+Armor +4: Thick bark.
+Branch Swipe: Str+d6, Reach 2.
+Huge: Attackers are +4 to attack rolls against an arbor bellum due to its size.
+Plant: +2 to recover from being Shaken; No additional damage from Called Shots; Immune to poison and disease.
+Size +8: An arbor bellum is over 40' tall.
+Stomp: Str+8. The creature is naturally adept at using its full weight to smash its foes. Nonrigid armor (leather, any lorica armor) offers no protection against the stomp attack.
+Improved Sweep: An arbor bellum can attack all adjacent opponents in reach at no penalty.
+Weakness (Fire): Fire attacks cause +4 damage-unless it's raining.
+
+=== Corpse Raven (swarm)
+Corpse ravens, found among the Gallic and Germanic lands, feast only on those fallen in battle. Some say they are servants of the barbarian gods of death, others insist they are pets of the gods of war, allowed to feed only on the flesh of heroes. Whoever they serve, they can raise the dead.
+
+Attributes: Agility d10, Smarts d6 (A), Spirit d8, Strength d8, Vigor d10
+Skills: Notice d6
+Pace: 10; Parry: 4; Toughness: 7
+Special Abilities
+Claw: Swarms inflict hundreds of tiny bites every round to their victims, hitting automatically and causing 2d4 damage to everyone in a Medium Burst Template. Damage is applied to the least armored location.
+Flight: Pace 8, Climb 3.
+Swarm: Parry +2; Because the swarm is composed of scores, hundreds, or thousands of creatures, cutting and piercing weapons do no real damage. Area-effect weapons work normally, and a character can stomp to inflict his damage in Strength each round. Swarms are usually foiled by jumping in water (unless they are aquatic pests, such as piranha).
+Zombie: Corpse ravens can settle on corpses and give them unlife. Roll a die per corpse. Odd, it rises as a zombie (see Savage Worlds). The undead is uncontrolled and attacks the nearest living target.
+
+=== Beast man
 
 Attributes: Agility d8, Smarts d4, Spirit d6, Strength d10, Vigor d10
 Skills: Fighting d8, Intimidation d10, Notice d8, Stealth d10, Survival d10
@@ -18,3 +342,17 @@ Lord of the Pack: Every pack is led by the most powerful individual, a Wild Card
 // Size +1: Horned Beasts are usually 8 feet tall, horns included.
 Disease: Anyone damaged by a beast's physical attack  who fails a Vigor roll catches a nasty disease. Each day thereafter, the victim must make a Vigor roll or lose one die of Strength and Vigor. If either attribute drops below d4, the victim dies. A Healing roll may be attempted each day to cure the disease. Reduced attributes return at the rate of one die per day.
 // Claws: Str+d4.
+
+
+=== Manticora
+A manticora has the body of a lion and a vaguely human head. Its mouth contains three rows of razor sharp teeth and its tail ends in a ball of darts or spines. Manticorae are fierce predators and devour every part of their victims, including their gear. They are most often encountered in the Asiatic provinces.
+
+Attributes: Agility d8, Smarts d6, Spirit d8, Strength d12+2, Vigor d10
+Skills: Climbing d8, Fighting d8, Intimidation d8, Notice d8, Shooting d8, Stealth d8, Tracking d6
+Pace: 8; Parry: 6; Toughness: 9
+Special Abilities
+Bite/Claw: Str+d6.
+Defensive Volley: Rather than fire its tail darts at one target, the manticora may launch them in a circular pattern. The manticora makes a single Shooting roll against all target within range for 2d6 damage. The manticora may take no other actions in the round it uses this ability, including movement. This ability may be used only once per day and uses all the darts in the tail. There must be at least three volleys of darts left for this ability to work.
+Improved Frenzy: Manticorae may make two Fighting attacks each action at no penalty.
+Tail Darts: Each round, a manticora may fire a volley of darts at one target. Range 4/8/16, Damage 2d6. It may not fire its darts at the same target it attacks with its claws or bite during the same round. A manticora can only fire 10 volleys in a single day.
+Size +2: Manticorae weigh over 600 pounds.
