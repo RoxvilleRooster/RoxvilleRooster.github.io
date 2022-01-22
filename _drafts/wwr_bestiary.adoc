@@ -107,6 +107,106 @@ Split: Some swarms split into two smaller swarms when Wounded (GM's call). Reduc
 Swarm: Parry +2. Because the swarm is composed of scores, hundreds, or thousands of creatures, cutting and piercing weapons do no real damage. Area effect weapons work normally, and a character can stomp to inflict his damage in Strength each round. Some swarms (bees, hornets, birds) may be foiled by total immersion in water.
 
 
+== Men
+
+=== Auxilia
+This category covers all the various types of auxilia, including archers, slingers, skirmishers, medium infantry (cohortes), cavalry. A wide variety of arms and armor were used throughout the eras, so the War Master is encouraged to research his particular campaign for details and specifics.
+
+Attributes: Agility d6, Smarts d4, Spirit d4, Strength d6, Vigor d6
+Skills: Fighting d4 (d6 for cohortes), Notice d4, Shooting or Athletics d6 for ranged troops
+Pace: 6; Parry: 4/5; Toughness: 5
+Edges: Steady Hands (Missile Cavalry)
+Hindrances: Foreigner, Illiterate
+Gear: (Archer): Composite (Range 15/30/60, Damage 2d6+1) or short bow (Range: 12/24/48, Damage 2d6), gladius (Str+d6). Gear (Heavy Cavalry): Scale mail (+2), metal helmet (+3), hasta (Str+d6) and clipeus shield (+1 Parry) or contus (Str+d8), spatha (Str+d8), riding horse with scale barding (+2). Gear (Cohortes): Lorica hamata (+2), clipeus (+1 Parry), hasta, gladius (Str+d6). Gear (Missile Cavalry): Leather armor (+1), parma shield (+1 Parry), composite (Range 15/30/60, Damage 2d6+1) or short bow (Range 12/24/48, Damage 2d6), or 3 javelins (Range 3/6/12, Damage Str+d6), spatha (Str+d8), riding horse. Gear (Skirmisher): Metal helmet or leather cap (+3/+1), parma shield (+1 Parry), three javelins (Range 3/6/12, Damage Str+d6), gladius (Str+d6). Gear (Slinger): Parma shield (+1 Parry), sling (Range 4/8/16, Damage Str+d4), dagger (Str+d4).
+
+
+=== Barbarian Archer
+Attributes: Agility d6, Smarts d6, Spirit d6, Strength d6, Vigor d6
+Skills: Fighting d6, Intimidation d6, Notice d6, Shooting d6, Athletics d6, Stealth d4
+Pace: 6; Parry: 5; Toughness: 5
+Edges: -
+Hindrances: Illiterate
+Gear: Short bow (Range 12/24/48, Damage 2d6), dagger (Str+d4)
+
+Experienced:: increase Shooting to d8; add edge Marksman
+Veteran:: increase Shooting to d10
+
+
+=== Barbarian Berserker
+Perhaps the most feared of all the barbarians are the wild men known as berserkers.
+
+Attributes: Agility d6, Smarts d4, Spirit d10, Strength d10, Vigor d10
+Skills: Fighting d10, Intimidation d10, Notice d4, Athletics d6, Stealth d4
+Pace: 6; Parry: 6; Toughness: 7
+Edges: Berserk, Nerves of Steel, Sweep
+Hindrances: Bloodthirsty, Illiterate
+Gear: Great axe (Str+d10, AP 1, –1 Parry).
+
+Experienced:: add edges Improved Sweep, Block, Combat Reflexes, Frenzy; parry increases to 7
+Veteran:: increase Fighting to d12; add edges Improved Frenzy, Hard to Kill; parry increases to 8
+
+
+=== Barbarian Charioteer
+Attributes: Agility d6, Smarts d6, Spirit d8, Strength d6, Vigor d6
+Skills: Driving d8, Fighting d4, Intimidation d6, Notice d6, Stealth d4, Athletics d6, Riding 6
+Pace: 6; Parry: 4; Toughness: 5; Charisma: -2
+Edges: -
+Hindrances: Illiterate, Mean
+Gear: Long sword (Str+d8), two javelins (Range 3/6/12, Damage Str+d6).
+
+Experienced:: increase Riding to d8, Athletics to d8, Fighting to d6; add edge Steady Hands; parry increases to 5
+Veteran:: increase Driving to d10, and Fighting to d6, and Fighting to d8; add edges Improved Frenzy, Hard to Kill; parry increases to 6
+
+=== Barbarian Chieftain
+Most tribes of this period tended to choose the biggest and toughest individuals to lead them.
+
+Attributes: Agility d6, Smarts d8, Spirit d10, Strength d10, Vigor d10
+Skills: Fighting d10, Intimidation d10, Battle d6, Notice d6, Riding d6, Athletics d6
+Pace: 6; Parry: 9; Toughness: 10 (3)
+Edges: Block, Combat Reflexes, Command, Fervor, Frenzy, Level Headed, Natural Leader
+Hindrances: Illiterate
+Gear: Bronze breastplate (+3), medium shield (+1 Parry, +2 Armor vs ranged), long sword (Str+d8)
+
+=== Barbarian Druid/Shaman
+This entry covers the various shamans, druids, and tribal priests the legions are likely to encounter. Named spellcasters are Wild Cards.
+
+Attributes: Agility d6, Smarts d10, Spirit d10, Strength d6, Vigor d6
+Skills: Fighting d4, Intimidation d10, Notice d6, Faith d10, Stealth d4
+Pace: 6; Parry: 4; Toughness: 5
+Edges: Arcane Background (Miracles), Command, Level Headed, New Powers
+Hindrances: Illiterate
+Gear: Sickle or short sword (Str+d6)
+Special Abilities
+Powers: 1d4+4 powers; Power Points 10
+
+Experienced:: 1d6+6 powers; Power Points 20; increase Faith to d12; add edge New Powers
+
+
+=== Barbarian Tribal King
+Most tribes of this period tended to choose the biggest and toughest individuals to lead them.
+
+Attributes: Agility d6, Smarts d8, Spirit d12, Strength d10, Vigor d10
+Skills: Fighting d12, Intimidation d10, Battle d8, Notice d6, Riding d6, Athletics d6
+Pace: 6; Parry: 10; Toughness: 10 (3)
+Edges: Block, Combat Reflexes, Command, Fervor, Improved Frenzy, Level Headed, Natural Leader, Hold the Line
+Hindrances: Illiterate
+Gear: Bronze breastplate (+3), medium shield (+1 Parry, +2 Armor vs ranged), long sword (Str+d8)
+
+
+=== Barbarian Warrior
+Unlike the disciplined legionaries, barbarian warriors fight as individuals, not in massed ranks.
+
+Attributes: Agility d6, Smarts d4, Spirit d6, Strength d6, Vigor d6
+Skills: Fighting d6, Intimidation d6, Notice d6, Stealth d4, Athletics d6
+Pace: 6; Parry: 6; Toughness: 5; Charisma: -2
+Edges: -
+Hindrances: Illiterate
+Gear: Medium shield (+1 Parry, +2 Armor vs ranged), long sword (Str+d8), battle axe (Str+d8), or spear (Str+d6, Parry +1), two javelins (Range 3/6/12, Damage Str+d6).
+
+Experienced:: increase Fighting to d8; add edge Combat Reflexes; parry increases to 7
+Veteran:: increase Fighting to d10 and Athletics to d8; add edges Frenzy, Block; parry increases to 9
+
+
 == Supernaturals
 
 === Banshee
