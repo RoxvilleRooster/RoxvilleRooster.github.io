@@ -109,7 +109,7 @@ Swarm: Parry +2. Because the swarm is composed of scores, hundreds, or thousands
 
 == Men
 
-=== Auxilia
+=== Roman, Auxilia
 This category covers all the various types of auxilia, including archers, slingers, skirmishers, medium infantry (cohortes), cavalry. A wide variety of arms and armor were used throughout the eras, so the War Master is encouraged to research his particular campaign for details and specifics.
 
 Attributes: Agility d6, Smarts d4, Spirit d4, Strength d6, Vigor d6
@@ -118,6 +118,47 @@ Pace: 6; Parry: 4/5; Toughness: 5
 Edges: Steady Hands (Missile Cavalry)
 Hindrances: Foreigner, Illiterate
 Gear: (Archer): Composite (Range 15/30/60, Damage 2d6+1) or short bow (Range: 12/24/48, Damage 2d6), gladius (Str+d6). Gear (Heavy Cavalry): Scale mail (+2), metal helmet (+3), hasta (Str+d6) and clipeus shield (+1 Parry) or contus (Str+d8), spatha (Str+d8), riding horse with scale barding (+2). Gear (Cohortes): Lorica hamata (+2), clipeus (+1 Parry), hasta, gladius (Str+d6). Gear (Missile Cavalry): Leather armor (+1), parma shield (+1 Parry), composite (Range 15/30/60, Damage 2d6+1) or short bow (Range 12/24/48, Damage 2d6), or 3 javelins (Range 3/6/12, Damage Str+d6), spatha (Str+d8), riding horse. Gear (Skirmisher): Metal helmet or leather cap (+3/+1), parma shield (+1 Parry), three javelins (Range 3/6/12, Damage Str+d6), gladius (Str+d6). Gear (Slinger): Parma shield (+1 Parry), sling (Range 4/8/16, Damage Str+d4), dagger (Str+d4).
+
+=== Roman, Centurion
+Centurions command a single century of 80 men. They are usually experienced officers, promoted through the ranks.
+
+Attributes: Agility d6, Smarts d8, Spirit d10, Strength d8, Vigor d8
+Skills: Fighting d8, Intimidation d10, Battle d6, Notice d6, Riding d6, Survival d6, Athletics d8
+Pace: 6; Parry: 7; Toughness: 8 (2)
+Edges: Block, Combat Reflexes, Command, Hold the Line, Level Headed, Rank
+Hindrances: Loyal
+Gear: Lorica hamata (+2), bronze greaves (+2), legionary helmet (+3), gladius (Str+d6), centurion’s stick (vitis).
+
+=== Roman, Gladiator
+Roman citizens were a bloodthirsty mob, and gladiators fought deadly duels for the amusement of the crowds. More than once Rome suffered slave revolts, the most notable being that of Spartacus, who led a gladiator revolt which threatened the stability of Rome for a short while.
+
+Attributes: Agility d8, Smarts d4, Spirit d8, Strength d8, Vigor d8
+Skills: Fighting d8, Intimidation d8, Notice d6, Athletics d6
+Pace: 6; Parry: 7; Toughness: 6
+Edges: Block, Combat Reflexes, Frenzy
+Hindrances: Various
+Gear: See page 18 for gear and weaponry.
+
+=== Roman, Legionary
+These stats are for a typical legionary, with around five years loyal service. Treat decanii as Legionaries with Command and Rank. Add Inspire for experienced decanii, and Hold the Line for veterans.
+
+Attributes: Agility d6, Smarts d6, Spirit d6, Strength d8, Vigor d8
+Skills: Fighting d8, Intimidation d6, Notice d6, Survival d4, Athletics d6
+Pace: 8; Parry: 8; Toughness: 8 (2)
+Edges: Shield Wall
+Hindrances: Illiterate, Loyal
+Gear: Lorica hamata or segmentata (+2), legionary helmet (+3), scutum (+2 Parry, +2 Armor vs ranged), gladius (Str+d6), two pila (Range 3/6/12, Damage Str+d6).
+
+
+=== Roman, Legionary, Tribune
+Tribunes are nobles who usually serve as cohort commanders.
+
+Attributes: Agility d6, Smarts d8, Spirit d8, Strength d6, Vigor d6
+Skills: Fighting d6, Intimidation d8, Battle d6, Notice d6, Riding d8, Survival d4, Athletics d6
+Pace: 6; Parry: 5; Toughness: 8 (3)
+Edges: Command, Equestrian, Rank
+Hindrances: Loyal
+Gear: Bronze breastplate (+3), bronze greaves (+2), legionary helmet (+3), gladius (Str+d6).
 
 
 === Barbarian Archer
