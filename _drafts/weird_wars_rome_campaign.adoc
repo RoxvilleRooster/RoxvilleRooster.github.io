@@ -43,6 +43,22 @@ Sanity is a derived trait, which functions as mental toughness. See <<#_sanity>>
 
 Requirements;; Foreigner, Riding d6+, Fighting d6+
 
+.Every soldier is different
+****
+Unlike many other settings, your character begins as a members of the same military unit.
+At first this may seem a somewhat limited choice, but the Roman military still allows for an almost unlimited variety when it comes to building your character. 
+
+One soldier might be a feisty, naive adventurer; another may be a man of high birth who is running from a dark past; another may be a gregarious carouser and notorious brawler; another, a skilled combatant who is passionate about mosaics. 
+
+There is nothing to prevent a solider being a gambler, explorer, hunter, horse trainer, "reformed" thief, messenger, occultist, academic, or scientific visionary. 
+There's no such thing as a standard legionary or auxiliary.
+// Choose the archetype that most appeals to you (or that will fit best with the other characters) and put your own spin on it. 
+// There are many different archetypes; the ones most common to All for One are listed below. 
+// Feel free to come up with one of your own if none of these suit you, but make sure to get your Gamemaster's approval first.
+****
+
+
+
 === Gear
 
 Members of the _auxilia_ cavalry have the following standard equipment.  
