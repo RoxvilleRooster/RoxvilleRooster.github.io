@@ -119,7 +119,7 @@ Characters with this Hindrance suffer double Sanity loss.
 On the plus side, they start with a Sanity of +2.
 
 Foreigner (Major / Minor)::
-The character comes from outside the Roman provinces and isn't a Roman citizen. 
+The character isn't a Roman citizen. She may come from outside the Roman provinces or belong to a subjegated people.
 He can't be a legionary, but he may serve as a medicus, auxilia, speculatore, or similar character type.
 As a Minor Hindrance, the Foreigner is a Greek (the only other civilization Rome truly respected).
 He suffers -2 Persuasion with "proper" Romans but begins the game with the ability to speak
@@ -130,7 +130,7 @@ These foreigners have -2 Persuasion with "true" Romans and cannot reroll Persuas
 These characters are often sacrificed by their commanders as diversions, distractions, or to cover the retreat of the legions. 
 All auxilia are therefore Foreigners in a Romano-centric campaign.
 Foreigners of either stripe can't own slaves or serve in the legions. 
-Besides the disadvantages listed above, Foreigners may be called on to use their local knowledge to serve the Empire, perhaps betraying their own people.
+Besides the disadvantages listed above, Foreigners may be called on to use their local knowledge to serve the empire, perhaps betraying their own people.
 
 Replacement (Minor)::
 This soldier is fresh to service and still rough around the edges. 
