@@ -25,7 +25,7 @@ ____
 In 175, the Roman emperor, Marcus Aurelius, defeated the Iazyges tribe of Sarmatians. He took them into Roman service and settled 5,500 of them in Britain; some were assigned to the Legio VI Victrix.
 ____
 
-The players play a unit of Sarmatian auxiliary cavalry instead of legionaries.footnote:[In the 2004 movie xref:https://en.wikipedia.org/wiki/King_Arthur_(2004_film)[King Arthur], the protagonists were Sarmatian cavalry attached to a Roman legion around 410 CE.]
+The players will likely play a unit of Sarmatian (or possibly Gallic) auxiliary cavalry instead of legionaries.footnote:[In the 2004 movie xref:https://en.wikipedia.org/wiki/King_Arthur_(2004_film)[King Arthur], the protagonists were Sarmatian cavalry attached to a Roman legion around 410 CE.]
 As cavalry, they can engage in irregular operations and have some mobility to get into different types of action. 
 
 As _auxilia_, you are one of the _peregrini_, a free provincial subject of the Empire.
@@ -50,7 +50,7 @@ At first this may seem a somewhat limited choice, but the Roman military still a
 
 One soldier might be a feisty, naive adventurer; another may be a man of high birth who is running from a dark past; another may be a gregarious carouser and notorious brawler; another, a skilled combatant who is passionate about mosaics. 
 
-There is nothing to prevent a solider being a gambler, explorer, hunter, horse trainer, "reformed" thief, messenger, occultist, academic, or scientific visionary. 
+There is nothing to prevent a solider being a gambler, explorer, hunter, horse trainer, "reformed" thief, messenger, casual occultist, curious scholarly type, or scientific-minded fellow. 
 There's no such thing as a standard legionary or auxiliary.
 // Choose the archetype that most appeals to you (or that will fit best with the other characters) and put your own spin on it. 
 // There are many different archetypes; the ones most common to All for One are listed below. 
