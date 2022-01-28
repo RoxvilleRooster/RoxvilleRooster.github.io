@@ -3,9 +3,9 @@
 
 In this story, the heroes slowly discover why the druids performed human sacrifice realize the implications of Rome's long-term campaign against the druids.   
 
-Christianized Britons were preventing the rituals of Satiada, which were keeping Aphoom-Zhah dormant
+Christianized Britons were preventing the rituals of Satiada, which were keeping Aphoom-Zhah dormant.
 
-== McGuffin
+== Items of interest
 
 strange ice:: 
 * does not melt
@@ -17,14 +17,12 @@ living light::
 * link:https://lovecraft.fandom.com/wiki/Aphoom-Zhah[Aphoom-Zhah]
 
 ____
-It was a weird light, gray-white in color, and a bizarre sound
-accompanied it, a loud crackling, as if all the trees of the forest were snapping
-before the advance of some immense bulk. The temperature plummeted.
+It was a weird light, gray-white in color, and a bizarre sound accompanied it, a loud crackling, as if all the trees of the forest were snapping before the advance of some immense bulk. 
+The temperature plummeted.
 ____
 
 ____
-For eons the White Sybils have
-kept the doom of Aphoom-Zhah at bay, and always comes a man, some unworthy priest, to break the people's covenant, and bring the cold death down upon us.
+For eons the White Sybils have kept the doom of Aphoom-Zhah at bay, and always comes a man, some unworthy priest, to break the people's covenant, and bring the cold death down upon us.
 ____
 
 Satiada::
@@ -35,21 +33,25 @@ link:https://en.wikipedia.org/wiki/Crag_Lough[Crag_Lough]
 
 == NPCs
 
-Gnaeus Antius:: centurion, stern officer, and straight arrow; studious; mocked for being a more clerk than soldier
+Gnaeus Antius:: 
+stern officer and straight arrow; studious; mocked for being a more clerk than soldier
 Description and mannerisms;;
 Studious. 
 Most often seen behind a desk, accompanied by his slave.
-Thinking curly black hair.
+Short curly black hair.
 Constantly takes notes of things others say, or what happens around.
 Favors a conciliatory and peaceful approach.
-Titus Decimus:: _frumentarius_ and agent of the emperor; ruthless and driven
+Titus Decimus:: 
+_frumentarius_ and agent of the emperor; ruthless and driven
 Description and mannerisms;;
 Shifts eyes between every person in the room, in an attempt to show dominance with all.
-Badass scar over eye.
-Euandros:: Greek, _auxilia medicus_, scholar, member of the Twilight Legion
+Distinctive scar over eye.
+Euandros:: 
+Greek, _auxilia medicus_, scholar, member of the Twilight Legion
 Description and mannerisms;;
 Talks with his hands.
 Paces when talking.
+Intelligent eyes.
 Flavius Priscus:: ambitious young officer out to prove himself 
 Description and mannerisms;;
 Dark-skinned and African complexion.
