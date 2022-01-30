@@ -1,0 +1,80 @@
+= WWR campaign events
+
+
+
+== Adventure generator
+
+
+
+=== Bridge defense
+
+Operation size::
+8 turmae (256; half an _ala_)
+
+Mission::
+Provide guard and operational support to the legion as they construct a bridge across a river in hostile territory.
+
+Support::
+Experienced legionaries
+
+Enemy force size::
+150% of PCs' force
+
+Complications::
+Bad intelligence.
+The location that was sited as where to build the bridge is unfit/unsuitable. 
+The better location is further into enemy territory and occupied.
+
+Weird event::
+Degenerate locals.
+The local tribe are worshipping dark gods. Why? What darks gods? 
+Scouting will find the following:
+* druids are not openly operating in this area
+* there are queer marks on rocks and trees; these are not druid signs
+* "chaos broos"  
+* "The Ritual" / "Bone Tomahawk"
+* They want to capture and sacrifice the Romans to their dark god  
+
+=== Siege support
+
+Operation size::
+3-4 _turmae_
+
+Mission::
+Reconnoiter enemy fortification; support siege; chase down fleeing enemy
+
+Support::
+Legionaries
+
+Enemy force size::
+Roughly equal
+
+Complications::
+* Terrain where escapees go is problematic for cavalry (dense forest)
+* Ambitious officer puts heroes in harms ways because he favors the legionaries 
+
+Weird event::
+Cursed by wife of chief after capture
+
+=== Rescue mission
+
+Operation size::
+Contubernium
+
+Mission::
+Liberate allied prisoner(s) from captivity
+Who?;;
+Optio' girlfriend - she was not supposed to mess with the Romans; 
+an overzealous Briton (a jealous boyfriend) has abducted her because she needs to be given over to a dark goddess.
+
+Support::
+Auxilia (skirmishers)
+
+Enemy force size::
+150% size of PCs force
+
+Complications::
+Objective is behind enemy lines in bad terrain
+
+Weird event::
+Dark temple
