@@ -20,12 +20,16 @@ This legion was stationed at Hadrian's Wall at the end of the second century AD.
 .Auxiliary cavalry instead of legionaries
 ****
 // Player characters are supposed to be Roman legionaries, but the players have the option of playing a squad of auxiliaries that are attached to a legion. 
-Sarmatian auxiliaries were brought to Britain in the time of Marcus Aurelius (d. 180 CE).footnote:[link:https://en.wikipedia.org/wiki/Roman_cavalry[Roman cavalry], Wikipedia] 
-____
-In 175, the Roman emperor, Marcus Aurelius, defeated the Iazyges tribe of Sarmatians. He took them into Roman service and settled 5,500 of them in Britain; some were assigned to the Legio VI Victrix.
-____
 
-The players will likely play a unit of Sarmatian (or possibly Gallic) auxiliary cavalry instead of legionaries.footnote:[In the 2004 movie xref:https://en.wikipedia.org/wiki/King_Arthur_(2004_film)[King Arthur], the protagonists were Sarmatian cavalry attached to a Roman legion around 410 CE.]
+//Sarmatian auxiliaries were brought to Britain in the time of Marcus Aurelius (d. 180 CE).footnote:[link:https://en.wikipedia.org/wiki/Roman_cavalry[Roman cavalry], Wikipedia] 
+//____
+//In 175, the Roman emperor, Marcus Aurelius, defeated the Iazyges tribe of Sarmatians. He took them into Roman service and settled 5,500 of them in Britain; some were assigned to the Legio VI Victrix.
+//____
+
+
+The players will likely play a unit of auxiliary cavalry instead of legionaries.
+The _Ala II Asturum_, or second Asturian cavalry unit, were a Spanish cavalry unit. After 180 AD, this cavalry unit was based at Cilurnum (Chesters).
+// footnote:[In the 2004 movie xref:https://en.wikipedia.org/wiki/King_Arthur_(2004_film)[King Arthur], the protagonists were Sarmatian cavalry attached to a Roman legion around 410 CE.]
 As cavalry, they can engage in irregular operations and have some mobility to get into different types of action. 
 
 As _auxilia_, you are one of the _peregrini_, a free provincial subject of the Empire.
