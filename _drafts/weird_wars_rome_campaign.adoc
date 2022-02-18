@@ -1,4 +1,4 @@
-= Campaign for Weird Wars Rome
+= Campaign for Weird Wars Rome - Beyond the Wall
 :doctype: book
 // :sectnums:
 // :sectnumlevels: 5
@@ -27,7 +27,7 @@ This legion was stationed at Hadrian's Wall at the end of the second century AD.
 //____
 
 
-The players will likely play a unit of auxiliary cavalry instead of legionaries.
+At the outset of the campaign, the players play members of a unit of auxiliary cavalry instead of legionaries.
 The _Ala II Asturum_, or second Asturian cavalry unit, were a Spanish cavalry unit. After 180 AD, this cavalry unit was based at Cilurnum (Chesters).
 // footnote:[In the 2004 movie xref:https://en.wikipedia.org/wiki/King_Arthur_(2004_film)[King Arthur], the protagonists were Sarmatian cavalry attached to a Roman legion around 410 CE.]
 As cavalry, they can engage in irregular operations and have some mobility to get into different types of action. 
@@ -48,7 +48,7 @@ As the story develops, the heroes are exposed to more of the "weird" aspects of 
 
 As the arc continues, the protagonists develop a reputation as a foes of the dark forces and allies to those that oppose the evil of the elder gods. Over time, your soldier can rise to that of hero and agent, a member of the Twilight Legion.
 
-Throughout the campaign, the noble classes vy for power and prestige, tribal factions compete, and faith and religion motivate most.
+// Throughout the campaign, the noble classes vy for power and prestige, tribal factions compete, and faith and religion motivate most.
 
 
 == Creating characters
