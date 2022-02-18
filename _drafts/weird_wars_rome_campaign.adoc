@@ -93,8 +93,8 @@ A few other edges have changed slightly to better fit the setting.
 
 ==== Background Edges
 
-===== Campaign Veteran
-Requirements:: Novice, Smarts d6+, Spirit d6+, Vigor d8+, Fighting d8+, Throwing d6+
+Campaign Veteran::
+Requirements;; Novice, Smarts d6+, Spirit d6+, Vigor d8+, Fighting d8+, Throwing d6+
 + 
 This old veteran has been in the military for a while and fought in at least one campaign.
 As a Background Edge, it may only be taken at character creation, and you must have the GM's   permission to take it. 
@@ -102,8 +102,8 @@ Your warrior begins play at Seasoned Rank to represent his years of military ser
 The price for this experience is that the advancements must be repaid. 
 The next 4 Advances your hero earns are forfeited to "pay back" the debt.
 
-===== Military Family
-Requirements:: Novice
+Military Family::
+Requirements;; Novice
 + 
 The hero's father was a career soldier who rose to the ranks of centurio (or higher with the GM's permission) or legatus (for parents with the Equestrian or Military Family Edge). 
 He begins the game with a d4 in Fighting, Knowledge (Battle), Riding, or Throwing (player's choice).
@@ -111,7 +111,7 @@ In addition, he has +1 Persuasion when dealing with officers of centurio rank an
 Should he fail to live up to his father's deeds (GM's discretion), he suffers a -2 penalty to Persuasion until he makes amends.
 
 Equestrian/Patrician (Aristocrat)::
-Requirements:: Novice + 
+Requirements;; Novice + 
 Rome's social elites were Patricians (Senatorials) and Equestrians (knights). 
 // (Commoners were called plebians, or plebs).
 Such individuals have +2 to Persuasion trait rolls.
@@ -137,7 +137,7 @@ Requirements;; Seasoned, Strength d8+, Athletics d10+
 The character increases the range brackets of thrown weapons by +1/+2/+4. 
 He also causes an extra +1 damage when using thrown weapons at targets _within short range_.
 
-Formation Fighter::
+Formation fighter::
 Shield Wall::
 Requirements;; Novice, Fighting d8+
 The character increases the Gang Up bonus by an additional +1 for himself and his allies. 
@@ -147,10 +147,92 @@ Shield wall::
 Requirements;; Novice, Roman Legionnaire
 Legionaries with the Shield Wall edge and a shield add +1 to each adjacent man's Parry if that man has the Edge (and a shield) as well. The maximum bonus for this Edge is +2 (if there is one man to the left and right), and stacks with any Parry bonuses for the shields or weapons they hold.
 
+==== Leadership edges
+A few good men::
+Requirements;; Heroic, Smarts d8+, Battle d10+, Command, Inspire
+When the GM checks to see which of the commander's Extras are alive or dead after a fight, he may reroll any failures. 
+This Edge affects up to 12 men; it does not stack if multiple characters have the ability.
+If the leader is the overall commander in a Mass Battle, roll a d6 whenever a token is lost. 
+On a 6, the token isn't lost.
+Cry havoc!::
+Requirements;; Veteran, Spirit d8+, Battle d10+, Command, Fervor
+Once per Mass Battle, during the Battle Roll Phase, the hero may “Cry Havoc” — perhaps by ordering a certain group of his troops to charge or by inspiring them with his command. 
+He must do this before he rolls his battle die. 
+If he succeeds in his roll and beats his opponent, his enemy loses one extra token.
+Death before dishonor::
+Requirements;; Veteran, Spirit d6+, Command, Hold the Line
+The character has led his army to many victories and the men have come to accept retreat as a stain on their honor. 
+The leader adds +2 to Spirit rolls when rolling for Morale in a Mass Battle.
+Fanaticism::
+Requirements;; Seasoned, Command, Persuasion d8+
+Troops under command of a character with this edge add +2 to Fear checks.
+
+
+==== Professional edges
+////
+Aquilifer::
+Requirements;; Seasoned, Spirit d10+, Fighting d10+
+The aquilifer is a veteran soldier charged with
+carrying the legion's standard (_aquila_ or eagle) and keeping it safe.
+The character has immunis when making camp (see page 31), and when the aquila is carried the aquilifer gains the benefits of one Leadership Edge of his choice, though he must meet all the requirements. 
+He may only choose and use one such Edge per session. His command radius is equal to 5” plus his Charisma modifier.
+////
+Hardened::
+Requirements;; Seasoned
+The soldier regains one extra point of Sanity during “down time.” 
+This is usually between missions, is entirely at the GM's discretion, and is in addition to any he might gain for other reasons.
+Medicus (medic)::
+Requirements;; Novice, Healing d6+
+If the character with this edge can get to a wounded non-Wild Card by the end of the round in which he was wounded, he can make an immediate Healing roll at -2. 
+If the roll is successful, the victim is just Shaken instead of wounded.
+Rank (decanus or tribune)::
+Requirements;; Novice, Fighting d6+, Command
+The the character with this edge can lead others in combat. 
+They are also responsible for those under their command. 
++ 
+NOTE: Those who achieve rank through promotion do not automatically get the effects of the edge, but may purchase it with an advance once promoted.
++ 
+The Rank edge doubles the character's command range from 5” to 10” (or from 10” to 20” if he also has Command Presence). + 
+A character created with this edge begins as a _decanus_ if he is to lead common legionaries.
+If the GM allows, a character who also has the Equestrian/Patrician or Military Family Edge may be a tribune instead. + 
+Tribunes rank above centurions but are rarely given command of centuries or larger unless they have the skill to lead it (typically the Battle skill at d6 or higher).  This rank is usually only appropriate if the player characters are a command group either led by or composed of tribunes.
+
+////
+Signifer::
+Requirements;; Novice, Smarts d6+, Spirit d6+, Fighting d8+
+Every century has a signum, a spear shaft
+decorated with the century’s combat awards
+topped with an open hand, which signifies the
+oath of loyalty all soldiers take. The bearer of this
+signum is a signifer. In combat, the signum serves
+as a rallying point.
+A signifer has immunis when making camp (see
+page 31) and +1 Charisma among his century.
+When the signum is carried, the signifer gains
+the benefits of one Leadership Edge of his choice,
+though he must meet all the requirements. He
+may only choose and use one such Edge per game
+session.
+The signifer typically also ran a “burial club,”
+collecting regular payments from the men to
+ensure they had a decent burial.
+////
+Sticky fingers::
+Requirements;; Novice
+The soldier adds +2 to Common Knowledge rolls made to look for Spoils.
+
+==== Social edges
+Band of brothers::
+Requirements;; Wild Card, Veteran, Common Bond
+Characters with this Edge gain +1 Toughness for each other “brother” with this ability within 6”, to a maximum of +4. 
+For example, if four soldiers with this edge stand together, they each gain +3 Toughness.
+
+
 === Hindrances
 
 The following Hindrances are only suitable with the GM's consent: 
-Elderly, Hard of Hearing (Major), Obese, One Arm, One Eye, One Leg, Outsider, Small, Wanted, and Young.  #Review of SWADE#
+Elderly, Hard of Hearing (Major), Obese, One Arm, One Eye, One Leg, Outsider, Small, Wanted, and Young.  
+// #Review of SWADE#
 In addition, the Outsider Hindrance is replaced by _Foreigner_.
 
 
@@ -491,6 +573,17 @@ that province.
 Legatus Augusti pro Praetore:: 
 An "Imperial Legate" appointed by the Senate or Emperor in charge of multiple legions. He was usually the governor of the legions' province as well.
 
+=== Ranks in the auxilia
+
+See link:https://en.wikipedia.org/wiki/Auxilia#Unit_types_and_structure[Unit types and structure].
+
+The PCs are either part of a 
+_cohors equitata_ (infantry plus cavalry contingent) or an _ala_ (cavalry cohort).
+
+Assuming that the PCs are part of an _ala quingenaria_ (512 men), the unit commander is a _praefectus_ and the sub-unit commander is a _decurio_.
+The 512-man _ala quingenaria_ was made up of 16 _turmae_ of 32 men each (16 x 32 = 512). 
+A _decurio_ commands a _turma_.footnote:[link:https://htt.herefordshire.gov.uk/herefordshires-past/the-romano-british-period/the-roman-army/roman-forts/[Roman Forts]].
+
 
 === Other ranks
 
@@ -515,16 +608,6 @@ The captain of single warship.
 Praefectus Classis:: 
 The Roman equivalent of an admiral, this officer commanded a fleet.
 
-=== Ranks in the auxilia
-
-See link:https://en.wikipedia.org/wiki/Auxilia#Unit_types_and_structure[Unit types and structure].
-
-The PCs are either part of a 
-_cohors equitata_ (infantry plus cavalry contingent) or an _ala_ (cavalry cohort).
-
-Assuming that the PCs are part of an _ala quingenaria_ (512 men), the unit commander is a _praefectus_ and the sub-unit commander is a _decurio_.
-The 512-man _ala quingenaria_ was made up of 16 _turmae_ of 32 men each (16 x 32 = 512). 
-A _decurio_ commands a _turma_.footnote:[link:https://htt.herefordshire.gov.uk/herefordshires-past/the-romano-british-period/the-roman-army/roman-forts/[Roman Forts]].
 
 
 
