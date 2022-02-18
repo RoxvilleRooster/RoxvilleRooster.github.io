@@ -30,7 +30,7 @@ This legion was stationed at Hadrian's Wall at the end of the second century AD.
 
 
 At the outset of the campaign, the players play members of a unit of auxiliary cavalry instead of legionaries.
-The _Ala II Asturum_, or second Asturian cavalry unit, were a Spanish cavalry unit. After 180 AD, this cavalry unit was based at Cilurnum (Chesters).
+The _Ala II Asturum_, or second Asturian cavalry unit, was a cavalry unit from the province of Hispania (Spain). After 180 AD, this cavalry unit was based at Cilurnum (Chesters).
 // footnote:[In the 2004 movie xref:https://en.wikipedia.org/wiki/King_Arthur_(2004_film)[King Arthur], the protagonists were Sarmatian cavalry attached to a Roman legion around 410 CE.]
 As cavalry, they can engage in irregular operations and have some mobility to get into different types of action. 
 
@@ -74,7 +74,9 @@ There's no such thing as a standard legionary or auxiliary.
 // Feel free to come up with one of your own if none of these suit you, but make sure to get your Gamemaster's approval first.
 ****
 
+=== Language
 
+Characters who hail from Hispania speak Latin as their native tongue.
 
 === Gear
 
