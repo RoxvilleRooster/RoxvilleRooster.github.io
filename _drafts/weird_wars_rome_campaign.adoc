@@ -46,7 +46,8 @@ You're stationed on the frontier of a land that is far from home, family, and th
 At the outset, the protagonists are involved in military endeavors. 
 As the story develops, the heroes are exposed to more of the "weird" aspects of the world.
 
-As the arc continues, the protagonists develop a reputation as a foes of the dark forces and allies to those that oppose the evil of the elder gods. Over time, your soldier can rise to that of hero and agent, a member of the Twilight Legion.
+As the arc continues, the protagonists develop a reputation as foes of the sinister forces and allies to those that oppose the evil of the elder gods. 
+Over time, your soldier can rise to that of hero and agent, a member of the Twilight Legion.
 
 // Throughout the campaign, the noble classes vy for power and prestige, tribal factions compete, and faith and religion motivate most.
 
@@ -79,7 +80,7 @@ There's no such thing as a standard legionary or auxiliary.
 
 Members of the _auxilia_ cavalry have the following standard equipment.  
 
-Equipment;; Scale mail, metal helmet, hasta (spear) and clipeus (small shield), spatha (long sword), riding horse w/scale barding.
+Equipment;; Scale mail, metal helmet, hasta (spear) and clipeus (medium shield), spatha (long sword), riding horse w/scale barding.
 
 === Edges
 
@@ -587,7 +588,8 @@ _cohors equitata_ (infantry plus cavalry contingent) or an _ala_ (cavalry cohort
 
 Assuming that the PCs are part of an _ala quingenaria_ (512 men), the unit commander is a _praefectus_ and the sub-unit commander is a _decurio_.
 The 512-man _ala quingenaria_ was made up of 16 _turmae_ of 32 men each (16 x 32 = 512). 
-A _decurio_ commands a _turma_.footnote:[link:https://htt.herefordshire.gov.uk/herefordshires-past/the-romano-british-period/the-roman-army/roman-forts/[Roman Forts]].
+A _decurio_ commands a _turma_.
+// footnote:[link:https://htt.herefordshire.gov.uk/herefordshires-past/the-romano-british-period/the-roman-army/roman-forts/[Roman Forts]].
 
 
 === Other ranks
