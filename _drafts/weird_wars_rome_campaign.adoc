@@ -1,8 +1,10 @@
 = Campaign for Weird Wars Rome - Beyond the Wall
 :doctype: book
-// :sectnums:
-// :sectnumlevels: 5
-// :sectlinks:
+:toc: auto
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+:sectlinks:
 
 ////
 The campaign focused on a group of Roman soldiers of _Legio VI Victrix_, who are posted to the northern frontier near the end of the second century AD, around the xref:https://en.wikipedia.org/wiki/List_of_Roman_emperors#193%E2%80%93235:_Year_of_the_Five_Emperors_and_Severan_dynasty[year of the five emperors].
@@ -37,8 +39,6 @@ At the end of 25 years of service in the _auxilia_, you are awarded Roman citize
 ****
 
 NOTE: There's no conversion document for Weird Wars Rome as of the end of 2021. 
-
-== Players
 
 At the start, you play a soldier who is competent but relatively insignificant. 
 You're stationed on the frontier of a land that is far from home, family, and the burial ground of your ancestors.
@@ -91,7 +91,7 @@ Edges which list any of the above as requirements are also off-limits.
 A few other edges have changed slightly to better fit the setting. 
 
 
-==== Background Edges
+==== Background edges
 
 Campaign Veteran::
 As a Background Edge, it may only be taken at character creation, and you must have the GM's permission to take it. 
@@ -284,7 +284,7 @@ NOTE: Setting rules for naval combat, sieges, travel, the _tetsudo_ formation, a
 
 Sanity is a derived trait that monitors your character's mental health and resilience. 
 A soldier's starting Sanity is 2 plus half his Spirit die
-type unless modified by Edges and Hindrances.
+type unless modified by edges and hindrances.
 
 If a character increases his Spirit after character generation, it increases Sanity by one point as
 well.
@@ -464,9 +464,11 @@ He adds +1 to Spirit and all Spirit-based rolls for the next game month.
 Carousing:: 
 While on leave, the soldier parties hards. 
 He gains a Benny that may be saved between sessions until used.
+////
 Experience:: 
 Occasionally a legionary might find a veteran willing to share his tales and tactics—for a price. 
 The legionary gains an Experience Point. #Need to revise#
+////
 _Immunis_:: 
 The soldier pays a superior to grant him immunity from camp work for a week if on the march, or a month if in camp.
 [[sanity_recover]]
@@ -505,6 +507,7 @@ Each legion had a single standard, the _aquila_ (eagle).
 This carried the legion's battle honors and was highly revered. 
 Loss of the aquila could lead to the legion being disgraced and disbanded.
 
+[appendix]
 == Auxiliaries
 
 As well as legionaries, each legion was supported by _auxilia_, comprising foreign soldiers and specialist troops. 
