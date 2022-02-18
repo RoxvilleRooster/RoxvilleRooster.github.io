@@ -94,79 +94,79 @@ A few other edges have changed slightly to better fit the setting.
 ==== Background Edges
 
 Campaign Veteran::
-Requirements;; Novice, Smarts d6+, Spirit d6+, Vigor d8+, Fighting d8+, Throwing d6+
-+ 
-This old veteran has been in the military for a while and fought in at least one campaign.
-As a Background Edge, it may only be taken at character creation, and you must have the GM's   permission to take it. 
-Your warrior begins play at Seasoned Rank to represent his years of military service. Start with a standard Novice character, then give him four Advances.
+As a Background Edge, it may only be taken at character creation, and you must have the GM's permission to take it. 
+Your soldier begins play at Seasoned Rank to represent his years of military service. 
+Start with a standard Novice character, then give him four Advances.
 The price for this experience is that the advancements must be repaid. 
 The next 4 Advances your hero earns are forfeited to "pay back" the debt.
+Requirements;; Novice, Smarts d6+, Spirit d6+, Vigor d8+, Fighting d8+, Throwing d6+
+
 
 Military Family::
-Requirements;; Novice
-+ 
 The hero's father was a career soldier who rose to the ranks of centurio (or higher with the GM's permission) or legatus (for parents with the Equestrian or Military Family Edge). 
 He begins the game with a d4 in Fighting, Knowledge (Battle), Riding, or Throwing (player's choice).
 In addition, he has +1 Persuasion when dealing with officers of centurio rank and above and to promotion rolls because of his father's reputation.
 Should he fail to live up to his father's deeds (GM's discretion), he suffers a -2 penalty to Persuasion until he makes amends.
+Requirements;; Novice
 
 Equestrian/Patrician (Aristocrat)::
-Requirements;; Novice + 
 Rome's social elites were Patricians (Senatorials) and Equestrians (knights). 
 // (Commoners were called plebians, or plebs).
 Such individuals have +2 to Persuasion trait rolls.
 Most aristocrats have small estates that provide income (in game terms, the character wants for nothing reasonable) and somewhere to go when not on active service. 
 Aristocrats may also find themselves subject to political maneuvers instigated both back in Rome or within the upper echelons of his legion.
+Requirements;; Novice 
 
 ==== Combat edges
 
 Blood and guts::
-Requirements;; Veteran
 The character ignores Fear tests caused by gore, and adds +1 to damage in bloody hand-to-hand combat.
+Requirements;; Veteran
 
 Combat sense::
-Requirements;; Seasoned, Fighting d8+, Notice d8+
 Opponents halve any Gang Up bonuses against you (round down).
+Requirements;; Seasoned, Fighting d8+, Notice d8+
 
 Improved combat sense::
-Requirements;; Veteran, Combat Sense
 Opponents gain no Gang Up bonus against you.
+Requirements;; Veteran, Combat Sense
 
 Mighty throw::
-Requirements;; Seasoned, Strength d8+, Athletics d10+
 The character increases the range brackets of thrown weapons by +1/+2/+4. 
 He also causes an extra +1 damage when using thrown weapons at targets _within short range_.
+Requirements;; Seasoned, Strength d8+, Athletics d10+
 
 Formation fighter::
-Shield Wall::
-Requirements;; Novice, Fighting d8+
 The character increases the Gang Up bonus by an additional +1 for himself and his allies. 
 The maximum Gang Up bonus is still +4 no matter how many Formation Fighters stand together.
+Requirements;; Novice, Fighting d8+
 
 Shield wall::
-Requirements;; Novice, Roman Legionnaire
 Legionaries with the Shield Wall edge and a shield add +1 to each adjacent man's Parry if that man has the Edge (and a shield) as well. The maximum bonus for this Edge is +2 (if there is one man to the left and right), and stacks with any Parry bonuses for the shields or weapons they hold.
+Requirements;; Novice, Roman Legionnaire
 
 ==== Leadership edges
 A few good men::
-Requirements;; Heroic, Smarts d8+, Battle d10+, Command, Inspire
 When the GM checks to see which of the commander's Extras are alive or dead after a fight, he may reroll any failures. 
 This Edge affects up to 12 men; it does not stack if multiple characters have the ability.
 If the leader is the overall commander in a Mass Battle, roll a d6 whenever a token is lost. 
 On a 6, the token isn't lost.
+Requirements;; Heroic, Smarts d8+, Battle d10+, Command, Inspire
+
 Cry havoc!::
-Requirements;; Veteran, Spirit d8+, Battle d10+, Command, Fervor
 Once per Mass Battle, during the Battle Roll Phase, the hero may “Cry Havoc” — perhaps by ordering a certain group of his troops to charge or by inspiring them with his command. 
 He must do this before he rolls his battle die. 
 If he succeeds in his roll and beats his opponent, his enemy loses one extra token.
+Requirements;; Veteran, Spirit d8+, Battle d10+, Command, Fervor
+
 Death before dishonor::
-Requirements;; Veteran, Spirit d6+, Command, Hold the Line
 The character has led his army to many victories and the men have come to accept retreat as a stain on their honor. 
 The leader adds +2 to Spirit rolls when rolling for Morale in a Mass Battle.
-Fanaticism::
-Requirements;; Seasoned, Command, Persuasion d8+
-Troops under command of a character with this edge add +2 to Fear checks.
+Requirements;; Veteran, Spirit d6+, Command, Hold the Line
 
+Fanaticism::
+Troops under command of a character with this edge add +2 to Fear checks.
+Requirements;; Seasoned, Command, Persuasion d8+
 
 ==== Professional edges
 ////
@@ -178,15 +178,16 @@ The character has immunis when making camp (see page 31), and when the aquila is
 He may only choose and use one such Edge per session. His command radius is equal to 5” plus his Charisma modifier.
 ////
 Hardened::
-Requirements;; Seasoned
 The soldier regains one extra point of Sanity during “down time.” 
 This is usually between missions, is entirely at the GM's discretion, and is in addition to any he might gain for other reasons.
+Requirements;; Seasoned
+
 Medicus (medic)::
-Requirements;; Novice, Healing d6+
 If the character with this edge can get to a wounded non-Wild Card by the end of the round in which he was wounded, he can make an immediate Healing roll at -2. 
 If the roll is successful, the victim is just Shaken instead of wounded.
+Requirements;; Novice, Healing d6+
+
 Rank (decanus or tribune)::
-Requirements;; Novice, Fighting d6+, Command
 The the character with this edge can lead others in combat. 
 They are also responsible for those under their command. 
 + 
@@ -196,6 +197,8 @@ The Rank edge doubles the character's command range from 5” to 10” (or from 
 A character created with this edge begins as a _decanus_ if he is to lead common legionaries.
 If the GM allows, a character who also has the Equestrian/Patrician or Military Family Edge may be a tribune instead. + 
 Tribunes rank above centurions but are rarely given command of centuries or larger unless they have the skill to lead it (typically the Battle skill at d6 or higher).  This rank is usually only appropriate if the player characters are a command group either led by or composed of tribunes.
+
+Requirements;; Novice, Fighting d6+, Command
 
 ////
 Signifer::
@@ -218,14 +221,14 @@ collecting regular payments from the men to
 ensure they had a decent burial.
 ////
 Sticky fingers::
-Requirements;; Novice
 The soldier adds +2 to Common Knowledge rolls made to look for Spoils.
+Requirements;; Novice
 
 ==== Social edges
 Band of brothers::
-Requirements;; Wild Card, Veteran, Common Bond
 Characters with this Edge gain +1 Toughness for each other “brother” with this ability within 6”, to a maximum of +4. 
 For example, if four soldiers with this edge stand together, they each gain +3 Toughness.
+Requirements;; Wild Card, Veteran, Common Bond
 
 
 === Hindrances
@@ -242,7 +245,7 @@ Characters with this Hindrance suffer double Sanity loss.
 On the plus side, they start with a Sanity of +2.
 
 Foreigner (Major / Minor)::
-The character isn't a Roman citizen. She may come from outside the Roman provinces or belong to a subjegated people.
+The character isn't a Roman citizen. She may come from outside the Roman provinces or belong to a subjugated people.
 He can't be a legionary, but he may serve as a medicus, auxilia, speculatore, or similar character type.
 As a Minor Hindrance, the Foreigner is a Greek (the only other civilization Rome truly respected).
 He suffers -2 Persuasion with "proper" Romans but begins the game with the ability to speak
@@ -260,8 +263,7 @@ This soldier is fresh to service and still rough around the edges.
 Not every young man fresh off the farm has this hindrance - only those who take a little longer to adjust to the realities of war.
 The warrior is not dealt an Action Card on the first round of any combat (he's always "surprised"). 
 In addition, he subtracts 2 from Notice rolls made to detect ambushes or booby traps, as well as most Common Knowledge rolls related to military operations.
-The replacement is often assigned the worst duties — latrine detail, punishing slaves, carrying
-water, and so forth.
+The replacement is often assigned the worst duties — latrine detail, punishing slaves, carrying water, and so forth.
 Of course, the soldier doesn't stay new forever.
 After each relatively active month of service, the hero makes a Smarts roll at -2. 
 If the roll is successful, he drops one group of penalties - either the Action Card penalty or the -2 to Notice and Common Knowledge rolls. 
