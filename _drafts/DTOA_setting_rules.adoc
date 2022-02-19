@@ -35,6 +35,24 @@ I thought of adding the Wound Cap setting rule (SWADE p 141) but I figured that,
 ****
 ////
 
+
+
+.Peckinpah mode
+****
+If you want a less bubblegum feel and more of a chewing tobacco feel, consider making the heroes less indestructible.
+
+.Remove
+* Heroes Never Die (SWADE p 140)
+* Wound Cap (SWADE p 141)
+
+Add the following setting rule:
+
+Soak at a cost::
+If the player spends a benny on a soak roll, that benny - instead of being discarded - goes into the GM's stack of bennies. 
+If the GM uses a benny to soak against a player, the GM hands that benny to the player.
+
+****
+
 === Special Setting Rules
 
 The following rules and directions further tune the setting for a classic pulp action game.
@@ -160,7 +178,10 @@ The cops do not turn up on the scene until after the action has ended.
 
 
 
-
+==== New combat maneuver: Desperate Attack
+The character unleashes a frantic attack that focuses on hitting a target at the expense of damage. 
+He adds +2 or +4 to any Fighting roll and subtracts the corresponding amount from damage if the hit is successful. 
+This can be determined per attack (before rolling); it can't be combined with the Wild Attack combat maneuver.
 
 
 
