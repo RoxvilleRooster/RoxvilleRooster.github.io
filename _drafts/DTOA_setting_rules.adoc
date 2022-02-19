@@ -37,21 +37,7 @@ I thought of adding the Wound Cap setting rule (SWADE p 141) but I figured that,
 
 
 
-.Peckinpah mode
-****
-If you want a less bubblegum feel and more of a chewing tobacco feel, consider making the heroes less indestructible.
 
-.Remove
-* Heroes Never Die (SWADE p 140)
-* Wound Cap (SWADE p 141)
-
-Add the following setting rule:
-
-Soak at a cost::
-If the player spends a benny on a soak roll, that benny - instead of being discarded - goes into the GM's stack of bennies. 
-If the GM uses a benny to soak against a player, the GM hands that benny to the player.
-
-****
 
 === Special Setting Rules
 
@@ -103,8 +89,30 @@ When the heroes surrender at a dramatically fitting place in the story and go al
 ==== Pay It Forward
 When a Wild Card gets more than one raise on any Trait roll (including Soak rolls), they receive a Benny as a way to pay their luck forward.
 
+
 ==== Cinematic Death
 In a pulp game, death is not gory and messy.
+
+.Increasing the difficulty setting
+****
+
+The combined effect of the setting rules mean that the characters are pretty much indestructible.
+If you want to play with a bit more of a harder edge, consider making these changes to the setting rules:
+
+.Remove
+* Heroes Never Die (SWADE p 140)
+* Wound Cap (SWADE p 141)
+* Cinematic Death (i.e., there's more gore and mess)
+
+
+Add the following setting rule:
+
+Soak at a cost::
+If the player spends a benny on a soak roll, that benny - instead of being discarded - goes into the GM's stack of bennies. 
+If the GM uses a benny to soak against a player, the GM hands that benny to the player.
+
+****
+
 
 ////
 ==== Contacts
