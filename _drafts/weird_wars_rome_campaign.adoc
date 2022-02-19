@@ -115,7 +115,7 @@ Requirements;; Novice
 Equestrian/Patrician (Aristocrat)::
 Rome's social elites were Patricians (Senatorials) and Equestrians (knights). 
 // (Commoners were called plebians, or plebs).
-Such individuals have +2 to Persuasion trait rolls.
+Such individuals have +2 to Persuasion trait rolls when they are dealing with those of lesser station in the Roman world.
 Most aristocrats have small estates that provide income (in game terms, the character wants for nothing reasonable) and somewhere to go when not on active service. 
 Aristocrats may also find themselves subject to political maneuvers instigated both back in Rome or within the upper echelons of his legion.
 Requirements;; Novice 
@@ -172,14 +172,15 @@ Troops under command of a character with this edge add +2 to Fear checks.
 Requirements;; Seasoned, Command, Persuasion d8+
 
 ==== Professional edges
-////
+
 Aquilifer::
-Requirements;; Seasoned, Spirit d10+, Fighting d10+
 The aquilifer is a veteran soldier charged with
 carrying the legion's standard (_aquila_ or eagle) and keeping it safe.
-The character has immunis when making camp (see page 31), and when the aquila is carried the aquilifer gains the benefits of one Leadership Edge of his choice, though he must meet all the requirements. 
-He may only choose and use one such Edge per session. His command radius is equal to 5” plus his Charisma modifier.
-////
+The character has _immunis_ when making camp, and when the aquila is carried the aquilifer gains the benefits of one Leadership Edge of his choice, though he must meet all the requirements. 
+He may only choose and use one such Edge per session. His command radius is equal to 5".footnote:[What modifiers affect this range? Maybe the Charismatic edge?] 
+Requirements;; Seasoned, Spirit d10+, Fighting d10+
+// plus his Charisma modifier.
+
 Hardened::
 The soldier regains one extra point of Sanity during “down time.” 
 This is usually between missions, is entirely at the GM's discretion, and is in addition to any he might gain for other reasons.
@@ -203,26 +204,17 @@ Tribunes rank above centurions but are rarely given command of centuries or larg
 
 Requirements;; Novice, Fighting d6+, Command
 
-////
+
 Signifer::
+Each century has a _signum_, which is a spear shaft that is decorated with the century's awards. On top of the shaft is an open hand; the hand symbolizes the oath of loyalty that all soldiers take. 
+The soldier who carries the _signum_ is the _signifer_. 
+The _signum_ is a rallying point during battle.
+A signifer has immunis when making camp and +1 bonus to Persuasion rolls among his century.
+When he carries the signum, the players of the signifer can select one Leadership edge; the character must have all of the requirements for the edge. 
+He may only choose and use one such Edge per game session.
 Requirements;; Novice, Smarts d6+, Spirit d6+, Fighting d8+
-Every century has a signum, a spear shaft
-decorated with the century’s combat awards
-topped with an open hand, which signifies the
-oath of loyalty all soldiers take. The bearer of this
-signum is a signifer. In combat, the signum serves
-as a rallying point.
-A signifer has immunis when making camp (see
-page 31) and +1 Charisma among his century.
-When the signum is carried, the signifer gains
-the benefits of one Leadership Edge of his choice,
-though he must meet all the requirements. He
-may only choose and use one such Edge per game
-session.
-The signifer typically also ran a “burial club,”
-collecting regular payments from the men to
-ensure they had a decent burial.
-////
+// The signifer also ran a “burial club,” and collected payments from the men to ensure they had a decent burial.
+
 Sticky fingers::
 The soldier adds +2 to Common Knowledge rolls made to look for Spoils.
 Requirements;; Novice
@@ -251,13 +243,11 @@ Foreigner (Major / Minor)::
 The character isn't a Roman citizen. She may come from outside the Roman provinces or belong to a subjugated people.
 He can't be a legionary, but he may serve as a medicus, auxilia, speculatore, or similar character type.
 As a Minor Hindrance, the Foreigner is a Greek (the only other civilization Rome truly respected).
-He suffers -2 Persuasion with "proper" Romans but begins the game with the ability to speak
-Latin and his native tongue.
-As a Major Hindrance, the character is from outside Rome or its recognized and civilized)
-provinces. 
+He suffers -2 Persuasion with "proper" Romans but begins the game with the ability to speak Latin and his native tongue.
+As a Major Hindrance, the character is from outside Rome or its recognized and civilized) provinces. 
 These foreigners have -2 Persuasion with "true" Romans and cannot reroll Persuasion trait rolls.
 These characters are often sacrificed by their commanders as diversions, distractions, or to cover the retreat of the legions. 
-All auxilia are therefore Foreigners in a Romano-centric campaign.
+All _auxilia_ are therefore Foreigners in a Romano-centric campaign.
 Foreigners of either stripe can't own slaves or serve in the legions. 
 Besides the disadvantages listed above, Foreigners may be called on to use their local knowledge to serve the empire, perhaps betraying their own people.
 
@@ -472,6 +462,7 @@ Experience::
 Occasionally a legionary might find a veteran willing to share his tales and tactics—for a price. 
 The legionary gains an Experience Point. #Need to revise#
 ////
+// This sounds like it should be related to a glory, renown, or reputation mechanic
 _Immunis_:: 
 The soldier pays a superior to grant him immunity from camp work for a week if on the march, or a month if in camp.
 [[sanity_recover]]
