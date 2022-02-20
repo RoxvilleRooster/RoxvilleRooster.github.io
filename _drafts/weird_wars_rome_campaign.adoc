@@ -6,6 +6,15 @@
 :sectnumlevels: 5
 :sectlinks:
 
+.Disclaimer
+****
+As of February 2022, Pinnacle Entertainment Group has not released a document that supports the conversion of the Weird Wars Rome books from 2013, which was published for the Savage Worlds Explorer's Edition (SWDEE), for the use with Savage Worlds Adventure Edition (SWADE).
+This document is not intended as conversion document for mass consumption by Savage Worlds gamers.
+This document was drafted with the intent to support my own Weird Wars Rome campaign that will be played using SWADE.
+I encourage Savage Worlds enthusiasts of all stripes to purchase Weird Wars Rome (2013) 
+This document features excerpts of that book and is not intended to plagiarize elements from it. 
+****
+
 ////
 The campaign focused on a group of Roman soldiers of _Legio VI Victrix_, who are posted to the northern frontier near the end of the second century AD, around the xref:https://en.wikipedia.org/wiki/List_of_Roman_emperors#193%E2%80%93235:_Year_of_the_Five_Emperors_and_Severan_dynasty[year of the five emperors].
 
