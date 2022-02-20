@@ -569,7 +569,9 @@ Each artillery piece was manned by artillerists, and had a compliment of carpent
 Player characters are members of an _ala_ (cavalry).
 
 .Ranks within the ala 
+[options=header,cols="1,2,2"]
 |===
+| Rank level | Rank name | Latin rank name
 | 0 | Cavalryman (common soldier) |  _gregalis_  
 | 1 | Corporal | _sesquiplicarius_ 
 | 2 | turma standard-bearer | signifer
@@ -584,6 +586,7 @@ Player characters are members of an _ala_ (cavalry).
 For reference see link:https://en.wikipedia.org/wiki/Auxilia#Recruitment,_ranks_and_pay[Auxilia].
 
 .Building blocks of an ala
+[options=header,cols=",,,"]
 |===
 | Unit type| Number of sub-units | Sub-unit strength | Unit strength
 | Ala quingenaria | 16 turmae | 30 (32) | 480 (512)
