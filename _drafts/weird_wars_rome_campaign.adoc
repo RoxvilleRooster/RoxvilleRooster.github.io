@@ -9,10 +9,13 @@
 .Disclaimer
 ****
 As of February 2022, Pinnacle Entertainment Group has not released a document that supports the conversion of the Weird Wars Rome books from 2013, which was published for the Savage Worlds Explorer's Edition (SWDEE), for the use with Savage Worlds Adventure Edition (SWADE).
-This document is not intended as conversion document for mass consumption by Savage Worlds gamers.
+
+This document is not intended as conversion document for mass consumption by Savage Worlds fans and gamers.
 This document was drafted with the intent to support my own Weird Wars Rome campaign that will be played using SWADE.
-I encourage Savage Worlds enthusiasts of all stripes to purchase Weird Wars Rome (2013) 
+I encourage Savage Worlds enthusiasts of all stripes to purchase Weird Wars Rome (2013) from the link:https://peginc.com/product-category/weird-wars-rome/[Pinnacle Entertainment Group site]. 
+
 This document features excerpts of that book and is not intended to plagiarize elements from it. 
+This document also includes additional content that was adapted from the link:https://peginc.com/savage-settings/savage-pathfinder/[Pathfinder for Savage Worlds] rules set.
 ****
 
 ////
@@ -150,7 +153,7 @@ Requirements;; Seasoned, Strength d8+, Athletics d10+
 
 Formation fighter::
 The character increases the Gang Up bonus by an additional +1 for himself and his allies. 
-The maximum Gang Up bonus is still +4 no matter how many Formation Fighters stand together.
+The maximum Gang Up bonus is still +4 no matter how many Formation Fighters stand together. footnote:[The "Formation Fighter" edge appears in Savage Pathfinder core rules and was not part of Weird Wars Rome.]
 Requirements;; Novice, Fighting d8+
 
 Shield wall::
@@ -186,7 +189,8 @@ Aquilifer::
 The aquilifer is a veteran soldier charged with
 carrying the legion's standard (_aquila_ or eagle) and keeping it safe.
 The character has _immunis_ when making camp, and when the aquila is carried the aquilifer gains the benefits of one Leadership Edge of his choice, though he must meet all the requirements. 
-He may only choose and use one such Edge per session. His command radius is equal to 5".footnote:[What modifiers affect this range? Maybe the Charismatic edge?] 
+He may only choose and use one such Edge per session. His command radius is equal to 5".
+// footnote:[What modifiers affect this range? Maybe the Charismatic edge?] 
 Requirements;; Seasoned, Spirit d10+, Fighting d10+
 // plus his Charisma modifier.
 
@@ -319,6 +323,8 @@ This soldier procrastinates and actively tries to dodge any sort of work, or tri
 When forced into doing something, he attempts to finish whatever he's doing as quickly as possible.
 Shirkers suffer -2 to Promotion rolls. 
 His reputation for being lazy may not sit well with his companions or superior officers, so he has a -2 to his Persuasion with them.
+
+
 
 == Setting rules
 
@@ -527,8 +533,10 @@ If the soldier has been stricken with a disease, illness, or Fatigue, he may spe
 With a successful Vigor roll, all Fatigue and illness is removed.
 No refund is due if the roll is failed.
 
-
-
+=== New combat maneuver: Desperate Attack
+The character unleashes a frantic attack that focuses on hitting a target at the expense of damage. 
+He adds +2 or +4 to any Fighting roll and subtracts the corresponding amount from damage if the hit is successful. 
+This can be determined per attack (before rolling); it can't be combined with the Wild Attack combat maneuver. footnote:[The "Desperate Attack" maneuver appears in Savage Pathfinder core rules and was not part of Weird Wars Rome.]
 
 [appendix]
 == Military structure
@@ -582,17 +590,19 @@ Player characters are members of an _ala_ (cavalry).
 |===
 | Rank level | Rank name | Latin rank name
 | 0 | Cavalryman (common soldier) |  _gregalis_  
-| 1 | Corporal | _sesquiplicarius_ 
+| 1 | Corporal | sesquiplicarius
+| 2 | Sergeant | duplicarius
 | 2 | turma standard-bearer | signifer
 | 2 | decurion's deputy | curator 
 | 2 | ala standard-bearer | vexillarius
+// | 2.5 | (2) subaltern officer | principalis
 | 3 | turma commander | decurio
 | 4 | chief decurion | decurio princeps
 | 5 | deputy ala commander | beneficiarius
 | 6 | ala commander | praefectus or tribunus 
 |===
 
-For reference see link:https://en.wikipedia.org/wiki/Auxilia#Recruitment,_ranks_and_pay[Auxilia].
+For reference see link:https://en.wikipedia.org/wiki/Auxilia#Recruitment,_ranks_and_pay[Auxilia] and link:https://en.wikipedia.org/wiki/Turma#Empire[Turma].
 
 .Building blocks of an ala
 [options=header,cols=",,,"]
