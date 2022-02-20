@@ -331,16 +331,18 @@ The player characters are mortal and, while they have seen some of the savagery 
 How to join:: 
 Message me about your experience with Savage Worlds and other tabletop RPGs.
 Message me if you have any questions or need more information.
+Game Posting URL:: https://app.roll20.net/lfg/listing/323385/weird-wars-rome-beyond-the-wall
 
 
 === Elevator Pitch 
 Commodus, a dissolute emperor rules from Rome and claims the name Britannicus.
 The years of the five good emperors now seem a distant memory. 
 The army has grown undisciplined and mutinous.
-North of Hadrian's wall, tribal peoples stir; to the south, years of rule and subjugation cast a long shadow.
-In these shadows, dark beings rise up. In the twilight of the fading empire, the heroes do what they must.    
+North of Hadrian's wall, the tribal peoples stir; to the south, years of rule and subjugation cast a long shadow.
+In these shadows, dark beings rise up. 
+In the twilight of a fading empire, the heroes do what they must.    
 
-You are a soldier in an auxiliary cavalry cohort (_ala quingenaria_) stationed near Hadrian's wall at the close of the 2nd century AD. 
-You and your fellows are members of the same contubernium (8-man tent group).
+You are a soldier in an auxiliary cavalry cohort stationed near Hadrian's wall at the close of the 2nd century AD. 
+You and your fellows are members of the same file (10-man unit within a turma).
 
 Sources from _Cthulhu Invictus_ will influence the adventures. 
