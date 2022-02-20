@@ -278,7 +278,8 @@ Arcane Background (Cult of Mithras)::
 
 +
 *Special rules*:
-Sins: Priests of Mithras are subject to the usual rules for sinning described in Savage Worlds.
+_Sins_: + 
+Priests of Mithras are subject to the usual rules for sinning described in Savage Worlds.
 In their case, minor sins are retreating from battle unless it's it is certain suicide. 
 A major sin is shirking battle — particularly with a deserving foe or creature of darkness. 
 Working with evil is a mortal sin.
@@ -286,10 +287,10 @@ Working with evil is a mortal sin.
 
 === Hindrances
 
-The following Hindrances are only suitable with the GM's consent: 
+The following hindrances are only suitable with the GM's consent: 
 Elderly, Hard of Hearing (Major), Obese, One Arm, One Eye, One Leg, Outsider, Small, Wanted, and Young.  
 // #Review of SWADE#
-In addition, the Outsider Hindrance is replaced by _Foreigner_.
+In addition, the Outsider hindrance is replaced by _Foreigner_.
 
 
 Doubting Thomas (Major)::
@@ -611,6 +612,9 @@ For reference see link:https://en.wikipedia.org/wiki/Auxilia#Recruitment,_ranks_
 | Ala quingenaria | 16 turmae | 30 (32) | 480 (512)
 | Ala milliaria   | 24 turmae | 30 (32) | 720 (768)
 |===
+
+A turma is divided into three 10-man files.
+In game terms, the 10-man file in the cavalry is the equivalent of the 8-man contubernium in the legion and infantry.
 
 For reference see link:https://en.wikipedia.org/wiki/Auxilia#Unit_types_and_structure[Auxilia].
 
