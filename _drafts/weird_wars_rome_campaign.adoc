@@ -220,10 +220,55 @@ The soldier adds +2 to Common Knowledge rolls made to look for Spoils.
 Requirements;; Novice
 
 ==== Social edges
+
 Band of brothers::
 Characters with this Edge gain +1 Toughness for each other “brother” with this ability within 6”, to a maximum of +4. 
 For example, if four soldiers with this edge stand together, they each gain +3 Toughness.
 Requirements;; Wild Card, Veteran, Common Bond
+
+===== Arcane backgrounds
+
+Arcane Background (Cult of Mithras):: 
+*Requirements*: Seasoned, Faith d4+, Spirit d6+, Fighting d6+ + 
+*Arcane Skill*: Faith (Spirit) + 
+*Power Points*: 10 + 
+*Starting Powers*: 2 + 
+*Backlash*: When a priest of Mithras rolls a 1 on his Faith die, he's Shaken. + 
+*Trappings*: No visible effects beyond a slight yellowish glow. + 
+*Powers List*: 
+// * Armor
+* Arcane Protection
+* Banish
+* Boost/lower trait
+* Confusion
+* Deflection
+* Detect/conceal arcana
+* Dispel
+* Divination
+* Drain Power Points
+* Environmental protection
+* Farsight
+* Fear
+* Havoc
+* Healing
+* Light (of Light/Darkness)
+// * Pummel
+// * Quickness
+* Protection
+* Relief
+* Smite
+* Speak language
+* Speed (of Sloth/Speed)
+// * Speed
+* Stun
+// * Succor
+
++
+*Special rules*:
+Sins: Priests of Mithras are subject to the usual rules for sinning described in Savage Worlds.
+In their case, minor sins are retreating from battle unless it's it is certain suicide. 
+A major sin is shirking battle — particularly with a deserving foe or creature of darkness. 
+Working with evil is a mortal sin.
 
 
 === Hindrances
@@ -252,11 +297,10 @@ Foreigners of either stripe can't own slaves or serve in the legions.
 Besides the disadvantages listed above, Foreigners may be called on to use their local knowledge to serve the empire, perhaps betraying their own people.
 
 Replacement (Minor)::
-This soldier is fresh to service and still rough around the edges. 
-Not every young man fresh off the farm has this hindrance - only those who take a little longer to adjust to the realities of war.
-The warrior is not dealt an Action Card on the first round of any combat (he's always "surprised"). 
-In addition, he subtracts 2 from Notice rolls made to detect ambushes or booby traps, as well as most Common Knowledge rolls related to military operations.
-The replacement is often assigned the worst duties — latrine detail, punishing slaves, carrying water, and so forth.
+Not every young soldier has this hindrance - only those who take a little longer to adjust to the realities of war.
+Do not deal this character an Action Card on the first round of any combat (that is, every combat is a surprise). 
+In addition, the soldier has a -2 penalty for Notice rolls made to detect ambushes or booby traps; he also suffers the -2 penalty to most Common Knowledge rolls related to military operations.
+The replacement is often assigned the worst duties.
 Of course, the soldier doesn't stay new forever.
 After each relatively active month of service, the hero makes a Smarts roll at -2. 
 If the roll is successful, he drops one group of penalties - either the Action Card penalty or the -2 to Notice and Common Knowledge rolls. 
@@ -459,7 +503,7 @@ While on leave, the soldier parties hards.
 He gains a Benny that may be saved between sessions until used.
 ////
 Experience:: 
-Occasionally a legionary might find a veteran willing to share his tales and tactics—for a price. 
+Occasionally a legionary might find a veteran willing to share his tales and tactics — for a price. 
 The legionary gains an Experience Point. #Need to revise#
 ////
 // This sounds like it should be related to a glory, renown, or reputation mechanic
