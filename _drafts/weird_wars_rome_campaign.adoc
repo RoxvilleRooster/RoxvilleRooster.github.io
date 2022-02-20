@@ -646,19 +646,6 @@ that province.
 Legatus Augusti pro Praetore:: 
 An "Imperial Legate" appointed by the Senate or Emperor in charge of multiple legions. He was usually the governor of the legions' province as well.
 
-=== Ranks in the auxilia
-
-See link:https://en.wikipedia.org/wiki/Auxilia#Unit_types_and_structure[Unit types and structure].
-
-The PCs are either part of a 
-_cohors equitata_ (infantry plus cavalry contingent) or an _ala_ (cavalry cohort).
-
-Assuming that the PCs are part of an _ala quingenaria_ (512 men), the unit commander is a _praefectus_ and the sub-unit commander is a _decurio_.
-The 512-man _ala quingenaria_ was made up of 16 _turmae_ of 32 men each (16 x 32 = 512). 
-A _decurio_ commands a _turma_.
-// footnote:[link:https://htt.herefordshire.gov.uk/herefordshires-past/the-romano-british-period/the-roman-army/roman-forts/[Roman Forts]].
-
-
 === Other ranks
 
 Signifer:: 
@@ -681,8 +668,6 @@ Navarchus::
 The captain of single warship.
 Praefectus Classis:: 
 The Roman equivalent of an admiral, this officer commanded a fleet.
-
-
 
 
 [appendix]
