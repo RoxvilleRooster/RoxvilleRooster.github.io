@@ -277,7 +277,7 @@ Arcane Background (Cult of Mithras)::
 // * Succor
 
 +
-*Special rules*:
+*Special rules*: + 
 _Sins_: + 
 Priests of Mithras are subject to the usual rules for sinning described in Savage Worlds.
 In their case, minor sins are retreating from battle unless it's it is certain suicide. 
