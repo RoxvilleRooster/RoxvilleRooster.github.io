@@ -226,7 +226,7 @@ Characters with this Edge gain +1 Toughness for each other “brother” with th
 For example, if four soldiers with this edge stand together, they each gain +3 Toughness.
 Requirements;; Wild Card, Veteran, Common Bond
 
-===== Arcane backgrounds
+==== Arcane backgrounds
 
 Arcane Background (Cult of Mithras):: 
 *Requirements*: Seasoned, Faith d4+, Spirit d6+, Fighting d6+ + 
@@ -564,6 +564,33 @@ A typical legion had one _onager_ (light catapult) per cohort (six per legion) a
 These were carried on carts drawn by mules. 
 Each artillery piece was manned by artillerists, and had a compliment of carpenters to enact repairs or construct new siege engines.
 
+=== Ranks in the auxilia cavalry
+
+Player characters are members of an _ala_ (cavalry).
+
+.Ranks within the ala 
+|===
+| 0 | Cavalryman (common soldier) |  _gregalis_  
+| 1 | Corporal | _sesquiplicarius_ 
+| 2 | turma standard-bearer | signifer
+| 2 | decurion's deputy | curator 
+| 2 | ala standard-bearer | vexillarius
+| 3 | turma commander | decurio
+| 4 | chief decurion | decurio princeps
+| 5 | deputy ala commander | beneficiarius
+| 6 | ala commander | praefectus or tribunus 
+|===
+
+For reference see link:https://en.wikipedia.org/wiki/Auxilia#Recruitment,_ranks_and_pay[Auxilia].
+
+.Building blocks of an ala
+|===
+| Unit type| Number of sub-units | Sub-unit strength | Unit strength
+| Ala quingenaria | 16 turmae | 30 (32) | 480 (512)
+| Ala milliaria   | 24 turmae | 30 (32) | 720 (768)
+|===
+
+For reference see link:https://en.wikipedia.org/wiki/Auxilia#Unit_types_and_structure[Auxilia].
 
 [appendix]
 == Military ranks
