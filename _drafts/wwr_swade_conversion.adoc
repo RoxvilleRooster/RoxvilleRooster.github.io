@@ -4,7 +4,7 @@ Convert the Weird Wars Rome RPG to the Savage Worlds Adventure Edition
 
 Weird Wars Rome was written for Savage Worlds Deluxe, but it's easy to update for the Savage Worlds Adventure Edition.
 Most of the rules can be used as-is. 
-Those that require a little more work are detailed below.
+Those that require a little more work are detailed below. +  
 Where core rules differ, the Game Master can use whichever version she prefers. Both versions will work just fine in your
 game, though those presented in SWADE are a bit more structured and streamlined.
 
@@ -17,18 +17,21 @@ If you see something we missed, please tell us on the Pinnacle forums!
 Racial abilities, skills, Edges, Hindrances, and gear should be converted to their SWADE equivalents. 
 Knowledge (Battle) becomes Battle, for example, and Tracking is Survival. 
 If a character has two skills that have been merged into one in SWADE (such as Survival and Tracking), use the higher of the two values for the new skill.
+
 If a being has an Edge or Hindrance without an obvious equivalent in SWADE, you can either ignore it or give it a new one you feel has the same general theme.
+
 Unless otherwise stated, intelligent beings have Common Knowledge and Persuasion at d6, and all beings have Athletics, Notice, and Stealth at d6. 
 The War Master should increase this to the linked attribute (or higher) if she feels it's appropriate.
+
 Any bonus or penalty to Charisma is applied to the specified Persuasion rolls instead.
 // Ignore all instances of Climb for flying creatures and vehicles.
 Special Abilities such as Undead, or those that mimic Edges such as Frenzy, should use the updated versions presented in SWADE.
 // Construct
 
-== Creatio Militis (character creation)
+== Creatio Militis (Military Personnel)
 // The Making of a Soldier
 
-=== Skills
+=== Traits
 
 .The following skills are not available to player characters in this setting:
 * Electronics
@@ -198,3 +201,62 @@ Add Arcane Protection footnote:[I added the Arcane Protection power because Quic
 * Relief (was Succor in SWDEE)
 * Light (of SWADE Light/Darkness)
 * Speed (of SWADE Sloth/Speed)
+
+
+== Beasts et Monsters
+
+Arbor Bellum:: 
+Add *Entangle* special ability. 
+The creature adds +2 to any Grappling rolls. +  
+*Stomp* should be Str+d8 (i.e., not Str+8).
+
+Corpse Raven (swarm)::
+Flight: Pace 12.footnote:[In WWR, the harpy and the corpse raven had flight pace of 8; in _Pathfinder for Savage Worlds Bestiary p.73_, the harpy is listed with a flight pace of 12 so I have use the same for the corpse raven.]
+
+Harpy::
+Flight: Pace 12.footnote:[In _Pathfinder for Savage Worlds Bestiary p.73_ , Harpy is listed with a flight pace of 12.]
+
+Jculus::
+Add Athletics at d8. 
+
+
+Kludde::
+Add Athletics at d8. 
+
+Manticora::
+Add Athletics at d8. 
+
+Mermaid::
+Add Performance at d12. + 
+Siren Song: The mermaid's song is like a narcotic for men. 
+The mermaid sings and the character(s) who hears the song must resist (Performance versus Spirit) or fall under the spell of the song.
+
+Strigoi (Dacian vampire)::
+Use Vampire from SWADE p. 189 but with the following changes: + 
+*Attributes*: Agility d8, Smarts d10, Spirit d10, Strength d12+2, Vigor d10 + 
+*Skills*: Athletics d8, Common Knowledge d6, Fighting d8, Intimidation d8, Notice d8, Persuasion d6, Stealth d6 + 
+*Pace*: 6; Parry: 7; Toughness: 13(3) + 
+*Edges*: Block, Combat Reflexes, Command, Fervor, Frenzy, Level Headed, Aristocrat, Rich, Sweep + 
+*Gear*: Bronze breastplate (+3), medium shield (+2 Parry), great _falx_ (Str+d10). + 
+*Special Abilities*:
+* Bite: Str+d4.
+* Undead: +2 Toughness; +2 to recover from being Shaken; no additional damage from Called Shots; ignores 1 point of Wound penalties; doesn't breathe; immune to disease and poison. 
++  
+NOTE: Other abilities for the _Strigoi_ as the entry in _Weird Wars Rome_. 
+
+Stryge::
+Flight: Pace 12.footnote:[In WWR, the harpy and the stryge had flight pace of 8; in _Pathfinder for Savage Worlds Bestiary p.73_, the harpy is listed with a flight pace of 12 so I have use the same for the stryge.]
+
+
+Werebear::
+Add Athletics at d8. + 
+Bear Hug: A werebear who hits with a Fighting attack and also succeeds a raise has pinned (i.e., Entangled and Bound) his foe and may bite at +2 until the foe is freed. 
+The opponent may only attempt to escape the hug on his action. 
+To completely break free of the bear hug, the victim of the hug must improve his status so that he is no longer Bound nor Entangled.
+The werebear resists attempts to break free using Strength.
+The werebear is not subject to the customary -2 penalty when using Strength in grappling.
++ 
+NOTE: Keep in mind the "Size Matters" rules under Grappling on SWADE p. 101.  
+
+Wolfman::
+Add Athletics at d8. + 
