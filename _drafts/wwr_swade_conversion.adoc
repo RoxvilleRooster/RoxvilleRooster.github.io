@@ -1,0 +1,160 @@
+= Weird Wars Rome Conversion
+Convert the Weird Wars Rome RPG to the Savage Worlds Adventure Edition
+
+Weird Wars Rome was written for Savage Worlds Deluxe, but it's easy to update for the Savage Worlds Adventure Edition.
+Most of the rules can be used as-is. 
+Those that require a little more work are detailed below.
+Where core rules differ, the Game Master can use whichever version she prefers. Both versions will work just fine in your
+game, though those presented in SWADE are a bit more structured and streamlined.
+NOTE: : This is a living document.  
+If you see something we missed, please tell us on the Pinnacle forums!
+
+
+== General Notes
+
+Racial abilities, skills, Edges, Hindrances, and gear should be converted to their SWADE equivalents. 
+Knowledge (Battle) becomes Battle, for example, and Tracking is Survival. 
+If a character has two skills that have been merged into one in SWADE (such as Survival and Tracking), use the higher of the two values for the new skill.
+If a being has an Edge or Hindrance without an obvious equivalent in SWADE, you can either ignore it or give it a new one you feel has the same general theme.
+Unless otherwise stated, intelligent beings have Common Knowledge and Persuasion at d6, and all beings have Athletics, Notice, and Stealth at d6. 
+The GM should increase this to the linked attribute (or higher) if she feels it's appropriate.
+Any bonus or penalty to Charisma is applied to the specified Persuasion rolls instead.
+// Ignore all instances of Climb for flying creatures and vehicles.
+Special Abilities such as Undead, or those that mimic Edges such as Frenzy, should use the updated versions presented in SWADE.
+// Construct
+
+== Creatio Militis 
+// The Making of a Soldier
+
+=== Hindrances
+
+Slow:: Use Hesitant from SWADE instead.
+
+Foreigner (Major / Minor)::
+As a Minor Hindrance, the Foreigner is a Greek.
+He suffers -2 Persuasion with "proper" Romans but begins the game with the ability to speak Latin and his native tongue.
++ 
+As a Major Hindrance, the character is from outside Rome (or from its recognized and civilized provinces). 
+These foreigners have -2 Persuasion with "true" Romans and cannot reroll Persuasion trait rolls.
+
+Shirker (Minor)::
+Shirkers suffer -2 to Promotion rolls. 
+His reputation for being lazy may not sit well with his companions or superior officers, so he has a -2 to his Persuasion with them.
+
+=== Edges
+
+==== Background edges
+
+Campaign Veteran:: 
+*Requirements*: Novice, Smarts d6+, Spirit d6+, Vigor d8+, Fighting d8+, Athletics d6+ + 
+As a Background Edge, it may only be taken at character creation, and you must have the GM's permission to take it. 
+Your soldier begins play at Seasoned Rank to represent his years of military service. 
+Start with a standard Novice character, then give him four Advances.
+The price for this experience is that the advancements must be repaid. 
+The first 4 Advances your hero earns are forfeited to "pay back" the debt.footnote:[This was framed in terms of experience points in SWDEE.]
+
+////
+Military Family:: 
+*Requirements*: Novice + 
+The hero's father was a career soldier who rose to the ranks of centurio (or higher with the GM's permission) or legatus (for parents with the Equestrian or Military Family Edge). 
+He begins the game with a d4 in Fighting, Battle, Riding, or Athletics (player's choice).
+In addition, he has +1 Persuasion when dealing with officers of centurio rank and above and to promotion rolls because of his father's reputation.
+Should he fail to live up to his father's deeds (GM's discretion), he suffers a -2 penalty to Persuasion until he makes amends.
+////
+
+Equestrian/Patrician (Aristocrat):: 
+*Requirements*: Novice + 
+Rome's social elites were Patricians (Senatorials) and Equestrians (knights). 
+// (Commoners were called plebians, or plebs).
+Such individuals have +2 to Persuasion trait rolls _when they are dealing with those of lesser station in the Roman world_.footnote:[There may be an occasion here to leverage the settings rules for status from Rippers Resurrected to handle high status classes versus the plebeians.]
+// Most aristocrats have small estates that provide income (in game terms, the character wants for nothing reasonable) and somewhere to go when not on active service. 
+// Aristocrats may also find themselves subject to political maneuvers instigated both back in Rome or within the upper echelons of his legion.
+
+
+==== Combat Edges
+
+Mighty throw:: 
+For the Edge requirements, replace Throwing d10+ with Athletics d10+.
+
+==== Professional edges
+
+Aquilifer:: 
+*Requirements*: Seasoned, Spirit d10+, Fighting d10+ + 
+His command range is equal to 5".
+For each of the following edges he takes, add +1" to the signifier's command range:footnote:[This replaces the use of the SWDEE Charisma stat to increase the command radius.] 
+
+* Charismatic
+* Work the Room
+* Work the Crowd 
+
+== Arma
+
+.Shields
+* Treat the _clipeus_ as a medium shield per SWADE.
+* Treat the _scutum_ as a large shield per SWADE.
+
+.Land Vehicles
+[cols=",,,,,,,,",options="header"]
+|===
+| Vehicle | Size | Mass up to... | Height / Length up to… | Scale Mod | Handling | Top Speed (MPH) | Typical Toughness | Crew 
+| Chariot, racing | 0 | 250 lbs | 6' | - | +2 | 16 | 6 (1) | 1 + 1
+| Chariot, war | 1 | 500 lbs | 8' | — | +2 | 16 | 7 (1) | 1 + 2
+|===
+
+.Galleys
+[cols=",,,,,,,,,",options="header"]
+|===
+| Vehicle | Size | Mass up to... | Height / Length up to… | Scale Mod | Handling | Row Speed (MPH) | Wind Speed (MPH) | Typical Toughness | Crew 
+
+| Liburna trireme‡, light war galley† | 13 | 100 tons | 100' | +6 | -1 | 18 | 5 to 8 | 18 (4) | 120 + 30 
+
+| trireme‡, war galley† | 13 | 125 tons | 125' | +6 | -2 | 16 | 5 to 8 | 21 (4) | 150 + 40
+
+| quadrireme‡, galleon | 14 | 250 tons | 150' | +6 | -2 | 14 | 5 to 9 | 22 (4) | 200 + 60
+
+// | quinquereme‡, galleon | 14 | 250 tons | 150' | +6 | -2 | 14 | 5 to 9 | 22 (4) | 200 
+
+|===
+
+////
+Liburna Trireme: Acc/Top Speed: 2/8 (2/4 with
+sail); Toughness: 15(4); Crew: 120+30
+• Trireme: Acc/Top Speed: 1/4 (1/2 with sail);
+Toughness: 18(4); Crew: 160+40
+• Quadrireme: Acc/Top Speed: 1/6 (1/3 with
+sail); Toughness: 23(4); Crew: 200+60
+////
+
+
+== Praescripta Mundi (Setting Rules)
+
+=== Awards and honors
+The individual battle honors can be won. 
+When any major awards is first granted, the character receives one advance. 
+When worn, the legionary adds +2 to his Persuasion (+4 for the _corona graminea_).
+
+
+=== Spoils
+
+////
+Experience:: 
+Occasionally a legionary might find a veteran willing to share his tales and tactics — for a price. 
+The legionary gains an Experience Point. #Need to revise#
+////
+// This sounds like it should be related to a glory, renown, or reputation mechanic
+
+== Arcana (Secrets)
+
+// === Arcane backgrounds
+
+Arcane Background (Cult of Mithras):: 
+*Powers List*: + 
+The SWDEE Quickness power is removed. + 
+Add Arcane Protection footnote:[I added the Arcane Protection power because Quickness was removed; this power made sense to me to add as a way to make whole the list of powers.]
++ 
+.Changes to power names
+* Havoc (was Pummel in SWDEE)
+* Protection (was Armor in SWDEE)
+* Relief (was Succor in SWDEE)
+* Light (of SWADE Light/Darkness)
+* Speed (of SWADE Sloth/Speed)
