@@ -192,7 +192,7 @@ The legionary gains an Experience Point. #Need to revise#
 
 Arcane Background (Cult of Mithras):: 
 *Powers List*: + 
-The SWDEE Quickness power is removed. + 
+The SWDEE Quickness power is removed; quickness is a modifier of the Speed/Sloth power. + 
 Add Arcane Protection footnote:[I added the Arcane Protection power because Quickness was removed; the Mithras cultist has the same number of powers available as before.]
 + 
 .Changes to power names
