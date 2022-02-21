@@ -64,7 +64,7 @@ Special Abilities
 Bite: Str+d4.
 Size -1: The heads of these canines come to an average human's waist, and they weigh about 60 pounds.
 Speed: d10 running die.
-Go for the Throat: War dogs are trained to go for an opponent's soft spots. With a raise on its attack roll, it hits the target’s most weakly armored location.
+Go for the Throat: War dogs are trained to go for an opponent's soft spots. With a raise on its attack roll, it hits the target's most weakly armored location.
 
 
 
@@ -95,7 +95,7 @@ Size 2: Typical quarter horse of about 1000 lbs.
 
 
 === Swarm
- The swarm described here can be of most anything-from biting ants to stinging wasps to filthy rats. They cover an area equal to a Large, Medium, or Small Blast Template and attack everyone within it every round. When a swarm is Incapacitated it’s effectively dispersed.
+ The swarm described here can be of most anything-from biting ants to stinging wasps to filthy rats. They cover an area equal to a Large, Medium, or Small Blast Template and attack everyone within it every round. When a swarm is Incapacitated it's effectively dispersed.
 
 Attributes: Agility d10, Smarts d4 (A), Spirit d12, Strength d8, Vigor d10
 Skills: Notice d6
@@ -127,7 +127,7 @@ Skills: Fighting d8, Intimidation d10, Battle d6, Notice d6, Riding d6, Survival
 Pace: 6; Parry: 7; Toughness: 8 (2)
 Edges: Block, Combat Reflexes, Command, Hold the Line, Level Headed, Rank
 Hindrances: Loyal
-Gear: Lorica hamata (+2), bronze greaves (+2), legionary helmet (+3), gladius (Str+d6), centurion’s stick (vitis).
+Gear: Lorica hamata (+2), bronze greaves (+2), legionary helmet (+3), gladius (Str+d6), centurion's stick (vitis).
 
 === Roman, Gladiator
 Roman citizens were a bloodthirsty mob, and gladiators fought deadly duels for the amusement of the crowds. More than once Rome suffered slave revolts, the most notable being that of Spartacus, who led a gladiator revolt which threatened the stability of Rome for a short while.
@@ -181,7 +181,7 @@ Skills: Fighting d10, Intimidation d10, Notice d4, Athletics d6, Stealth d4
 Pace: 6; Parry: 6; Toughness: 7
 Edges: Berserk, Nerves of Steel, Sweep
 Hindrances: Bloodthirsty, Illiterate
-Gear: Great axe (Str+d10, AP 1, –1 Parry).
+Gear: Great axe (Str+d10, AP 1, -1 Parry).
 
 Experienced:: add edges Improved Sweep, Block, Combat Reflexes, Frenzy; parry increases to 7
 Veteran:: increase Fighting to d12; add edges Improved Frenzy, Hard to Kill; parry increases to 8
@@ -278,7 +278,7 @@ Weakness (Fire): Bog bodies are infused with peat-saturated water and take +4 da
 
 
 === Fog Of War
-“Friendly fire” is present in every conflict, but more so during Rome’s frequent civil wars, when legionaries on both sides wear exactly the same armor. While much of it can be chalked up to the confusion inherent in battle, the fiendish creature known as the fog of war certainly does its best to facilitate such tragedies. In its natural form, a fog of war is a cloud of gray mist filling a Small Burst Template. Occasionally, the faces of pained and dying soldiers from various wars may appear fleetingly in the smoky form, psychic impressions left from previous victims. The fog of war is able to alter its form into nearly any shape of equal volume when the need arises. These sentient killers sow paranoia, fear, and confusion in an effort to promote friendly fire. They do this through subtle means, such as depriving troops of sleep and putting them on edge, altering perceptions with magical abilities, or simply dominating an officer to order an action leading to fratricide. Fogs of war find glee in such senseless and unfortunate deaths.
+“Friendly fire” is present in every conflict, but more so during Rome's frequent civil wars, when legionaries on both sides wear exactly the same armor. While much of it can be chalked up to the confusion inherent in battle, the fiendish creature known as the fog of war certainly does its best to facilitate such tragedies. In its natural form, a fog of war is a cloud of gray mist filling a Small Burst Template. Occasionally, the faces of pained and dying soldiers from various wars may appear fleetingly in the smoky form, psychic impressions left from previous victims. The fog of war is able to alter its form into nearly any shape of equal volume when the need arises. These sentient killers sow paranoia, fear, and confusion in an effort to promote friendly fire. They do this through subtle means, such as depriving troops of sleep and putting them on edge, altering perceptions with magical abilities, or simply dominating an officer to order an action leading to fratricide. Fogs of war find glee in such senseless and unfortunate deaths.
 
 Attributes: Agility d4, Smarts d6, Spirit d8, Strength d4, Vigor d8
 Skills: Notice d6, Persuasion d8, Stealth d10
@@ -302,7 +302,7 @@ Fearless: Immune to Fear and Intimidation.
 Storm of Steel: A fury fills a Small Burst Template with whirling bits of flying debris. Each turn it moves a full Pace across a battlefield increases its size by a larger Burst Template. Any character in the template is attacked by the fury for 2d6 damage. Furies will not attack anyone who goes prone, however.
 Swarm: Parry +2. The fury consists of scores of broken weapons, armor, and body parts. Cutting and piercing weapons do half damage. Area-effect weapons work normally.
 Weakness (Magic): Magical weapons (including those blessed by smite spells and the like) do full normal damage.
-Weakness (Test of Fury): Mighty warriors or pious holy men can attempt to absorb the fury's energy into themselves. With a raise on an opposed Spirit roll, the fury’s energy is dispersed.
+Weakness (Test of Fury): Mighty warriors or pious holy men can attempt to absorb the fury's energy into themselves. With a raise on an opposed Spirit roll, the fury's energy is dispersed.
 
 === Ghost
 Specters, shades, and phantoms sometimes return from death to haunt the living or fulfill some unfinished business.
@@ -314,23 +314,23 @@ Edges: -
 Gear: Thrown objects (Str+d4).
 Special Abilities
 Ethereal: Ghosts are invisible and immaterial at will and can only be harmed by magical attacks.
-Fear (−2): Ghosts cause Fear checks at −2 when they let themselves be seen.
+Fear (-2): Ghosts cause Fear checks at -2 when they let themselves be seen.
 
 === 'Glom
-A ’glom (short for conglomerate) is a group of corpses joined together into a horrifying mass and animated by the weird energies generated on the battlefield. The parts of the component bodies can be seen clearly, although they are merged inseparably into a single horrific mass. The creation of a ’glom requires at least two corpses. One corpse, which forms the core of the creature, must be relatively intact, but the others needn’t be so tidy. Most ’gloms are formed from considerably more than two corpses. The ’glom is able to join additional corpses to its seething mass, increasing its power proportionately. ’Gloms use their limbs and whatever weapons are handy to kill any living person in sight. Whenever possible, ’gloms add corpses to their mass. ’Gloms can ranged weapons if available, though since its limbs often flail wildly, any shots fired by the ’glom suffer a −2 penalty.
+A 'glom (short for conglomerate) is a group of corpses joined together into a horrifying mass and animated by the weird energies generated on the battlefield. The parts of the component bodies can be seen clearly, although they are merged inseparably into a single horrific mass. The creation of a 'glom requires at least two corpses. One corpse, which forms the core of the creature, must be relatively intact, but the others needn't be so tidy. Most 'gloms are formed from considerably more than two corpses. The 'glom is able to join additional corpses to its seething mass, increasing its power proportionately. 'Gloms use their limbs and whatever weapons are handy to kill any living person in sight. Whenever possible, 'gloms add corpses to their mass. 'Gloms can ranged weapons if available, though since its limbs often flail wildly, any shots fired by the 'glom suffer a -2 penalty.
 
 Attributes: Agility d6, Smarts d4, Spirit d4, Strength d8, Vigor d8
 Skills: Fighting d8, Intimidation d6, Notice d10, Shooting d4
 Pace: 6; Parry: 6; Toughness: 9
-Gear: ’Gloms may carry weapons according to the number of hands they possess.
+Gear: 'Gloms may carry weapons according to the number of hands they possess.
 Special Abilities
 Claws: Str+d4. Strength depends on the number of corpses in the creature (see below).
-Fear (−2): Anyone viewing a 'glom must make a Fear test (−2).
+Fear (-2): Anyone viewing a 'glom must make a Fear test (-2).
 Fearless: 'Gloms are immune to Fear and Intimidation. 
-’Glom: A 'glom takes a full round to add a corpse to its mass. For every corpse after the second, the ’glom gains one die each in Strength and Vigor. It also gains +1 Size. A ’glom suffers no multi-action penalties until it takes more actions in a turn than it has corpses in its mass. A ’glom may grow as large as 10 corpses (Strength and Vigor d12+6, Size +9).
+'Glom: A 'glom takes a full round to add a corpse to its mass. For every corpse after the second, the 'glom gains one die each in Strength and Vigor. It also gains +1 Size. A 'glom suffers no multi-action penalties until it takes more actions in a turn than it has corpses in its mass. A 'glom may grow as large as 10 corpses (Strength and Vigor d12+6, Size +9).
 Size +1: 'Gloms start out with two corpses incorporated into their mass.
 Undead: +2 Toughness, +2 recover from being Shaken, no additional damage from Called Shots, ignores wound penalties, immune to disease and poison.
-Weakness (Head): Shots to the 'glom’s primary head do +2 damage. Piercing attacks do normal damage. A Notice roll at a −1 cumulative penalty for each ’glommed reveals which of a ’gloms many heads is the primary.
+Weakness (Head): Shots to the 'glom's primary head do +2 damage. Piercing attacks do normal damage. A Notice roll at a -1 cumulative penalty for each 'glommed reveals which of a 'gloms many heads is the primary.
 
 
 === Hate
@@ -348,7 +348,7 @@ Swarm: Parry +2. The hate is composed of scores of souls, cutting and piercing w
 Weakness: Magical weapons (including those blessed by smite spells and the like) do full normal damage. They are also vulnerable to weapons taken from the dead of a battlefield in which the hates were created.
 
 === Husk
-A husk is created when a person dies of extreme heat or cold. A husk’s skin dries and shrivels, becoming tough and leathery. Its eyes sink into its sockets and blood is the only thing that can sustain it. Husks are instinctive predators and very cunning. They may stake out a desert oasis or warm spring, the water useless to them, but a draw for their human prey. They may also stalk a convoy or caravan, hoping to pick off any stragglers.
+A husk is created when a person dies of extreme heat or cold. A husk's skin dries and shrivels, becoming tough and leathery. Its eyes sink into its sockets and blood is the only thing that can sustain it. Husks are instinctive predators and very cunning. They may stake out a desert oasis or warm spring, the water useless to them, but a draw for their human prey. They may also stalk a convoy or caravan, hoping to pick off any stragglers.
 
 Attributes: Agility d6, Smarts d6, Spirit d8, Strength d6, Vigor d8
 Skills: Climbing d6, Fighting d8, Notice d6, Stealth d8
@@ -356,7 +356,7 @@ Pace: 6; Parry: 6; Toughness: 8
 Special Abilities
 Bite/Claw: Str+d4.
 Environmental Protection: Husks ignore all damage from heat or cold-based attacks.
-Frenzy: Husk may make two attacks at –2.
+Frenzy: Husk may make two attacks at -2.
 Level Headed: Husks get two Action Cards and act on the best.
 Undead: +2 Toughness; +2 to recover from being Shaken; no additional damage from called shots; immune to disease and poison; does not suffer wound penalties.
 
@@ -385,7 +385,7 @@ Skills: Notice d8
 Pace: -; Parry: 4; Toughness: 7
 Special Abilities
 Bite/Claw: Sluagh attack everyone within the flock every round, hitting automatically for 2d4 damage. Characters inside solid buildings are immune. Light cover, like a tent or canvas tarp, is shredded and rendered useless in three rounds.
-Destabilization: If the sluagh pass over an Incapacitated victim, he must make a Vigor roll at –2 or perish.
+Destabilization: If the sluagh pass over an Incapacitated victim, he must make a Vigor roll at -2 or perish.
 Fly: Pace 12, Climb 3.
 Low Light Vision: Sluagh ignore the penalties for Dim and Dark lighting.
 Swarm: +2 Parry. Sluagh attack in flocks of up to 100 birds. These flocks are treated as an individual creature the size of a Medium Burst Template. The flock can only be harmed by area effect attacks. A Wound disperses the flock.
@@ -406,7 +406,7 @@ Size +2: These creatures stand up to 8' tall and weigh over 1000 pounds each.
 
 
 === Wereboar
-Wereboars are found only among the Picts, and serve as their elite warriors. Legio XX’s symbol was a boar, and they were stationed on the border between Britannia and Caledonia for much of their existence. Coincidence?
+Wereboars are found only among the Picts, and serve as their elite warriors. Legio XX's symbol was a boar, and they were stationed on the border between Britannia and Caledonia for much of their existence. Coincidence?
 
 Attributes: Agility d6, Smarts d4, Spirit d10, Strength d12, Vigor d10
 Skills: Fighting d10, Intimidation d10, Notice d8, Stealth d8
@@ -420,20 +420,20 @@ Size +1: These creatures stand up to 7' tall and weigh over 700 pounds each.
 Tusks: Str+d8.
 
 === Will O' Wisp
-Will o’ wisps are the ghosts of men who died in lingering agony after being wounded, their piteous cries for help going unheeded. With their last breathe they cursed their god and their comrades, unintentionally binding their spirit to the killing ground. They manifest as small handfuls of flickering white flame that is oddly cold to the touch rather than hot. Some soldiers claim to have seen a grinning face inside a will o’ wisp. A will o’ wisp uses the glimmering light produced by its form to lure its intended victim to a secluded spot. Appearing to be a wounded man, the wisp favors its comrades whom it blames for its death. Once they approach, it weakens its victims with a fire seeming to spring from Hell itself. Once the target succumbs to the heat, the ghost possesses his corpse which immediately bursts aflame. These burning zombies are sometimes referred to as “flaming jacks.” The ghost uses the reanimated body to wreak as much havoc as it can before it is consumed by the creature’s otherworldly flames- usually against the other members of the litter team now. Initially, a will o’ wisp haunts the area near its death, seeking vengeance on its former comrades. Once it has revenged itself, the hatred and anger that drove it to an undead existence continue to burn within the ghost. Some areas of No Man’s Land flicker with small lights once night falls over the blasted landscape. In these areas, litter teams often request chaplains to accompany them to perform “last rites” when they head out at night to recover the wounded following an offensive. The light of a will o’ wisp varies from cold white to flame orange. The ghost can lessen its brilliance to that of a mere candle or brighten it to that of a torch at will.
+Will o' wisps are the ghosts of men who died in lingering agony after being wounded, their piteous cries for help going unheeded. With their last breathe they cursed their god and their comrades, unintentionally binding their spirit to the killing ground. They manifest as small handfuls of flickering white flame that is oddly cold to the touch rather than hot. Some soldiers claim to have seen a grinning face inside a will o' wisp. A will o' wisp uses the glimmering light produced by its form to lure its intended victim to a secluded spot. Appearing to be a wounded man, the wisp favors its comrades whom it blames for its death. Once they approach, it weakens its victims with a fire seeming to spring from Hell itself. Once the target succumbs to the heat, the ghost possesses his corpse which immediately bursts aflame. These burning zombies are sometimes referred to as “flaming jacks.” The ghost uses the reanimated body to wreak as much havoc as it can before it is consumed by the creature's otherworldly flames- usually against the other members of the litter team now. Initially, a will o' wisp haunts the area near its death, seeking vengeance on its former comrades. Once it has revenged itself, the hatred and anger that drove it to an undead existence continue to burn within the ghost. Some areas of No Man's Land flicker with small lights once night falls over the blasted landscape. In these areas, litter teams often request chaplains to accompany them to perform “last rites” when they head out at night to recover the wounded following an offensive. The light of a will o' wisp varies from cold white to flame orange. The ghost can lessen its brilliance to that of a mere candle or brighten it to that of a torch at will.
 
 Attributes: Agility d8, Smarts d8, Spirit d10, Strength d4, Vigor d6
 Skills: Fighting d6, Notice d10, Stealth d8, Taunt d6, Survival d8
 Pace: -; Parry: 5; Toughness: 4
 Special Abilities
-Ethereal: Will o' wisps are immaterial. They don’t suffer additional damage from called shots, and are immune to disease and poison.
+Ethereal: Will o' wisps are immaterial. They don't suffer additional damage from called shots, and are immune to disease and poison.
 Fearless: Will o' wisps are immune to Fear and Intimidation.
 Flaming Jack: The will o' wisp can reanimate and possess the body of a victim slain by its Spiritual Exhaustion (see below) attack.
 Flight: The will o' wisp flies at Pace 8. They may not “run."
 Focus: The ghost is tied to a specific talisman-usually an identity disk—which remains unnaturally hot to the touch (2d6 damage to exposed flesh). If this item is submerged in water, the will o' wisp suffers 2d6 damage per round as long as it remains so. If it is submerged in holy water, the wisp is destroyed immediately.
 Invulnerability: Will o' wisps are immune to nonmagical attacks but suffer 1d6 damage when doused in at least a gallon of water, +2 per additional gallon.
-Spiritual Exhaustion: A will o' wisp’s only means of attack in its initial form is by subjecting its victim to a supernatural heat only she can feel. The wisp and its target make an opposed Spirit roll. If the victim loses, the victim suffers a Fatigue level.
-Size −1: Will o' wisps are approximately two to three feet in diameter.
+Spiritual Exhaustion: A will o' wisp's only means of attack in its initial form is by subjecting its victim to a supernatural heat only she can feel. The wisp and its target make an opposed Spirit roll. If the victim loses, the victim suffers a Fatigue level.
+Size -1: Will o' wisps are approximately two to three feet in diameter.
 Weakness (Holy Water): Sprinkling a will o' wisp with holy water does 2d10 damage to it.
 
 === Werewolf
@@ -446,7 +446,7 @@ Edges: -
 Special Abilities
 Bite/Claws: Str+d8.
 Fast Regeneration: Werewolves may attempt a natural healing roll every round unless the Wounds were caused by silvered objects.
-Fear (−2): Werewolves chill the blood of all who see them.
+Fear (-2): Werewolves chill the blood of all who see them.
 Infection: Anyone slain by a werewolf has a 50% chance of rising as a werewolf themselves. The character involuntarily transforms every full moon. He gains control of his lycanthropy only after 1d6 years as a werewolf.
 Infravision: Halve penalties for Illumination when attacking warm targets.
 Size 1: Werewolves are stout creatures.
@@ -508,12 +508,12 @@ Skills: Fighting d8, Notice d8
 Pace: 6; Parry: 6; Toughness: 6
 Special Abilities
 Death Feeding: The Cloud of Hate grows stronger in the presence of death and destruction. For every four people slain in its presence, it gains +1 to Toughness and one die type of Strength for 1d6 hours (maximum of +2 and d12).
-Enthrall: The Cloud of Hate seeks out those filled with hatred and violence. It can use the puppet power, with a Range of Spirit × 2", using its Spirit as the arcane skill. The Cloud of Hate can cast and maintain the power indefinitely but may only affect a number of targets equal to its Spirit die value.
+Enthrall: The Cloud of Hate seeks out those filled with hatred and violence. It can use the puppet power, with a Range of Spirit * 2", using its Spirit as the arcane skill. The Cloud of Hate can cast and maintain the power indefinitely but may only affect a number of targets equal to its Spirit die value.
 Fearless: Immune to Fear and Intimidation.
 Invulnerability: The Cloud of Hate cannot be harmed by physical or magical attacks, except for its Weaknesses.
 Tendrils: When fully fed (+2 Toughness and d12 Strength), the Cloud of Hate can manifest up to ten tentacles (Str, Reach 1) capable of manipulating objects and wielding weapons. The cloud may use all its tentacles each round without a multi-action penalty.
-Weakness (Cord): The cloud is tethered to those who summoned it with a stream of pinkish-silver energy. This is the source from which the Cloud draws its power. Discovering the tether requires a successful Notice roll at −4. Attacking the cord requires a called shot at −2 and deals normal damage to the cloud.
-Weakness (Eye): The Cloud of Hate has a large central eye. Attacking the eye requires a called shot at −4. If the cloud suffers a wound from the attack, it is blinded instead, suffering a –6 to all rolls dependent on vision, including attacks.
+Weakness (Cord): The cloud is tethered to those who summoned it with a stream of pinkish-silver energy. This is the source from which the Cloud draws its power. Discovering the tether requires a successful Notice roll at -4. Attacking the cord requires a called shot at -2 and deals normal damage to the cloud.
+Weakness (Eye): The Cloud of Hate has a large central eye. Attacking the eye requires a called shot at -4. If the cloud suffers a wound from the attack, it is blinded instead, suffering a -6 to all rolls dependent on vision, including attacks.
 
 
 === Corpse Raven (swarm)
@@ -563,7 +563,7 @@ Size +2: Manticorae weigh over 600 pounds.
 
 
 === Nightgaunt
-These fell creatures were once normal men and women who made a dire pact with an evil entity. It is said that nightgaunts are created when one of these entities’ servants fails in an appointed task and is transformed into a monster as punishment and example to the others. Nightgaunts look like hairless, naked humans with ebony-black skin, clawed hands and feet, bat wings sprouting from their back, and a blank, featureless oval for a face. These nocturnal creatures have a favorite tactic- swooping down upon a foe, grasping them in their foot-talons, then zooming upwards only to drop their helpless prey from a great height.
+These fell creatures were once normal men and women who made a dire pact with an evil entity. It is said that nightgaunts are created when one of these entities' servants fails in an appointed task and is transformed into a monster as punishment and example to the others. Nightgaunts look like hairless, naked humans with ebony-black skin, clawed hands and feet, bat wings sprouting from their back, and a blank, featureless oval for a face. These nocturnal creatures have a favorite tactic- swooping down upon a foe, grasping them in their foot-talons, then zooming upwards only to drop their helpless prey from a great height.
 
 Attributes: Agility d8, Smarts d6, Spirit d8, Strength d8, Vigor d8
 Skills: Fighting d8, Notice d6
