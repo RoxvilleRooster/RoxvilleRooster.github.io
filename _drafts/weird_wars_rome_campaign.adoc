@@ -85,6 +85,39 @@ There's no such thing as a standard legionary or auxiliary.
 // Feel free to come up with one of your own if none of these suit you, but make sure to get your Gamemaster's approval first.
 ****
 
+
+.Motivations and goals
+****
+
+____
+So what is my motivation? What am I doing here? Why do I care?
+____
+
+.Goals for honor and reputation 
+* Increase/maintain 
+** personal honor
+** family honor 
+** military unit's honor
+* Avoid or conceal dishonor
+
+.Long-term goals 
+* Survival (e.g., to retirement)
+* Return to your family
+* Obtain wealth
+* Serve the gods and spirits of your belief system (e.g., the spirits of your ancestors, Mithras, the Christian God)
+
+.Short-term goals
+* Stay alive
+* Stay sane
+* Enjoy life
+
+.Twilight legion goals
+* Hold back the forces of darkness
+* Understand the secrets you were not meant to know
+* Understand what plots are at work beyond the mundane
+
+****
+
 === Language
 
 Characters who hail from Hispania speak Latin as their native tongue.
