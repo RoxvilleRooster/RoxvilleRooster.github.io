@@ -112,13 +112,13 @@ As a Background Edge, it may only be taken at character creation, and you must h
 Your soldier begins play at Seasoned Rank to represent his years of military service. 
 Start with a standard Novice character, then give him four Advances.
 The price for this experience is that the advancements must be repaid. 
-The next 4 Advances your hero earns are forfeited to "pay back" the debt.
-Requirements;; Novice, Smarts d6+, Spirit d6+, Vigor d8+, Fighting d8+, Throwing d6+
+The first 4 Advances your hero earns are forfeited to "pay back" the debt.
+Requirements;; Novice, Smarts d6+, Spirit d6+, Vigor d8+, Fighting d8+, Athletics d6+
 
 
 Military Family::
 The hero's father was a career soldier who rose to the ranks of centurio (or higher with the GM's permission) or legatus (for parents with the Equestrian or Military Family Edge). 
-He begins the game with a d4 in Fighting, Knowledge (Battle), Riding, or Throwing (player's choice).
+He begins the game with a d4 in Fighting, Battle, Riding, or Athletics (player's choice).
 In addition, he has +1 Persuasion when dealing with officers of centurio rank and above and to promotion rolls because of his father's reputation.
 Should he fail to live up to his father's deeds (GM's discretion), he suffers a -2 penalty to Persuasion until he makes amends.
 Requirements;; Novice
@@ -156,8 +156,9 @@ The maximum Gang Up bonus is still +4 no matter how many Formation Fighters stan
 Requirements;; Novice, Fighting d8+
 
 Shield wall::
-Legionaries with the Shield Wall edge and a shield add +1 to each adjacent man's Parry if that man has the Edge (and a shield) as well. The maximum bonus for this Edge is +2 (if there is one man to the left and right), and stacks with any Parry bonuses for the shields or weapons they hold.
-Requirements;; Novice, Roman Legionnaire
+Legionaries with the Shield Wall edge and a shield add +1 to each adjacent man's Parry if that man has the Edge (and a shield) as well. 
+The maximum bonus for this Edge is +2 (if there is one man to the left and right), and stacks with any Parry bonuses for the shields or weapons they hold.
+Requirements;; Novice, Roman Legionary
 
 ==== Leadership edges
 A few good men::
@@ -185,10 +186,15 @@ Requirements;; Seasoned, Command, Persuasion d8+
 ==== Professional edges
 
 Aquilifer::
-The aquilifer is a veteran soldier charged with
-carrying the legion's standard (_aquila_ or eagle) and keeping it safe.
+The aquilifer is a veteran soldier charged with carrying the legion's standard (_aquila_ or eagle) and keeping it safe.
 The character has _immunis_ when making camp, and when the aquila is carried the aquilifer gains the benefits of one Leadership Edge of his choice, though he must meet all the requirements. 
-He may only choose and use one such Edge per session. His command radius is equal to 5".
+He may only choose and use one such Edge per session. 
+His command range is equal to 5".
+For each of the following edges he takes, add +1" to the signifier's command range: 
+
+* Charismatic
+* Work the Room
+* Work the Crowd   
 // footnote:[What modifiers affect this range? Maybe the Charismatic edge?] 
 Requirements;; Seasoned, Spirit d10+, Fighting d10+
 // plus his Charisma modifier.
@@ -209,10 +215,11 @@ They are also responsible for those under their command.
 + 
 NOTE: Those who achieve rank through promotion do not automatically get the effects of the edge, but may purchase it with an advance once promoted.
 + 
-The Rank edge doubles the character's command range from 5” to 10” (or from 10” to 20” if he also has Command Presence). + 
+The Rank edge doubles the character's command range from 5' to 10" (or from 10" to 20" if he also has Command Presence). + 
 A character created with this edge begins as a _decanus_ if he is to lead common legionaries.
 If the GM allows, a character who also has the Equestrian/Patrician or Military Family Edge may be a tribune instead. + 
-Tribunes rank above centurions but are rarely given command of centuries or larger unless they have the skill to lead it (typically the Battle skill at d6 or higher).  This rank is usually only appropriate if the player characters are a command group either led by or composed of tribunes.
+Tribunes rank above centurions but are rarely given command of centuries or larger unless they have the skill to lead it (typically the Battle skill at d6 or higher).  
+This rank is usually only appropriate if the player characters are a command group either led by or composed of tribunes.
 
 Requirements;; Novice, Fighting d6+, Command
 
@@ -302,7 +309,7 @@ The character isn't a Roman citizen. She may come from outside the Roman provinc
 He can't be a legionary, but he may serve as a medicus, auxilia, speculatore, or similar character type.
 As a Minor Hindrance, the Foreigner is a Greek (the only other civilization Rome truly respected).
 He suffers -2 Persuasion with "proper" Romans but begins the game with the ability to speak Latin and his native tongue.
-As a Major Hindrance, the character is from outside Rome or its recognized and civilized) provinces. 
+As a Major Hindrance, the character is from outside Rome or its recognized and civilized provinces. 
 These foreigners have -2 Persuasion with "true" Romans and cannot reroll Persuasion trait rolls.
 These characters are often sacrificed by their commanders as diversions, distractions, or to cover the retreat of the legions. 
 All _auxilia_ are therefore Foreigners in a Romano-centric campaign.
@@ -682,6 +689,7 @@ In a game where all the characters are auxilia, a character with Rank (Military 
 
 === Naval ranks
 The Roman navy used far fewer ranks than the legions.
+
 Miles Classicus:: 
 A common marine.
 Centurio Classicus:: 
