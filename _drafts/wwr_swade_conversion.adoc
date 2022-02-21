@@ -193,7 +193,7 @@ The legionary gains an Experience Point. #Need to revise#
 Arcane Background (Cult of Mithras):: 
 *Powers List*: + 
 The SWDEE Quickness power is removed. + 
-Add Arcane Protection footnote:[I added the Arcane Protection power because Quickness was removed; this power made sense to me to add as a way to make whole the list of powers.]
+Add Arcane Protection footnote:[I added the Arcane Protection power because Quickness was removed; the Mithras cultist has the same number of powers available as before.]
 + 
 .Changes to power names
 * Havoc (was Pummel in SWDEE)
