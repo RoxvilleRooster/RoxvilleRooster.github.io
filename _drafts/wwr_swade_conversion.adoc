@@ -206,7 +206,7 @@ Add Arcane Protection footnote:[I added the Arcane Protection power because Quic
 == Beasts et Monsters
 
 Arbor Bellum:: 
-Add *Entangle* special ability. 
+Add the *Entangle* special ability. 
 The creature adds +2 to any Grappling rolls. +  
 *Stomp* should be Str+d8 (i.e., not Str+8).
 
@@ -216,7 +216,7 @@ Flight: Pace 12.footnote:[In WWR, the harpy and the corpse raven had flight pace
 Harpy::
 Flight: Pace 12.footnote:[In _Pathfinder for Savage Worlds Bestiary p.73_ , Harpy is listed with a flight pace of 12.]
 
-Jculus::
+Jaculus::
 Add Athletics at d8. 
 
 
