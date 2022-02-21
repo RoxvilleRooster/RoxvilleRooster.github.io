@@ -128,6 +128,19 @@ Members of the _auxilia_ cavalry have the following standard equipment.
 
 Equipment;; Scale mail, metal helmet, hasta (spear) and clipeus (medium shield), spatha (long sword), riding horse w/scale barding.
 
+=== Skills
+
+.The following skills are not available to player characters in this setting:
+* Electronics
+* Hacking
+* Focus
+* Piloting
+* Psionics
+* Spellcasting
+* Weird Science
+
+The Driving skill is used for the use of animal-drawn wheeled vehicles, such as chariots. 
+
 === Edges
 
 The following edges are not available to player characters in this setting (though some
@@ -562,8 +575,8 @@ Carousing::
 While on leave, the soldier parties hards. 
 He gains a Benny that may be saved between sessions until used.
 Celebrated::
-The soldier might find someone interested in his story and finds someone who is willing to tell the stories of the soldier's prowess and success.
-The soldier becomes a minor celebrity in a specific and limited place (e.g., quarter of a city, town, fort, limited territorial region). 
+The soldier finds someone who is willing to tell the stories of the soldier's prowess and success.
+The soldier becomes a minor celebrity in a specific and limited place (e.g., quarter of a city, limited territorial region). 
 He receives a +1 to Persuasion rolls if a target is friendly and knows who he is (a Common Knowledge roll modified by how likely the individual is to know the celebrity).footnote:[This functions like a more limited Fame edge from SWADE p39.]
 ////
 Experience:: 
