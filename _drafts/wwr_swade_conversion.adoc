@@ -1,12 +1,14 @@
 = Weird Wars Rome Conversion
 Convert the Weird Wars Rome RPG to the Savage Worlds Adventure Edition
+:toc:
 
 Weird Wars Rome was written for Savage Worlds Deluxe, but it's easy to update for the Savage Worlds Adventure Edition.
 Most of the rules can be used as-is. 
 Those that require a little more work are detailed below.
 Where core rules differ, the Game Master can use whichever version she prefers. Both versions will work just fine in your
 game, though those presented in SWADE are a bit more structured and streamlined.
-NOTE: : This is a living document.  
+
+NOTE: This is a living document.  
 If you see something we missed, please tell us on the Pinnacle forums!
 
 
@@ -17,14 +19,28 @@ Knowledge (Battle) becomes Battle, for example, and Tracking is Survival.
 If a character has two skills that have been merged into one in SWADE (such as Survival and Tracking), use the higher of the two values for the new skill.
 If a being has an Edge or Hindrance without an obvious equivalent in SWADE, you can either ignore it or give it a new one you feel has the same general theme.
 Unless otherwise stated, intelligent beings have Common Knowledge and Persuasion at d6, and all beings have Athletics, Notice, and Stealth at d6. 
-The GM should increase this to the linked attribute (or higher) if she feels it's appropriate.
+The War Master should increase this to the linked attribute (or higher) if she feels it's appropriate.
 Any bonus or penalty to Charisma is applied to the specified Persuasion rolls instead.
 // Ignore all instances of Climb for flying creatures and vehicles.
 Special Abilities such as Undead, or those that mimic Edges such as Frenzy, should use the updated versions presented in SWADE.
 // Construct
 
-== Creatio Militis 
+== Creatio Militis (character creation)
 // The Making of a Soldier
+
+=== Skills
+
+.The following skills are not available to player characters in this setting:
+* Electronics
+* Hacking
+* Focus
+* Piloting
+* Psionics
+* Spellcasting
+* Weird Science
+
+The Driving skill is used for the use of animal-drawn wheeled vehicles, such as chariots. 
+
 
 === Hindrances
 
@@ -37,9 +53,11 @@ He suffers -2 Persuasion with "proper" Romans but begins the game with the abili
 As a Major Hindrance, the character is from outside Rome (or from its recognized and civilized provinces). 
 These foreigners have -2 Persuasion with "true" Romans and cannot reroll Persuasion trait rolls.
 
+////
 Shirker (Minor)::
 Shirkers suffer -2 to Promotion rolls. 
 His reputation for being lazy may not sit well with his companions or superior officers, so he has a -2 to his Persuasion with them.
+////
 
 === Edges
 
@@ -47,7 +65,7 @@ His reputation for being lazy may not sit well with his companions or superior o
 
 Campaign Veteran:: 
 *Requirements*: Novice, Smarts d6+, Spirit d6+, Vigor d8+, Fighting d8+, Athletics d6+ + 
-As a Background Edge, it may only be taken at character creation, and you must have the GM's permission to take it. 
+As a Background Edge, it may only be taken at character creation, and you must have the War Master's permission to take it. 
 Your soldier begins play at Seasoned Rank to represent his years of military service. 
 Start with a standard Novice character, then give him four Advances.
 The price for this experience is that the advancements must be repaid. 
@@ -56,10 +74,10 @@ The first 4 Advances your hero earns are forfeited to "pay back" the debt.footno
 ////
 Military Family:: 
 *Requirements*: Novice + 
-The hero's father was a career soldier who rose to the ranks of centurio (or higher with the GM's permission) or legatus (for parents with the Equestrian or Military Family Edge). 
+The hero's father was a career soldier who rose to the ranks of centurio (or higher with the War Master's permission) or legatus (for parents with the Equestrian or Military Family Edge). 
 He begins the game with a d4 in Fighting, Battle, Riding, or Athletics (player's choice).
 In addition, he has +1 Persuasion when dealing with officers of centurio rank and above and to promotion rolls because of his father's reputation.
-Should he fail to live up to his father's deeds (GM's discretion), he suffers a -2 penalty to Persuasion until he makes amends.
+Should he fail to live up to his father's deeds (War Master's discretion), he suffers a -2 penalty to Persuasion until he makes amends.
 ////
 
 Equestrian/Patrician (Aristocrat):: 
@@ -106,11 +124,11 @@ For each of the following edges he takes, add +1" to the signifier's command ran
 |===
 | Vehicle | Size | Mass up to... | Height / Length up to… | Scale Mod | Handling | Row Speed (MPH) | Wind Speed (MPH) | Typical Toughness | Crew 
 
-| Liburna trireme‡, light war galley† | 13 | 100 tons | 100' | +6 | -1 | 18 | 5 to 8 | 18 (4) | 120 + 30 
+| Liburna trireme, light war galley | 13 | 100 tons | 100' | +6 | -1 | 18 | 5 to 8 | 18 (4) | 120 + 30 
 
-| trireme‡, war galley† | 13 | 125 tons | 125' | +6 | -2 | 16 | 5 to 8 | 21 (4) | 150 + 40
+| trireme, war galley | 13 | 125 tons | 125' | +6 | -2 | 16 | 5 to 8 | 21 (4) | 150 + 40
 
-| quadrireme‡, galleon | 14 | 250 tons | 150' | +6 | -2 | 14 | 5 to 9 | 22 (4) | 200 + 60
+| quadrireme, great war galley footnote:[The uses the stats for the quinquereme from the SWADE Vehicle Guide P14] | 14 | 250 tons | 150' | +6 | -2 | 14 | 5 to 9 | 22 (4) | 200 + 60
 
 // | quinquereme‡, galleon | 14 | 250 tons | 150' | +6 | -2 | 14 | 5 to 9 | 22 (4) | 200 
 
@@ -128,13 +146,35 @@ sail); Toughness: 23(4); Crew: 200+60
 
 == Praescripta Mundi (Setting Rules)
 
-=== Awards and honors
+=== Awards and Promotions
+
+==== Awards and honors
 The individual battle honors can be won. 
-When any major awards is first granted, the character receives one advance. 
-When worn, the legionary adds +2 to his Persuasion (+4 for the _corona graminea_).
+When any major award is first granted, the character receives one advance. 
+When worn, the soldier adds +2 to his Persuasion (+4 for the _corona graminea_) to anyone who recognizes the significance of the award.
+
+==== Promotion
+
+When a character receives an award, roll a d20 and add +2 for each Leadership Edge he possesses and a bonus equal to the Persuasion modifier his combined awards grant him (such as that granted by the corona muralis, for example).
+
+Triumph::
+Should a character be awarded a triumph, he gains a point of Conviction and gains an extra advance, and makes many powerful friends and enemies.footnote:[For "making many powerful friends and enemies", there may need to be some mechanic with reputation/glory/renown.]
+
+// draws an additional Benny per session, and
 
 
 === Spoils
+
+Remove the Experience action
+
+Add the Celebrated action.
+
+Celebrated::
+The soldier finds someone who is willing to tell the stories of the soldier's prowess and success.
+The soldier becomes a minor celebrity in a specific and limited place (e.g., quarter of a city, limited territorial region). 
+He receives a +1 to Persuasion rolls if a target is friendly and knows who he is (a Common Knowledge roll modified by how likely the individual is to know the celebrity).footnote:[This functions like a more limited Fame edge from SWADE p39.]
+
+
 
 ////
 Experience:: 
