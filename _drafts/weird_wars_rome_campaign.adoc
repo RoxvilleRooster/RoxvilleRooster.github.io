@@ -326,11 +326,13 @@ Working with evil is a mortal sin.
 
 === Hindrances
 
+
 The following hindrances are only suitable with the GM's consent: 
 Elderly, Hard of Hearing (Major), Obese, One Arm, One Eye, One Leg, Outsider, Small, Wanted, and Young.  
 // #Review of SWADE#
-In addition, the Outsider hindrance is replaced by _Foreigner_.
+In addition, the hindrance Outsider (SWADE) is replaced by _Foreigner_.
 
+The SWADE hindrance Hesitant replaces the Slow hindrance, which was defined in Weird Wars Rome. 
 
 Doubting Thomas (Major)::
 Besides the description presented in Savage Worlds, Doubting Thomases are just not prepared to deal with the mind-twisting realization that these horrors could actually be real. 
@@ -363,6 +365,7 @@ This soldier procrastinates and actively tries to dodge any sort of work, or tri
 When forced into doing something, he attempts to finish whatever he's doing as quickly as possible.
 Shirkers suffer -2 to Promotion rolls. 
 His reputation for being lazy may not sit well with his companions or superior officers, so he has a -2 to his Persuasion with them.
+
 
 
 
