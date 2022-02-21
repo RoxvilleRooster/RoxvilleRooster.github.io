@@ -485,6 +485,8 @@ Recipients of this award draw one additional Benny per session (this stacks with
 // In addition to the bonuses listed for all awards above, recipients of a corona graminea draw one additional Benny per session (this stacks with Luck).
 Triumph:: 
 To be awarded a triumph (parade) the soldier had to be a _legatus_, have scored a victory over a significant foreign power, and be an elected magistrate.
++ 
+Should a character be awarded a triumph, he gains a point of Conviction and gains an extra advance, and makes many powerful friends and enemies.footnote:[For "making many powerful friends and enemies", there may need to be some mechanic with reputation/glory/renown.]
 +
 NOTE: This award is out of reach of most characters.
 
@@ -559,6 +561,10 @@ He adds +1 to Spirit and all Spirit-based rolls for the next game month.
 Carousing:: 
 While on leave, the soldier parties hards. 
 He gains a Benny that may be saved between sessions until used.
+Celebrated::
+The soldier might find someone interested in his story and finds someone who is willing to tell the stories of the soldier's prowess and success.
+The soldier becomes a minor celebrity in a specific and limited place (e.g., quarter of a city, town, fort, limited territorial region). 
+He receives a +1 to Persuasion rolls if a target is friendly and knows who he is (a Common Knowledge roll modified by how likely the individual is to know the celebrity).footnote:[This functions like a more limited Fame edge from SWADE p39.]
 ////
 Experience:: 
 Occasionally a legionary might find a veteran willing to share his tales and tactics — for a price. 
