@@ -361,7 +361,7 @@ Level Headed: Husks get two Action Cards and act on the best.
 Undead: +2 Toughness; +2 to recover from being Shaken; no additional damage from called shots; immune to disease and poison; does not suffer wound penalties.
 
 === Hydes
-A few warrios go mad and absorb the negative energy, transforming into inhuman killing machines that indiscriminately attack both friends and enemies. These “hydes” are a danger to anyone they encounter. 
+A few warriors go mad and absorb the negative energy, transforming into inhuman killing machines that indiscriminately attack both friends and enemies. These “hydes” are a danger to anyone they encounter. 
 
 Attributes: Agility d10, Smarts d4, Spirit d6, Strength d12+2, Vigor d10
 Skills: Climbing d6, Fighting d6
@@ -398,7 +398,11 @@ Skills: Athletics d10, Fighting d12, Intimidation d10, Notice d12, Stealth d8, S
 Pace: 6; Parry: 8; Toughness: 11
 Edges: Alertness, Combat Reflexes, Sweep
 Special Abilities
-Bear Hug: A werebear that hits with a raise has pinned his foe and may bite at +2 until the foe is freed. The opponent may only attempt to escape the hug on his action, which requires a raise on an opposed Strength roll.
+Bear Hug: A werebear who hits with a Fighting attack and also succeeds a raise has pinned (i.e., Entangled and Bound) his foe and may bite at +2 until the foe is freed. 
+The opponent may only attempt to escape the hug on his action. 
+To completely break free of the bear hug, the victim of the hug must improve his status so that he is no longer Bound nor Entangled.
+The werebear resists attempts to break free using Strength.
+The werebear is not subject to the customary -2 penalty when using Strength in grappling.
 Bite/Claws: Str+d8.
 Low Light Vision: Werebears ignore penalties for Dim and Dark lighting.
 Shapechanger: Werebears can change between their human and man/bear hybrid forms as a normal action by making a Vigor roll at +2. With a normal success, they can't take any other actions that round, including movement. With a raise, they can take other actions as normal.
