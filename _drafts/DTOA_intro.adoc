@@ -47,12 +47,14 @@ If you have fewer than four players, you may want to "beef up" the heroes (e.g.,
 
 === Expectations for the Pulp Action Campaign
 
+////
 .Player Attendance
 ****
 Players must commit to attend each session of a scenario.
 Don't ask for a longer commitment.
 A {dtoa} scenario typically runs for 3-4 sessions of 2.5-3 hours.
 ****
+////
 
 
 // We are using the Savage Worlds Adventure Edition (SWADE) rules.
