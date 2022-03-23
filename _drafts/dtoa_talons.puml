@@ -69,7 +69,7 @@ a1s3 --> a1s4
 
 
 rectangle Act2 as "Act 2: Afghanistan" {
-usecase "Crash in the watelands" as a2s1
+usecase "Crash in the wastelands" as a2s1
 note left
 Pilots bale out;
 heroes crash land
