@@ -14,7 +14,7 @@ v1.0, 2020-02-17
 There are at least three chases per _Daring Tales of Adventure_ scenario; the _Daring Tales_ chases used different rules from those specified in the _Savage Worlds Deluxe Explorers' Edition_ rules and they are also markedly different from the
 _Savage Worlds Adventure Edition_ chase rules.
 
-Wiggy wrote some excellent set piece chase actin scenes.
+Wiggy wrote some excellent set piece chase action scenes.
 If you can use these chases with minimal change, I suggest doing so. Some minor changes are needed. For example, if the chase calls for an Agility trait roll to maneuver, you will most likely want to call for the Athletics skill.
 
 There will be cases where you may want to use a Quick Encounter to handle a chase scene. For example, you may want to keep the pace of the game going and move on to the next scene before the session ends.
