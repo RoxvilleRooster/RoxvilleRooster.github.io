@@ -1,11 +1,12 @@
-== Savage Old School Fantasy
+== Savage Old-School Fantasy
 
 This campaign is an attempt to get close to emulating an "old school" dungeon crawl experience using the Savage Worlds (SWADE) rules. 
 The goal is to reproduce many of the best elements of the old school game play and, at the same, enjoy Savage Worlds' fast-furious-fun play style.
 
 // We'll use Greg Gillespie's Barrowmaze (and the village of the Helix) as the mainstays of the setting.
 Most sessions will run as a short foray into a "dungeon". 
-Adventurers who attempt to sleep or make camp in the dungeon do not typically return to tell tales.   
+Adventurers who attempt to sleep or make camp in the dungeon do not typically return to tell tales. 
+Your treasure hunter is, of course, welcome to try camping in a dungeon...    
 // But they should feel free to go ahead and try this out.
 
 Random encounters and wandering monsters will often be resolved using the quick combat rules.
