@@ -92,3 +92,23 @@ Black cards indicate nothing special whereas red cards indicate something import
 The GM can decide the contents of the room on the fly or the contents can be predetermined (e.g., defined in tables). 
 +   
 TIP: You can create a dungeon by assigning a specific content for each red card.
+
+== Village buildings
+
+. Village square
+. General store "Turgen's Trade Goods"
+. Smithy "The Axe and Anvil"
+. Guild hall for mercenaries
+. Depot for merchants "Silver Standard Merchant Caravan Company" 
+. Shrine to St. Ygg
+. Jeweler and moneylender "The Rosy Quartz"
+. Tavern "The Brazen Strumpet"
+. Gambling hall and brother "The Foul Pheasant"
+. Tower of the wizard
+. Bowyer/fletcher
+. Mill
+. Barrowmaze
+. Statue of Herne
+. Ancient ruins
+. Ironguard Motte
+
