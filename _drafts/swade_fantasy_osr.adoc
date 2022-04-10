@@ -1,4 +1,7 @@
-== Savage Old-School Fantasy
+= Savage Old-School Fantasy
+:toc:
+
+== About the old-school fantasy game
 
 This campaign is an attempt to get close to emulating an "old school" dungeon crawl experience using the Savage Worlds (SWADE) rules. 
 The goal is to reproduce many of the best elements of the old school game play and, at the same, enjoy Savage Worlds' fast-furious-fun play style.
@@ -44,3 +47,48 @@ There is no need for a player to serve as mapper or caller.
 .OSR Resources
 * link:http://www.drivethrurpg.com/product/139762/Barrowmaze-Complete[Barrowmaze Complete]
 * link:http://www.barrowmaze.com/meatshields[Meatshields! Hireling and Henchman Generator]
+
+== Wild draw dungeon
+
+The dungeon deck has 36 cards.
+
+.Prepare the dungeon deck by removing these cards
+* face cards
+* aces
+* jokers
+
+When you've drawn all the cards, shuffle the deck.
+
+. Draw 3 cards face up and put them in row.
+. Evaluate the cards for room size and exits.
++ 
+[NOTE]
+====
+.If the complex is a primarily man-made structure (e.g., dungeon or tomb) and 
+* most cards are black, the exits are doors. 
+* most cards are red, the exits are passages (e.g., archways). 
+
+.If the complex is a primarily a natural structure, such as a cavern or cave system and 
+* most cards are black, the exits are doors,  the “room” is a confluence of narrow tunnels; only draw tunnels leading to the appropriate number of exits.
+Bear in mind the general size of the area but you're not bound to the dimensions. + 
+* most cards are red, the “room” is a cave with the size and exits that are indicated by th cards . 
+====
++ 
+Card 1::
+Room width;;
+The card value determines the width of the room in inches
+Card 2::
+Room length:;;
+The card value determines the length of the room in inches
+Card 3::
+Number of exits;;
+2 to 5 = 1 exit; 6 to 8 = 2 exits; 9 or 10 = 3 exits
+. Determine the general contents of the room. + 
+The suit of each card determines the content of the room. 
+Black cards indicate nothing special whereas red cards indicate something important: 
+* Diamonds represent _treasure_
+* Hearts represent _hazards_ (e.g., monster and traps)
+. Determine specific contents of the room.
+The GM can decide the contents of the room on the fly or the contents can be predetermined (e.g., defined in tables). 
++   
+TIP: You can create a dungeon by assigning a specific content for each red card.
