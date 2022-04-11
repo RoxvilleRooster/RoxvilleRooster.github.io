@@ -1,0 +1,46 @@
+= Troubleshooting
+
+----
+ahall@orlanth-rex:~$ npm i -g @asciidoctor/core asciidoctor-pdf
+npm WARN deprecated @babel/polyfill@7.12.1: 🚨 This package has been deprecated in favor of separate inclusion of a polyfill and regenerator-runtime (when needed). See the @babel/polyfill docs (https://babeljs.io/docs/en/babel-polyfill) for more information.
+npm WARN deprecated puppeteer@11.0.0: Version no longer supported. Upgrade to @latest
+npm WARN deprecated core-js@2.6.12: core-js@<3.4 is no longer maintained and not recommended for usage due to the number of issues. Because of the V8 engine whims, feature detection in old core-js versions could cause a slowdown up to 100x even if nothing is polyfilled. Please, upgrade your dependencies to the actual version of core-js.
+
+added 138 packages, and audited 139 packages in 32s
+
+11 packages are looking for funding
+  run `npm fund` for details
+
+3 high severity vulnerabilities
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+npm notice
+npm notice New major version of npm available! 7.18.1 -> 8.6.0
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v8.6.0
+npm notice Run npm install -g npm@8.6.0 to update!
+npm notice
+----
+
+
+----
+asciidoctor-web-pdf swade_fantasy_osr.adoc -D "/mnt/g/My Drive/RPG-share"
+Unable to generate the PDF - Error: Error: Failed to launch the browser process!
+/home/ahall/.nvm/versions/node/v16.4.2/lib/node_modules/asciidoctor-pdf/node_modules/puppeteer/.local-chromium/linux-901912/chrome-linux/chrome: error while loading shared libraries: libnss3.so: cannot open shared object file: No such file or directory
+
+
+TROUBLESHOOTING: https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md
+----
+
+
+I tried to install chromium separately
+
+    sudo apt-get install chromium-browser
+
+
+I need to look closer at 
+
+* https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md#running-puppeteer-in-docker
+* https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md#running-on-alpine
