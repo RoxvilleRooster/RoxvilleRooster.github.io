@@ -93,6 +93,24 @@ The GM can decide the contents of the room on the fly or the contents can be pre
 +   
 TIP: You can create a dungeon by assigning a specific content for each red card.
 
+== Wandering Monster Checks
+Draw a card from the Action Deck, one per group of heroes (in case they split up).
+A random encounter happens only with a Club or a Joker.
+If the encounter has already happened, ignore it unless the encounter is
+marked as Repeatable. 
+
+NOTE: Not all encounters are with
+creatures.
+
+An adventure will have a table of Wandering Monsters, based on a card drawn from the Action Deck.
+
+The unit of measure is the abstract “room”, which means the time an average party of adventurers needs to carefully explore one room. 
+
+In the wilderness, you can consider it equal to one “encounter”. 
+
+For ease of use, draw a card for every room the heroes explore, alternately checking for lights and one for wandering monsters.
+
+
 == Village buildings
 
 . Village square
