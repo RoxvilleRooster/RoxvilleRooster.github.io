@@ -275,26 +275,38 @@ Gear:: Thrown rocks (3/6/12, Str+d4).
 
 Special Abilities::
 * Armor +2: Stone skin.
-* Elemental: No additional damage from Called Shots, doesn’t
+* Elemental: No additional damage from Called Shots, doesn't
 breath, immune to disease and poison.
 * Rock fist: Str+d4
 
 
 == The party
 
-Keerla::
-Hindrances:: Bad luck, outsider, all thumbs
-Edges;; AB (Magic), Nerves of Steel
-
-Nylan::
-Hindrances:: Code of honor, big mouth, all thumbs
-Edges;; Quick
 
 Celestial (Ray)::
 Hindrances:: One-eyed, anemic, all thumbs, outsider
 Edges;; Alertness
+Connections;;
+* Celest and Halurr are both refugees
+* Keerla and Celest are Former Business Partners
 
-Halur the rythymic whistler::
+Halurr the rythmic whistler (Chuck)::
 Hindrances:: Bloodthirsty, Stubborn, Outsider, All Thumbs
 Edges;; AB (Miracles)
+Connections;;
+* Halurr is guardian to Nylan
+* Celest and Halurr are both refugees 
 
+Nylan (Aramis)::
+Hindrances:: Code of honor, big mouth, all thumbs
+Edges;; Quick
+Connections;;
+* Nylan is Halurr's ward
+* Nylan and Keerla are Former Street Performers
+
+Keerla (Devin)::
+Hindrances:: Bad luck, outsider, all thumbs
+Edges;; AB (Magic), Nerves of Steel
+Connections;;
+* Nylan and Keerla are Former Street Performers
+* Keerla and Celest are Former Business Partners
