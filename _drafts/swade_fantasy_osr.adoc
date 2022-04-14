@@ -170,7 +170,9 @@ Skills:: Athletics d6, Fighting d10, Intimidation d8, Notice d6, Shooting d6
 
 Pace: 6; Parry: 7; Toughness: 13 (4)
 Edges:: Improved Frenzy, Level Headed
+
 Gear:: Black iron plate armor (+4), Red Fang greatsword (Str+d10, see below).
+
 Special Abilities::
 * Claws: Str+d4.
 * Fear -1: Terrifying!
@@ -277,4 +279,22 @@ Special Abilities::
 breath, immune to disease and poison.
 * Rock fist: Str+d4
 
+
+== The party
+
+Keerla::
+Hindrances:: Bad luck, outsider, all thumbs
+Edges;; AB (Magic), Nerves of Steel
+
+Nylan::
+Hindrances:: Code of honor, big mouth, all thumbs
+Edges;; Quick
+
+Celestial (Ray)::
+Hindrances:: One-eyed, anemic, all thumbs, outsider
+Edges;; Alertness
+
+Halur the rythymic whistler::
+Hindrances:: Bloodthirsty, Stubborn, Outsider, All Thumbs
+Edges;; AB (Miracles)
 
