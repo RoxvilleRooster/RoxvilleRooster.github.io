@@ -1,0 +1,147 @@
+= Barrowmaze for Gold & Glory
+
+== The story so far
+
+See "Barrowmaze: A Brief History" in _Barrowmaze Complete_.
+
+== Rumours
+Each character is allowed one Networking roll. 
+Each success means one of the following rumors is acquired. 
+Roll a d4.
+
+[horizontal]
+1:: 
+All the entrances to Barrowmaze are trapped. 
+// (F)
+2::
+The spirits of the dead will not harm you if you leave an offering at each barrow.
+// (F)
+3::
+The dead have been seen walking the Barrowmoor with increasing frequency.
+4::
+Runic tablets curse those who read them.
+5::
+Frogmen, or froglings, make their home in the muck and mire of the Barrowmoor.
+6::
+The dead have been seen walking the Barrowmoor with increasing frequency.
+7::
+It is said that a twisted, mutated people live in Barrowmaze.
+8:: 
+Tomb-robbers recently returned with a silver chalice worth 666 silver.
+9:: 
+You overheard a band of adventurers, who called themselves the Bastards of Bogtown, talking about the gold and jewels they recovered from a barrow mound in the swamp.
+10:: 
+The wizard in Helix, named Mazzahs the Magnificent, is looking to hire a party of adventurers to recover historical and arcane lore from Barrowmaze. 
+He's interested in learning more about the people who constructed the barrow mounds for research purposes.
+11:: 
+In Helix, the miller's youngest son, Yusef, is missing. 
+The boy has taken his father's bow and is determined make his name in the village.
+Hendon the miller followed the boy to the area of the mounds where his tracks suddenly disappeared. 
+The miller needs help to cover the vast area and can offer 50 silver for the boy's safe return. 
+12:: 
+The villagers of Helix say they saw the dead walking near Herne's Grove. 
+They fled and the creatures eventually turned south back to the Barrowmoor. 
+Hendon, a ranger and the local miller, is gathering a party of adventurers to head west and investigate. 
+The villagers don't have much but Bollo, the barkeep at The Brazen Strumpet, has offered free pints and 50 silver for those who pledge their aid.
+////
+1. It is said that a twisted, mutated people live
+in Barrowmaze. (T)
+2. All the entrances to Barrowmaze are trapped. (F)
+3. Tomb-robbers recently returned with a silver chalice
+worth 666gp. (T)
+4. A powerful evil warrior and his band use
+Barrowmaze as a hideout. (F)
+5. An elven maiden was recently freed from
+Barrowmaze. (F)
+6. Piles of magical items can be found in the southern
+crypts. (F)
+7. The mutated people of Barrowmaze guard
+wonderful treasures. (F)
+8. For safety seek the pools. (F)
+9. Barrowmaze is 4 levels deep. (F)
+10. The Chosen, an ancient sect of the dead god
+Nergal, are said to be buried in the maze. (T)
+11. Altars are very dangerous. (T)
+12. Tribes of different humanoids make their home in
+the Barrow Mounds. (F)
+13. Frogmen, or froglings, make their home in the muck
+and mire of the Barrowmoor. (T)
+14. The dead have been seen walking the Barrowmoor
+with increasing frequency. (T)
+15. Runic tablets contain curses, but some contain
+information. (T)
+16. Runic tablets curse those who read them.
+Beware! (T)
+17. All rumors are true. (F)
+18. The mutated people of Barrowmaze enslave
+humans. (F)
+19. Rumors are just folk-tales, the mounds are just an
+old burial ground. (F)
+20. The spirits of the dead will not harm you if you
+leave an offering at each barrow. (F)
+////
+
+== Books and chronicles
+Characters who research old libraries for information can discover one of the following pieces of information on a successful Research roll. 
+Roll a d4.
+
+[horizontal]
+1::
+The Chosen, an ancient sect of the dead god Nergal, are said to be buried in the maze.
+2::
+Runic tablets contain curses, but some contain information.
+3::
+Altars are very dangerous.
+4::
+The crypts under the barrows make up a sprawling complex of corridors and rooms; the treasures of the hero Palantis may still be buried within.
+
+== General appearance
+
+The dungeon is extremely quiet. 
+The only sound that breaks the stillness is the constant dripping of
+water from the moor above.
+
+.Barrowmaze areas
+. The Forbidden Antechamber
+. The Haunted Tombs
+. The Deserted Dormitory
+. The Death Vault of the Chosen
+. The Secret Shrine of Set
+. The Forgotten Crypts
+. The Chaos Sepulcher of the Elements
+. The Temple of Orcus
+. The Secret Vault of the Unholy Relic
+. The Lair of Ossithrax Pejorative
+
+
+== Wandering monsters
+
+The wandering monster table differs depending on the Barrowmaze area.
+
+
+
+
+== Hazards
+
+[horizontal]
+2::
+3::
+4::
+5::
+6::
+7::
+8::
+9::
+10::
+Unique, roll d6 or choose:
+1;;
+2;;
+3;;
+4;;
+5;;
+6;;
+
+
+== Bestiary
+
+== Magic items
