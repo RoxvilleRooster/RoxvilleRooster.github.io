@@ -284,29 +284,31 @@ breath, immune to disease and poison.
 
 
 Celestial (Ray)::
-Hindrances:: One-eyed, anemic, all thumbs, outsider
+Hindrances;; One-eyed, anemic, all thumbs, outsider
 Edges;; Alertness
 Connections;;
 * Celest and Halurr are both refugees
 * Keerla and Celest are Former Business Partners
 
 Halurr the rythmic whistler (Chuck)::
-Hindrances:: Bloodthirsty, Stubborn, Outsider, All Thumbs
+Hindrances;; Bloodthirsty, Stubborn, Outsider, All Thumbs
 Edges;; AB (Miracles)
 Connections;;
 * Halurr is guardian to Nylan
 * Celest and Halurr are both refugees 
 
 Nylan (Aramis)::
-Hindrances:: Code of honor, big mouth, all thumbs
+Hindrances;; Code of honor, big mouth, all thumbs
 Edges;; Quick
 Connections;;
 * Nylan is Halurr's ward
 * Nylan and Keerla are Former Street Performers
 
 Keerla (Devin)::
-Hindrances:: Bad luck, outsider, all thumbs
-Edges;; AB (Magic), Nerves of Steel
+Hindrances;; Bad luck, outsider, all thumbs
+Edges;; 
+* AB (Magic)
+* Nerves of Steel
 Connections;;
 * Nylan and Keerla are Former Street Performers
 * Keerla and Celest are Former Business Partners
