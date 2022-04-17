@@ -7,7 +7,7 @@ See "Barrowmaze: A Brief History" in _Barrowmaze Complete_.
 == Rumours
 Each character is allowed one Networking roll. 
 Each success means one of the following rumors is acquired. 
-Roll a d4.
+Roll a d12.
 
 [horizontal]
 1:: 
@@ -118,29 +118,90 @@ water from the moor above.
 
 The wandering monster table differs depending on the Barrowmaze area.
 
+.The Forbidden Antechamber - Random Monsters
+[horizontal]
+2:: Skeletons (d6)
+3:: Zombies (d6)
+4:: Dire Rats (d6)
+5:: Fire Beetles (d8)
+6:: Mongrelmen (d6)
+7:: Ravenous Dead (d4)
+8:: Stirges (d4+2)
+9:: Sapphire Skeletons (d6)
+10:: Giant centipedes (d6)
+Jack:: Giant carnivorous flies (d4)
+Queen:: Rat swarm
+King:: Shadows (d4)
+Ace:: Huecuva (d3) 
+Joker:: Tomb Robbers (2d4+4)
+// Choose two of the above.
+// The two wandering monsters might be (a) working together or (b) engaged in combat already.
+////
+1. Skeletons (1d6)
+2. Zombies (1d6)
+3. Tomb Robbers (2d4+4)
+4. Giant Rats (2d6)
+5. Mongrelmen (1d6)
+6. Ravenous Dead (1d4)
+7. Stirges (1d6)
+8. Huecuva (1d3)
+9. Sapphire Skeletons (1d6)
+10. Fire Beetles (1d8)
+11. Dungeon Dressing*
+12. Referee’s Choice
+////
+
+
+// giant crab spider
+// phantom
+// shadows
+// zombies
 
 
 
 == Hazards
 
+.The Forbidden Antechamber - Hazards
 [horizontal]
-2::
-3::
+2:: A Giant Spider hangs above the door and will attack the first character to enter.
+3:: 
+This room has a pressure-plate isolation trap. 
+As soon as the first PC (and second, at the GM's discretion) enters this room, a stone wall will descend from the ceiling isolating the front rank from the rest of the party. 
+The door to the north wall swings open and the skeletons from an adjacent room attack. 
+A dark flagstone in the hallway floor just outside the door to the next room is loose and conceals a reset lever that will raise the stone slab. 
+Testing the floor with a pole prior to entering may set off the trap (and break the pole).
 4::
+The door to this room is trapped. 
+Opening the door snaps a tripwire that sets off a rusty light crossbow mounted on the north wall (damage 2d6). 
+Roll shooting d12. On 1 or 2, the crossbow misfires.
 5::
+This room smells of rot and offal. 
+As soon as the door opens. each PC must make a Vigor check or vomit and take 1 point of fatigue. 
+A large pile of refuse, bones, and rotting cadavers is heaped in the middle of this room.
 6::
+Mongrelmen (d6)
 7::
+Ravenous Dead (d4)
 8::
+Dire Rats (d6)
 9::
+Stirges (d4+2)
 10::
 Unique, roll d6 or choose:
 1;;
+Huecuva (d3) 
 2;;
+Shadows (d4)
 3;;
+Kelmok, necromancer of Set, and skeletons (8)
 4;;
+Reuts Ool, the mad ghast
 5;;
+Gelatinous cube
 6;;
+Grr'Woof-nub, the outcast mongrelman
 
+== Treasures
 
 == Bestiary
 
