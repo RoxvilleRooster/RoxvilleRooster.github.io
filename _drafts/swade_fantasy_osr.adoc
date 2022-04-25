@@ -110,6 +110,48 @@ In the wilderness, you can consider it equal to one “encounter”.
 
 For ease of use, draw a card for every room the heroes explore, alternately checking for lights and one for wandering monsters.
 
+
+== Illumination
+The GM uses the illumination rules of Savage Worlds and
+the following rules:
+
+=== Light Checks
+The GM will ask you to make a Light Check for every perishable source of light you have (e.g., torches and lanterns). 
+
+. Draw a card from the Action Deck.
+On a club, cancel a Durability point from your source of light. 
+
+If the Durability drops to zero, the light source is exhausted. 
+
+You can refill a lantern using an oil flask, restoring Durability to the maximum.
+
+[cols="1,2"]
+|===
+| Torch | Durability 1
+| Lantern | Durability 2
+|===
+
+=== Snuff Out Checks
+
+In a dramatic situation (e.g., combat or chase), a character who is holding a light source must
+check to if he drops the light whenever one of the following conditions arise:
+
+* the character rolls a 1 on a Trait roll
+* the character is hit hard (i.e., at least Shaken by a damaging effect)
+
+The player draws a card from the Action Deck. 
+On a club, the light falls and is extinguished. 
+You can light it again.
+However, if the club is also a face card, the lantern breaks.
+
+
+=== Making Light in Darkness 
+
+A character with a torch or lantern and flint and steel can light a source of light in two rounds, one with an Agility roll. 
+Without flint and steel, you can try with two stones, but this requires five minutes and a Survival (-2) roll.
+The cantrip power can light a torch or a lantern in one round.
+
+////
 == Light and darkness
 
 Darkness:: 
@@ -139,7 +181,7 @@ When the usage die is a d4 and you roll a 1, the light goes out.
 Area:: 
 In most cases,the source of light affects all the room/area. 
 Torches and lanterns also apply Dim Lighting to adjacent rooms and areas (i.e. a -2 modifier to most actions) assuming there are no other sources of light.
-
+////
 
 == Village buildings
 
