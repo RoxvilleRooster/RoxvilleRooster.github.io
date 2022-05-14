@@ -4,6 +4,28 @@
 
 See "Barrowmaze: A Brief History" in _Barrowmaze Complete_.
 
+
+== Village buildings
+
+. Village square
+. General store "Turgen's Trade Goods"
+. Smithy "The Axe and Anvil"
+. Guild hall for mercenaries
+. Depot for merchants "Silver Standard Merchant Caravan Company" 
+. Shrine to St. Ygg
+. Jeweler and moneylender "The Rosy Quartz"
+. Tavern "The Brazen Strumpet"
+. Gambling hall and brother "The Foul Pheasant"
+. Tower of the wizard
+. Bowyer/fletcher
+. Mill
+. Barrowmaze
+. Statue of Herne
+. Ancient ruins
+. Ironguard Motte
+
+
+
 == Rumours
 Each character is allowed one Networking roll. 
 Each success means one of the following rumors is acquired. 
