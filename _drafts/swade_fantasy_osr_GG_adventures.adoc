@@ -1,0 +1,197 @@
+= Gold & Glory adventures
+
+== Wild draw dungeon
+
+The dungeon deck has 36 cards.
+
+.Prepare the dungeon deck by removing these cards
+* face cards
+* aces
+* jokers
+
+When you've drawn all the cards, shuffle the deck.
+
+. Draw 3 cards face up and put them in row.
+. Evaluate the cards for room size and exits.
++ 
+[NOTE]
+====
+.If the complex is a primarily man-made structure (e.g., dungeon or tomb) and 
+* most cards are black, the exits are doors. 
+* most cards are red, the exits are passages (e.g., archways). 
+
+.If the complex is a primarily a natural structure, such as a cavern or cave system and 
+* most cards are black, the exits are doors,  the “room” is a confluence of narrow tunnels; only draw tunnels leading to the appropriate number of exits.
+Bear in mind the general size of the area but you're not bound to the dimensions. + 
+* most cards are red, the “room” is a cave with the size and exits that are indicated by th cards . 
+====
++ 
+Card 1::
+Room width;;
+The card value determines the width of the room in inches
+Card 2::
+Room length:;;
+The card value determines the length of the room in inches
+Card 3::
+Number of exits;;
+2 to 5 = 1 exit; 6 to 8 = 2 exits; 9 or 10 = 3 exits
+. Determine the general contents of the room. + 
+The suit of each card determines the content of the room. 
+Black cards indicate nothing special whereas red cards indicate something important: 
+* Diamonds represent _treasure_
+* Hearts represent _hazards_ (e.g., monster and traps)
+. Determine specific contents of the room.
+The GM can decide the contents of the room on the fly or the contents can be predetermined (e.g., defined in tables). 
++   
+TIP: You can create a dungeon by assigning a specific content for each red card.
+
+
+== Monsters
+
+=== The Cursed Skeleton Knight (WC)
+Once a questing knight, now a skeleton with a green glowing skull.
+
+Attributes:: Agility d8, Smarts d8, Spirit d8, Strength d12+1, Vigor d10
+Skills:: Athletics d6, Fighting d10, Intimidation d8, Notice d6, Shooting d6
+
+Pace: 6; Parry: 7; Toughness: 13 (4)
+Edges:: Improved Frenzy, Level Headed
+
+Gear:: Black iron plate armor (+4), Red Fang greatsword (Str+d10, see below).
+
+Special Abilities::
+* Claws: Str+d4.
+* Fear -1: Terrifying!
+* Undead: +2 Toughness, +2 to recover from Shaken; no additional
+damage from Called Shots, ignores 1 point of Wound penalties.
+Doesn’t breathe, immune to poison and disease.
+
+=== Devilbat
+A boar-sized, hungry bat.
+
+Attributes:: Agility d8, Smarts d4 (A), Spirit d6, Strength d8, Vigor d8
+Skills:: Athletics d8 Fighting d8, Notice d8, Stealth d8
+
+Pace: 1; Parry: 6; Toughness: 6
+
+Edges:: Improved Extraction, Quick
+Special Abilities::
+* Bite: Str+d6.
+* Flight: Pace 1.
+
+=== Giant Lizard
+A large, hungry reptile.
+
+Attributes:: Agility d4, Smarts d4 (A), Spirit d6, Strength d10, Vigor d10
+Skills:: Athletics d4, Fighting d8, Notice d6, Stealth d6
+
+Pace: 3; Parry: 6; Toughness: 9 (2)
+
+Special Abilities::
+* Armor +2: Scaly skin.
+* Bite: Str+d6.
+* Rollover: On a raise with Bite, bonus damage is d10 instead of d6.
+
+
+=== Moss Hulk
+A colossus made of moss, roots and rocks.
+
+Attributes:: Agility d4, Smarts d4, Spirit d8, Strength d12+2, Vigor d12
+Skills:: Athletics d4, Fighting d8, Intimidation d8, Notice d4
+
+Pace: 5; Parry: 6; Toughness: 10
+
+Special Abilities::
+* Elemental: No additional damage from Called Shots, doesn’t breath.
+* Size 2: About 8’ tall.
+* Stone Fist: Str+d8.
+* Weakness: Takes double damage from fire and poison.
+
+
+=== Slaarp the Cold Drake (WC)
+A huge lizard with blue scales and freezing breath.
+
+Attributes:: Agility d6, Smarts d6 (A), Spirit d10, Strength d12+6, Vigor d12
+
+Skills:: Athletics d8, Fighting d10, Intimidation d12, Notice d8, Stealth d6
+Pace: 6; Parry: 7; Toughness: 17 (4)
+Special Abilities::
+* Armor +4: Scaly hide.
+* Bite/Claws: Str+d8.
+* Cold Breath: Breath Weapon inflicting 3d6 cold damage.
+* Fear: Terrifying!
+* Size 5 (Large): About 20’ long.
+* Tail Lash: Str. Free attack against up to 2 foes at side or rear, at
+no penalty.
+* Weakness: Takes double damage from fire.
+
+
+=== Stench Demon (WC)
+A fetid, brownish cloud.
+
+Attributes:: Agility d10, Smarts d4, Spirit d6, Strength d8, Vigor d6
+
+Skills:: Athletics d10, Fighting d8, Notice d8, Shooting d8, Stealth d8
+
+Pace: -; Parry: 6; Toughness: 5
+
+Special Abilities::
+* Elemental: No additional damage from Called Shots, ignores 1 point of Wound Penalties, doesn't breath, immune to disease and poison.
+* Flight: Pace 10”.
+* Gaseous Form: Can maneuver through non-solid surfaces, pass through cracks, etc.
+* Invulnerability: Immune to non-magical attacks.
+* Vile Stench: -2 to Stealth rolls. Adjacent foes suffer -1 to all rolls.
+* Wind Blast: Can choose one target or use the Cone Template, and rolls Shooting. 
+Those affected make a Strength roll (-2 if hit with a raise) or are hurled 2d6”. 
+Anyone who strikes a hard object takes 2d4 non-lethal damage.
+* Weakness: Takes double damage from cold and air magic.
+
+=== Stoneling
+Human-sized rock elementals.
+
+Attributes:: Agility d4, Smarts d4, Spirit d8, Strength d6, Vigor d6
+
+Skills:: Athletics d4, Fighting d6, Notice d4, Shooting d6, Stealth d4
+
+Pace: 4; Parry: 5; Toughness: 7 (2)
+
+Gear:: Thrown rocks (3/6/12, Str+d4).
+
+Special Abilities::
+* Armor +2: Stone skin.
+* Elemental: No additional damage from Called Shots, doesn't breath, immune to disease and poison.
+* Rock fist: Str+d4
+
+
+== The party
+
+
+Celestial (Ray)::
+Hindrances;; One-eyed, anemic, all thumbs, outsider
+Edges;; Alertness
+Connections;;
+* Celest and Halurr are both refugees
+* Keerla and Celest are Former Business Partners
+
+Halurr the rythmic whistler (Chuck)::
+Hindrances;; Bloodthirsty, Stubborn, Outsider, All Thumbs
+Edges;; AB (Miracles)
+Connections;;
+* Halurr is guardian to Nylan
+* Celest and Halurr are both refugees 
+
+Nylan (Aramis)::
+Hindrances;; Code of honor, big mouth, all thumbs
+Edges;; Quick
+Connections;;
+* Nylan is Halurr's ward
+* Nylan and Keerla are Former Street Performers
+
+Keerla (Devin)::
+Hindrances;; Bad luck, outsider, all thumbs
+Edges;; 
+* AB (Magic)
+* Nerves of Steel
+Connections;;
+* Nylan and Keerla are Former Street Performers
+* Keerla and Celest are Former Business Partners
