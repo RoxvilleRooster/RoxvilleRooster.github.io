@@ -258,8 +258,7 @@ Skills:: Athletics d4, Fighting d8, Intimidation d8, Notice d4
 Pace: 5; Parry: 6; Toughness: 10
 
 Special Abilities::
-* Elemental: No additional damage from Called Shots, doesn’t
-breath.
+* Elemental: No additional damage from Called Shots, doesn’t breath.
 * Size 2: About 8’ tall.
 * Stone Fist: Str+d8.
 * Weakness: Takes double damage from fire and poison.
@@ -295,8 +294,7 @@ Pace: -; Parry: 6; Toughness: 5
 Special Abilities::
 * Elemental: No additional damage from Called Shots, ignores 1 point of Wound Penalties, doesn't breath, immune to disease and poison.
 * Flight: Pace 10”.
-* Gaseous Form: Can maneuver through non-solid surfaces, pass
-through cracks, etc.
+* Gaseous Form: Can maneuver through non-solid surfaces, pass through cracks, etc.
 * Invulnerability: Immune to non-magical attacks.
 * Vile Stench: -2 to Stealth rolls. Adjacent foes suffer -1 to all rolls.
 * Wind Blast: Can choose one target or use the Cone Template, and rolls Shooting. 
@@ -317,8 +315,7 @@ Gear:: Thrown rocks (3/6/12, Str+d4).
 
 Special Abilities::
 * Armor +2: Stone skin.
-* Elemental: No additional damage from Called Shots, doesn't
-breath, immune to disease and poison.
+* Elemental: No additional damage from Called Shots, doesn't breath, immune to disease and poison.
 * Rock fist: Str+d4
 
 
