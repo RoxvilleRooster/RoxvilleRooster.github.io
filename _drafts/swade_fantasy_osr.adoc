@@ -50,6 +50,29 @@ There is no need for a player to serve as mapper or caller.
 
 == Character creation
 
+=== Races
+
+Humans, dawrves, and half-folk are standard player races.
+See SWADE for racial characteristics.
+
+NOTE: Elves are powerful - consult the GM if you want to play an elf, but do not get your hopes up.
+
+=== Traits
+
+As per SWADE.
+Allocate 12 skills points.
+
+
+By default a character knows one language per Smarts die type, starting with his native language.
+For example, a character with Smarts d8, knows three languages.
+
+NOTE: The *Reputation* trait represents the fame of the character. 
+Your _Reputation_ starts at 0, unless it is modified by Edges and Hindrances.
+
+=== Gear
+
+Characters start with a set of clothes, a backpack, and all the gear they can buy with their starting money, equal to 500 cp. 
+
 
 == Check for wandering monsters
 Draw a card from the Action Deck, one per group of heroes (in case they split up).
