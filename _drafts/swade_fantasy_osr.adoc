@@ -1,7 +1,5 @@
 = Savage Old-School Fantasy
 :toc:
-:dt_phase: downtime phase
-:dt_task: downtime task
 
 == About the old-school fantasy game
 
