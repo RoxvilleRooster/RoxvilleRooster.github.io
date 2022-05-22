@@ -362,3 +362,38 @@ If you have a Reputation score below zero, you subtract the Reputation score fro
 On the other hand, if you have a negative Reputation score, you add the absolute value of the Reputation as a bonus to Intimidation rolls. 
 These penalties and bonuses assume that you are interacting with NPCs that know of the character's bad reputation.
 ****
+
+
+== Resting and healing
+
+NOTE: For the purpose of natural (non-magical) healing, ignore the Golden Hour rules from SWADE.
+
+To recover from wounds or fatigue, a character must take a proper _rest_.
+A rest is an eight-hour period during which the characters make camp, eat, sleep, repair armor, memorize spells, etc.
+// undisturbed??
+
+To take a formal _rest_, the character consumes 1 quality of ration (food or the equivalent). 
+If you have no rations, you do not benefit from the effects of the _rest_.
+In addition, consult the Hunger and Thirst rules (SWADE p128 and 129, respectively) and apply them as you see fit.
+
+At the end of an undisturbed period of rest, the heroes can make a Healing roll.
+You use the Healing of the designated party healer (this is typically the character who has the best Healing roll).
+The character recovers one Wound (or Fatigue level, based on the player's choice) per success and raise.
+The you can recover up to three Wounds or Fatigue levels in total (e.g., if you have a success and three raises on the Healing roll, you only recover 3). 
+You can combine Wounds and Fatigue as you wish.
+Every healing roll can receive only one Support from another character.
+The roll is subject to the normal Wounds penalties, both from the healer and from the patient.
+
+=== Characters with the arcane backgrounds
+
+Arcane Backgrounds also recover all their Power Points at the end of the Rest.
+Interrupted Rest. 
+If a Rest is interrupted once (by wandering monsters or similar) you still benefit from it, but if there are two interruptions or more, it is disrupted, no Wounds are healed or Power Points recovered, and the party must start another Rest from scratch (and consume another Ration).
+
+=== Guards
+By default, it is assumed that one hero at time is on guard duty during Rests, this doesn't hinder his ability to recover. 
+If players take double turns with heroes, the GM can apply a penalty to the Healing roll (from -1 to -2).
+
+=== Resting in civilized areas 
+While resting in civilized areas the same rules above apply, but with no risk of wandering monsters, obviously. 
+During the Downtime Phase, instead, when the party can freely rest, they recover all Wounds, Fatigue levels and Power Points.
