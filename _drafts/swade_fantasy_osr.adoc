@@ -273,6 +273,7 @@ You can train the same protege a second time, making that character a Sidekick a
 With the GM's consent, multiple characters can team up to perform the same downtime task.
 The task tokens you earn go into a shared pool toward the progress of the downtime task.
 
+NOTE: Only one character can directly benefit from the effect of the downtime task. 
 ****
 
 
@@ -321,6 +322,7 @@ Torches and lanterns also apply Dim Lighting to adjacent rooms and areas (i.e. a
 In game terms, a character's fame (or notoriety) is handled through the Reputation score.
 Reputation measures the effect on the world of the adventurer's deeds and how these deeds are reported and then viewed by others.
 The Reputation score begins at zero.
+It increases as the character completes adventures and performs actions that others recognize. 
 
 In game terms, whenever a character makes a Persuasion roll, you can use his Reputation score instead of the result, if the Reputation score is higher.
 
