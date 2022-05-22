@@ -1,6 +1,7 @@
 = Savage Old-School Fantasy
 :toc:
 :dt_phase: downtime phase
+:dt_task: downtime task
 
 == About the old-school fantasy game
 
@@ -143,23 +144,36 @@ A typical game is divided into two phases: the _adventuring phase_, which is whe
 
 === Downtime phase
 
-During each {dt_phase}, the GM awards each player one activity point.
+At the start of the downtime phase, the GM awards each player *one* activity point.
+As a player, you spend the activity point to perform an activity that contributes to the completion of the downtime task. 
 
-You use activity points to perform tasks, which we call _prolonged tasks_ that are important to you.
-At the completion of a prolonged task, you receive the associated effect.
+To complete a downtime task (and receive the associated effect), you must collect 4 task tokens.
 
-// examples of tasks
+NOTE: You cannot save an activity point to use in a future downtime phase.
+You either use the point or lose it.
 
-For each activity point that you spend, the character can undertake an activity in a prolonged task.
-Most prolonged tasks also have a monetary cost.
+.Examples of downtime tasks include 
+* training in a skill
+* doing research 
+* performing an extended ritual
+* finding exotic ingredients for a crafting purpose
+* creating or repairing an item
+* educating a protege
 
-TIP: If you have an activity point and no money, you may need to consider helping someone else perform a prolonged task (see <<#combined_effort,below>>).
+See <<#dt_table>> for a list of standard downtime tasks.
+
+To complete a downtime task, you must collect 4 task tokens.
+
+A downtime task typically requires the character's prolonged effort; the character typically works on the task over multiple downtime phases.
+When the character completes the downtime task, you receive the associated effect, typically some kind of benefit.
+// For each activity point you spend, the character can undertake an activity in a prolonged task.
+Many downtime tasks also have a monetary cost.
+
+TIP: If you have an activity point and no money, you may need to consider helping someone else perform a downtime task (see <<#combined_effort,below>>).
+
+// NOTE: Typically you do not complete a prolonged task in one {dt_phase}.
 
 
-// To complete a prolonged task, you need to complete 4 activities.
-
-
-NOTE: Typically you do not complete a prolonged task in one {dt_phase}.
 
 .Starting a prolonged task
 . Identify the prolonged task (and desired effect).
@@ -184,8 +198,8 @@ See <<#activity_roll,Activity trait rolls and results>>.
 | Raise | Add 1 task token for success and add 1 token for each raise toward the progress of the prolonged task
 |===
 
-[[pt_table]]
-.Prolonged tasks table
+[[dt_table]]
+.Downtime tasks table
 |===
 | Activity | Cost | Trait roll | Effect
 
@@ -248,21 +262,20 @@ You can train the same protege a second time, making that character a Sidekick a
 
 // The Activity List is generic - feel free customize it.
 
-// Speeding Up. The character can “buy” extra Task rolls in the same Activity point use, by spending another 50% of the cost.
-//TK@FUP do not understand this
+// .Speeding up a downtime task. 
+// ****
+// The character can “buy” extra Task rolls in the same Activity point use, by spending another 50% of the cost.
+// ****
 
 [[combined_effort]]
-.Working together on a prolonged task
+.Working together on a downtime task
 ****
-With the GM's consent, multiple characters can team up to perform the same prolonged task.
-The task tokens you earn go into a shared pool toward the progress of the prologed task.
+With the GM's consent, multiple characters can team up to perform the same downtime task.
+The task tokens you earn go into a shared pool toward the progress of the downtime task.
 
-NOTE: Only one character can directly benefit from the effect of the prolonged task. 
 ****
 
-// awarding ap
 
-NOTE: You cannot accumulate and hoard activity points - you spend them in the downtime phase that the GM awards them.
 
 
 
@@ -303,3 +316,21 @@ In most cases,the source of light affects all the room/area.
 Torches and lanterns also apply Dim Lighting to adjacent rooms and areas (i.e. a -2 modifier to most actions) assuming there are no other sources of light.
 ////
 
+== Reputation
+
+In game terms, a character's fame (or notoriety) is handled through the Reputation score.
+Reputation measures the effect on the world of the adventurer's deeds and how these deeds are reported and then viewed by others.
+The Reputation score begins at zero.
+
+In game terms, whenever a character makes a Persuasion roll, you can use his Reputation score instead of the result, if the Reputation score is higher.
+
+NOTE: The reputation of a character isn not universally known.
+If a character is outside his typical area of operation, the GM can decide that the character's Reputation is not known and does not apply.
+
+.Notoriety
+****
+You can have a bad reputation.
+If you have a Reputation score below zero, you subtract the Reputation score from the character's Persuasion trait rolls.
+On the other hand, if you have a negative Reputation score, you add the absolute value of the Reputation as a bonus to Intimidation rolls. 
+These penalties and bonuses assume that you are interacting with NPCs that know of the character's bad reputation.
+****
