@@ -201,6 +201,12 @@ See <<#activity_roll,Activity trait rolls and results>>.
 |===
 | Activity | Cost | Trait roll | Effect
 
+| Splash money around
+| Current Reputation * 500 cp
+| Persuasion 
+| Increase Reputation score by 1.
+// TK@FUP test this because it may get out of hand; also consequences!
+
 | Craft an item 
 | 50% of the item cost
 | Repair (-1 per 500 cp cost of the item, Qualities included)
@@ -208,19 +214,13 @@ See <<#activity_roll,Activity trait rolls and results>>.
 It can have one Quality.
 // TK@FUP on Quality
 
-| Increase an arcane power
+| Increase an arcane background power
 | 500 cp x (power points already
 gained in this way +1)
 // TK@FUP on currency
 | Arcane skill (-1 per power point gained in this way)
 | The character permanently increases his power points by 1.
 
-
-| Splash money around
-| Current Reputation * 500 cp
-| Persuasion 
-| Increase Reputation score by 1.
-// TK@FUP test this because it may get out of hand; also consequences!
 
 | Manage stronghold
 | None 
@@ -243,10 +243,7 @@ A skill can only be improved by one die type in this way.
 If you improve a skill by normal means while you are in the
 middle of a prolonged task of skill training you lose all the gained progress benefits.
 
-| Train an attribute
-|
-|
-|
+
 
 
 | Train a protege 
@@ -255,6 +252,37 @@ middle of a prolonged task of skill training you lose all the gained progress be
 | Spirit (-2)
 | You gains a Novice Extra character, nominally under your control. 
 You can train the same protege a second time, making that character a Sidekick as per the edge.
+
+| Acquire asset
+|
+|
+|
+
+| Research 
+|
+|
+|
+
+| Observe rituals and duties
+|
+|
+|
+
+| Indulge vices
+|
+|
+|
+
+| Recover
+|
+|
+|
+
+| Train an attribute
+|
+|
+|
+
 |===
 
 
