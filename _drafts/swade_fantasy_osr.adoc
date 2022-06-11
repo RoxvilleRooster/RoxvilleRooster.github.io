@@ -258,6 +258,11 @@ You can train the same protege a second time, making that character a Sidekick a
 |
 |
 
+| Earn
+|
+|
+|
+
 | Research 
 |
 |
@@ -397,3 +402,14 @@ If players take double turns with heroes, the GM can apply a penalty to the Heal
 === Resting in civilized areas 
 While resting in civilized areas the same rules above apply, but with no risk of wandering monsters, obviously. 
 During the Downtime Phase, instead, when the party can freely rest, they recover all Wounds, Fatigue levels and Power Points.
+
+
+== Money, wealth, and loot
+
+$1 in Savage Worlds terms is 1 silver piece.
+
+1 gold piece = 10 silver pieces = 100 copper pieces 
+
+// TFV - Characters start with a set of clothes, a backpack and all the gear they can buy with their starting money, equal to 500 cp.
+
+// G&G - Currency comes as coins. Coins can be made of copper, silver, gold or platinum. Silver is the default and all prices are in silver pieces, or sp. One platinum piece (or pp) is ten gold pieces (or gp); one gold piece is ten silver pieces (or sp); one silver piece is ten copper pieces (or cp).
