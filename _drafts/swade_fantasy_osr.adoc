@@ -1,10 +1,30 @@
-= Savage Old-School Fantasy
+= Savage Worlds Old-School Fantasy
 :toc:
 
 == About the old-school fantasy game
 
 This campaign is an attempt to get close to emulating an "old school" dungeon crawl experience using the Savage Worlds (SWADE) rules. 
 The goal is to reproduce many of the best elements of the old school game play and, at the same, enjoy Savage Worlds' fast-furious-fun play style.
+
+.Genre
+****
+In terms of the the _Savage Worlds Adventure Edition Fantasy Companion_ (FC), the genre and tone is a combination of "Low Fantasy" and "Dark Fantasy".
+
+.The setting rules we use are:
+* Betrayal
+* Conviction
+* Downtime (&#x2020;)
+* Dynamic Backlash
+* Giant Foes
+// * Gritty Damage
+* Hard Choices
+// * Skill Specialization
+* High Adventure
+* Villainous Conviction
+// * Low Power (&#x2020;)
+
+
+***
 
 // We'll use Greg Gillespie's Barrowmaze (and the village of the Helix) as the mainstays of the setting.
 Most sessions will run as a short foray into a "dungeon". 
@@ -17,16 +37,17 @@ As a Savage Worlds GM, we can hand wave _most_ resource management unless it mak
 We'll manage resources for 
 
 * ammunition for allies
-* light sources
+* light sources 
 * power points
 
-For experience, I want to use the Gold & Glory "In it for the Gold" setting rule, which shift how we handle advancement.
+// For experience, I want to use the Gold & Glory "In it for the Gold" setting rule, which shift how we handle advancement.
 
 // As Savage Worlds does not require the killing of monsters or acquisition of treasure for character advancement, I plan to scale down the number of combats, eliminating ones that I see as less meaningful, and there will be somewhat less treasure.
 // There are traps but they tend to be less lethal to a Savage Worlds novice-level PC than they were to a first-level B/X magic-user.
 
 You are welcome to hire and employ henchmen and hirelings (Savage Worlds allied extras). 
-Players will control these extras in combat; make sure that your PCs treat the henchmen and hirelings fairly or they may turn (sneak away, run at a critical time, steal, or worse).
+As a player, you control these extras in combat.
+If your PC does not treat the henchmen and hirelings with fairness, the GM can take control of these NPCs and they may turn (sneak away, run at a critical time, steal, or worse).
 
 There is no need for a player to serve as mapper or caller.
 
@@ -38,6 +59,7 @@ There is no need for a player to serve as mapper or caller.
 
 
 .References:
+* Savage Worlds Adventure Edition Fantasy Companion (FC)
 * link:https://www.drivethrurpg.com/product/283156/GoldGlory-Seven-Deadly-Dungeons-Savage-Worlds-Adventure-Edition["Gold & Glory: Seven Deadly Dungeons (Savage Worlds Adventure Edition)]
 * link:https://goodbadskinny.blogspot.com/2017/01/savage-warhammer.html[Savage Warhammer]
 * link:https://www.drivethrurpg.com/product/273116/The-Tomb-of-Xenophon-MicroDungeon-Adventure-Savage-Worlds?filters=45582_0_1600_0_0[The Tomb of Xenophon: Micro-Dungeon Adventure (Savage Worlds)]
@@ -50,12 +72,14 @@ There is no need for a player to serve as mapper or caller.
 
 == Character creation
 
-=== Races
+=== Ancestries
 
-Humans, dawrves, and half-folk are standard player races.
-See SWADE for racial characteristics.
+// In this game, all PCs are human.
+// There are different human cultures and ethnicities. 
+Humans, dwarves, gnomes, elves and half-elves, half-orcs, and half-folk are all standard player ancestries.
+// See SWADE for racial characteristics.
 
-NOTE: Elves are powerful - consult the GM if you want to play an elf, but do not get your hopes up.
+// NOTE: Elves are powerful - consult the GM if you want to play an elf, but do not get your hopes up.
 
 === Traits
 
@@ -155,7 +179,11 @@ You either use the point or lose it.
 * doing research 
 * performing an extended ritual
 * finding exotic ingredients for a crafting purpose
+* enchanting an item
 * creating or repairing an item
+** scribe a scroll
+** brew a potion
+** forge a sword
 * educating a protege
 
 See <<#dt_table>> for a list of standard downtime tasks.
@@ -406,10 +434,40 @@ During the Downtime Phase, instead, when the party can freely rest, they recover
 
 == Money, wealth, and loot
 
-$1 in Savage Worlds terms is 1 silver piece.
+As per the FC, $1 in Savage Worlds terms is 1 gold piece (FC p46).
 
 1 gold piece = 10 silver pieces = 100 copper pieces 
+
+Use the FC equipment tables for prices.
+
+Use the expenses for Lifestyle for each character. 
+Have each character specify their Lifestyle at character creation.
+Lifestyle can change over the course of an adventurer's career.
+
+
 
 // TFV - Characters start with a set of clothes, a backpack and all the gear they can buy with their starting money, equal to 500 cp.
 
 // G&G - Currency comes as coins. Coins can be made of copper, silver, gold or platinum. Silver is the default and all prices are in silver pieces, or sp. One platinum piece (or pp) is ten gold pieces (or gp); one gold piece is ten silver pieces (or sp); one silver piece is ten copper pieces (or cp).
+
+
+== Modified edges
+
+=== Arcane Background
+
+.The following Arcane Backgrounds (from FC) are available to PCs: 
+// * Alchemist
+// * Bard
+* Cleric
+* Druid
+// * Illusionist
+* Sorcerer
+* Wizard
+
+=== New Power
+A wizard or sorcerer can acquire the New Power Edge only if they have an Arcane Laboratory of adequate
+Rank available. 
+A cleric or druid can take powers above Novice Rank only if they have performed a proper quest or built/improved an site of veneration (that is, something akin to an altar) to their god(s).
+//  (see Game Master Guide page 71)
+
+IMPORTANT: In this setting, this Edge only grants one new power.
