@@ -186,28 +186,28 @@ You either use the point or lose it.
 ** forge a sword
 * educating a protege
 
-See <<#dt_table>> for a list of standard downtime tasks.
+See the <<#dt_table>> for a list of standard downtime tasks.
 
 To complete a downtime task, you must collect 4 task tokens.
 
 A downtime task typically requires the character's prolonged effort; the character typically works on the task over multiple downtime phases.
-When the character completes the downtime task, you receive the associated effect, typically some kind of benefit.
+When the character completes the downtime task, she receives the associated effect, typically some kind of benefit.
 // For each activity point you spend, the character can undertake an activity in a prolonged task.
 Many downtime tasks also have a monetary cost.
 
-TIP: If you have an activity point and no money, you may need to consider helping someone else perform a downtime task (see <<#combined_effort,below>>).
+TIP: If you have an activity point and no money, you may need to consider helping someone else perform a downtime task (see <<#combined_effort,combined effort>>).
 
 // NOTE: Typically you do not complete a prolonged task in one {dt_phase}.
 
 
 
-.Starting a prolonged task
-. Identify the prolonged task (and desired effect).
+.Starting a downtime task
+. Identify the downtime task (and desired effect).
 . Spend 1 activity point.
-. Make a trait roll associated with the activity/prolonged task. 
+. Make a trait roll associated with the activity/downtime task. 
 See <<#activity_roll,Activity trait rolls and results>>.
 
-.Continuing a prolonged task
+.Continuing a downtime task
 . Identify the prolonged task that you are continuing.
 . Spend 1 activity point.
 . Make the trait roll associated with the activity/prolonged task. 
@@ -218,10 +218,10 @@ See <<#activity_roll,Activity trait rolls and results>>.
 [cols="1,2"]
 |===
 | Trait Roll | Result
-| Fumble | Prolonged task fails completely and ends
+| Fumble | Downtime task fails completely and ends
 | Failure | No progress
-| Success | Add 1 task token toward the progress of the prolonged task
-| Raise | Add 1 task token for success and add 1 token for each raise toward the progress of the prolonged task
+| Success | Add 1 task token toward the progress of the downtime task
+| Raise | Add 1 task token for success and add 1 token for each raise toward the progress of the downtime task
 |===
 
 [[dt_table]]
@@ -269,7 +269,7 @@ The character improves the chosen skill by one die type.
 A skill can only be improved by one die type in this way.  
 + 
 If you improve a skill by normal means while you are in the
-middle of a prolonged task of skill training you lose all the gained progress benefits.
+middle of a downtime task of skill training you lose all the gained progress benefits.
 
 
 
