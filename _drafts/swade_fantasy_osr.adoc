@@ -24,7 +24,7 @@ In terms of the the _Savage Worlds Adventure Edition Fantasy Companion_ (FC), th
 // * Low Power (&#x2020;)
 
 
-***
+****
 
 // We'll use Greg Gillespie's Barrowmaze (and the village of the Helix) as the mainstays of the setting.
 Most sessions will run as a short foray into a "dungeon". 
