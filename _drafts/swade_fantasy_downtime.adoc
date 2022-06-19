@@ -1,0 +1,209 @@
+
+= Downtime and the downtime phase
+
+At the start of the downtime phase, the GM awards each player *one* activity point.
+As a player, you spend the activity point to perform an activity that contributes to the completion of the downtime task. 
+
+A downtime task is like a character-specific dramatic task that can extend over multiple sessions.
+
+.Key differences between a downtime task and a dramatic task:
+* If you fail the downtime task, no bad thing happens - you just do not get the effect you want 
+* There is no time limit on a downtime task
+
+== Performing a downtime task
+The player draws a card from the action deck.
+Clubs and jokers have the same effects on trait rolls as in a dramatic task.
+
+The player rolls make a trait roll for related skill.
+////
+Critical failure:: reduce progress by 1 or causes task to fail (if reduced to less than 1)
+Failure:: no token
+Success:: 1 token
+Raise:: +1 token for each raise
+////
+
+To complete a downtime task (and receive the associated effect), you must collect 4 task tokens.
+
+NOTE: You cannot save an activity point to use in a future downtime phase.
+You either use the point or lose it.
+
+.Examples of downtime tasks include 
+* training in a skill
+* doing research 
+* performing an extended ritual
+* finding exotic ingredients for a crafting purpose
+* enchanting an item
+* creating or repairing an item
+** scribe a scroll
+** brew a potion
+** forge a sword
+* educating a protege
+
+See the <<#dt_table>> for a list of standard downtime tasks.
+
+To complete a downtime task, you must collect 4 task tokens.
+
+A downtime task typically requires the character's prolonged effort; the character typically works on the task over multiple downtime phases.
+When the character completes the downtime task, she receives the associated effect, typically some kind of benefit.
+// For each activity point you spend, the character can undertake an activity in a prolonged task.
+Many downtime tasks also have a monetary cost.
+
+TIP: If you have an activity point and no money, you may need to consider helping someone else perform a downtime task (see <<#combined_effort,combined effort>>).
+
+// NOTE: Typically you do not complete a prolonged task in one {dt_phase}.
+
+
+
+.Starting a downtime task
+. Identify the downtime task (and desired effect).
+. Spend 1 activity point.
+. Draw a card from the action deck.
+. Make a trait roll associated with the activity/downtime task. 
+See <<#activity_roll,Activity trait rolls and results>>.
+
+.Continuing a downtime task
+. Identify the prolonged task that you are continuing.
+. Spend 1 activity point.
+. Draw a card from the action deck.
+. Make the trait roll associated with the activity/prolonged task. 
+See <<#activity_roll,Activity trait rolls and results>>.
+
+[[activity_roll]]
+.Activity trait rolls and results
+[cols="1,2"]
+|===
+| Trait Roll | Result
+
+| Critical Failure  | Reduce progress by 1 or causes the downtime task to fail (if reduced to less than 1)
+| Failure | No progress; no token earned
+| Success | Earn 1 task token toward the progress of the downtime task
+| Raise | Earn 1 task token for success and earn 1 token for each raise toward the progress of the downtime task
+|===
+
+.Goals for downtime tasks
+* Increase reputation
+* Curry favor
+* Build or repair/maintain something
+* Earn or acquire
+* Learn something 
+** research
+** train in a skill
+* Train someone
+* Serve another
+
+
+[[dt_table]]
+.Downtime tasks table
+|===
+| Activity | Cost | Trait roll | Effect
+
+| Splash money around
+| Current Reputation * 500 gp
+| Persuasion 
+| Increase Reputation score by 1.
+// TK@FUP test this because it may get out of hand; also consequences!
+
+| Curry favor
+| 
+| 
+| See "Carouse" in FC
+
+| Craft an item 
+| 50% of the item cost
+| Repair (-1 per 500 gp cost of the item, Qualities included)
+| An item is crafted. 
+It can have one Quality.
+// TK@FUP on Quality
+
+| Increase an arcane background power
+| 500 gp x (power points already gained in this way +1)
+// TK@FUP on currency
+| Arcane skill (-1 per power point gained in this way)
+| The character permanently increases his power points by 1.
+
+
+| Manage stronghold
+| None 
+| Smarts (-2)
+// TK@FUP why the negative?
+| One of the stronghold's structures, during this dowmntime phase only, is considered two ranks higher
+// TK@FUP not sure why this is useful
+
+| Train in a skill 
+| Skill die x 250 gp 
+| Linked attribute (-1 per current die type of the
+skill)
++ must find a trainer
+| 
+The character improves the chosen skill by one die type. 
++ 
+A skill can only be improved by one die type in this way.  
++ 
+If you improve a skill by normal means while you are in the
+middle of a downtime task of skill training you lose all the gained progress benefits.
+
+
+
+
+| Train a protege 
+| 1000 gp 
+// TK@FUP on currency
+| Spirit (-2)
+| You gains a Novice Extra character, nominally under your control. 
+You can train the same protege a second time, making that character a Sidekick as per the edge.
+
+| Acquire asset
+|
+|
+|
+
+| Earn
+|
+|
+|
+
+| Research 
+|
+|
+|
+
+| Observe rituals and duties
+|
+|
+|
+
+| Indulge vices
+|
+|
+|
+
+| Recover
+|
+|
+|
+
+| Train an attribute
+|
+|
+|
+
+|===
+
+
+// The Activity List is generic - feel free customize it.
+
+// .Speeding up a downtime task. 
+// ****
+// The character can “buy” extra Task rolls in the same Activity point use, by spending another 50% of the cost.
+// ****
+
+[[combined_effort]]
+.Working together on a downtime task
+****
+With the GM's consent, multiple characters can team up to perform the same downtime task.
+The task tokens you earn go into a shared pool toward the progress of the downtime task.
+
+NOTE: Only one character can directly benefit from the effect of the downtime task. 
+****
+
+
