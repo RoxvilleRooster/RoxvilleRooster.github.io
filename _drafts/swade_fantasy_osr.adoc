@@ -16,7 +16,7 @@ In terms of the the _Savage Worlds Adventure Edition Fantasy Companion_ (FC), th
 * Downtime (&#x2020;)
 * Dynamic Backlash
 * Giant Foes
-* Hard Choices
+* Hard Choices (&#x2021;)
 * High Adventure
 * Villainous Conviction
 // * Gritty Damage
