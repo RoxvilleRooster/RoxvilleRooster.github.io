@@ -131,18 +131,26 @@ It can have one Quality.
 
 | Train in a skill 
 | Skill die x 250 gp 
-| Linked attribute (-1 per current die type of the
+a| Linked attribute (-1 per current die type of the
 skill)
-+ must find a trainer
-| 
+
+must find a trainer
+a| 
 The character improves the chosen skill by one die type. 
-+ 
+ 
 A skill can only be improved by one die type in this way.  
-+ 
+
 If you improve a skill by normal means while you are in the
 middle of a downtime task of skill training you lose all the gained progress benefits.
 
-
+| Recruit someone
+| 
+a| 
+* Protege
+* Henchman
+* Expert hireling
+* Party member
+|
 
 
 | Train a protege 
