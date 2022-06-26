@@ -8,17 +8,17 @@ The goal is to reproduce many of the best elements of the old school game play a
 
 .Genre
 ****
-In terms of the the _Savage Worlds Adventure Edition Fantasy Companion_ (FC), the genre and tone is a combination of "Low Fantasy" and "Dark Fantasy".
+In terms of the the _Savage Worlds Adventure Edition Fantasy Companion_ (FC), the genre and tone is a combination of "Low Fantasy" and "Dark Fantasy" but I also want to minimize the number of setting rules in play.
 
 .The setting rules we use are:
 * Betrayal
-* Conviction
+// * Conviction
 * Downtime (&#x2020;)
 * Dynamic Backlash
 * Giant Foes
 * Hard Choices (&#x2021;)
-* High Adventure
-* Villainous Conviction
+// * High Adventure
+// * Villainous Conviction
 // * Gritty Damage
 // * Skill Specialization
 // * Low Power (&#x2020;)
@@ -45,7 +45,7 @@ We'll manage resources for
 // As Savage Worlds does not require the killing of monsters or acquisition of treasure for character advancement, I plan to scale down the number of combats, eliminating ones that I see as less meaningful, and there will be somewhat less treasure.
 // There are traps but they tend to be less lethal to a Savage Worlds novice-level PC than they were to a first-level B/X magic-user.
 
-You are welcome to hire and employ henchmen and hirelings (Savage Worlds allied extras). 
+You are welcome to hire and employ henchmen and hirelings (Savage Worlds "allied extras"). 
 As a player, you control these extras in combat.
 If your PC does not treat the henchmen and hirelings with fairness, the GM can take control of these NPCs and they may turn (sneak away, run at a critical time, steal, or worse).
 
@@ -281,19 +281,26 @@ Lifestyle can change over the course of an adventurer's career.
 
 === Arcane Background
 
+.The following Arcane Backgrounds are available to PCs: 
+* Magic
+* Miracles
+
+////
 .The following Arcane Backgrounds (from FC) are available to PCs: 
-// * Alchemist
-// * Bard
 * Cleric
 * Druid
-// * Illusionist
 * Sorcerer
 * Wizard
+////
+// * Alchemist
+// * Bard
+// * Illusionist
 
 === New Power
-A wizard or sorcerer can acquire the New Power Edge only if they have an Arcane Laboratory of adequate
-Rank available. 
-A cleric or druid can take powers above Novice Rank only if they have performed a proper quest or built/improved an site of veneration (that is, something akin to an altar) to their god(s).
+A character with the magic arcane background can acquire the New Power Edge only if they have an Arcane Laboratory of adequate Rank available. 
+A character with the magic miracles background can take powers above Novice Rank only if they have performed a proper quest or built/improved an site of veneration (that is, something akin to an altar) to their god(s).
+//A wizard or sorcerer can acquire the New Power Edge only if they have an Arcane Laboratory of adequate Rank available. 
+//A cleric or druid can take powers above Novice Rank only if they have performed a proper quest or built/improved an site of veneration (that is, something akin to an altar) to their god(s).
 //  (see Game Master Guide page 71)
 
 IMPORTANT: In this setting, this Edge only grants one new power.
