@@ -1,0 +1,41 @@
+= Savage Worlds Lankhmar
+
+.Genre
+****
+In terms of the the _Savage Worlds Adventure Edition Fantasy Companion_ (FC), the genre and tone is a combination of "Low Fantasy" and "Dark Fantasy".
+
+.The setting rules we use are:
+* Betrayal - FC p 76 (replaces "No honor among thieves" from LCoT)
+* Dynamic Backlash
+* Hard Choices (&#x2021;)
+* Unarmored Hero - SWADE p 141 (replaces "Unarmored heroes" from LCoT)
+* Fast Healing - SWADE p 139 (replaces "Larger than life" from LCoT)
+* New Power (&#x2020;) edge
+* Knockout Blow (SWADE p 100) is a standard SWADE rule
+
+
+== Down to my last tik
+Each game week, a character halves his total funds. 
+A character with the Poverty hindrance quarters his funds each week.
+See LCoT 24.
+
+== Guilds
+See LCoT 24-25.
+
+== Edges
+
+=== Changes to edges
+
+==== New Power (SWADE p 47)  
+The character adds **one** new power by choosing this Edge (which may be taken multiple times) *and* one new power trapping.
+For the new power, the character may choose from any powers of her Rank or lower that are normally available to his Arcane Background.
+For the new trapping, the hero adds an effect to an existing power.
+For example, the hero might add an electrical Trapping to her existing freeze entangle power, for example, so she could switch between shock and cold Trappings.
+
+
+
+.References:
+* Lankhmar: City of Thieves (LCoT)
+* Savage Worlds Adventure Edition Fantasy Companion (FC)
+* Savage Worlds Adventure Edition (SWADE)
+* link:https://peginc.com/store/lankhmar-conversion-for-adventure-edition-pdf-swade/[Lankhmar conversion document for SWADE]
