@@ -7,11 +7,11 @@ In terms of the the _Savage Worlds Adventure Edition Fantasy Companion_ (FC), th
 .The setting rules we use are:
 * Betrayal - FC p 76 (replaces "No honor among thieves" from LCoT)
 * Dynamic Backlash
-* Hard Choices (&#x2021;)
 * Unarmored Hero - SWADE p 141 (replaces "Unarmored heroes" from LCoT)
 * Fast Healing - SWADE p 139 (replaces "Larger than life" from LCoT)
-* New Power (&#x2020;) edge
 * Knockout Blow (SWADE p 100) is a standard SWADE rule
+// * Hard Choices (&#x2021;)
+// * New Power (&#x2020;) edge
 
 
 == Down to my last tik
@@ -22,17 +22,27 @@ See LCoT 24.
 == Guilds
 See LCoT 24-25.
 
-== Edges
+== Character creation
 
-=== Changes to edges
+=== Starting experience
 
+Player characters start at Seasoned rank (4 advances).
+
+=== Edges
+
+The player characters do not have arcane backgrounds. 
+
+
+
+// === Changes to edges
+
+////
 ==== New Power (SWADE p 47)  
 The character adds **one** new power by choosing this Edge (which may be taken multiple times) *and* one new power trapping.
 For the new power, the character may choose from any powers of her Rank or lower that are normally available to his Arcane Background.
 For the new trapping, the hero adds an effect to an existing power.
 For example, the hero might add an electrical Trapping to her existing freeze entangle power, for example, so she could switch between shock and cold Trappings.
-
-
+////
 
 .References:
 * Lankhmar: City of Thieves (LCoT)
