@@ -3,6 +3,9 @@
 .Genre
 ****
 In terms of the the _Savage Worlds Adventure Edition Fantasy Companion_ (FC), the genre and tone is a combination of "Low Fantasy" and "Dark Fantasy".
+****
+
+== Setting rules
 
 .The setting rules we use are:
 * Betrayal - FC p 76 (replaces "No honor among thieves" from LCoT)
@@ -13,13 +16,12 @@ In terms of the the _Savage Worlds Adventure Edition Fantasy Companion_ (FC), th
 // * Hard Choices (&#x2021;)
 // * New Power (&#x2020;) edge
 
-
-== Down to my last tik
+=== Down to my last tik
 Each game week, a character halves his total funds. 
 A character with the Poverty hindrance quarters his funds each week.
 See LCoT 24.
 
-== Guilds
+=== Guilds
 See LCoT 24-25.
 
 == Character creation
