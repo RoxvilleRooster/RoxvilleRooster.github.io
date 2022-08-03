@@ -26,6 +26,16 @@ See LCoT 24.
 === Guilds
 See LCoT 24-25.
 
+=== Heists
+
+We'll leverage the heist rules and generator from the Wiseguys setting.
+
+=== Street Gangs
+
+We'll leverage the street gang generator from the Wiseguys setting but we'll make some adaptations.
+
+
+
 [[no_ab]]
 === No arcane backgrounds for player characters
 
@@ -39,7 +49,8 @@ Player characters start at Seasoned rank (4 advances).
 
 === Edges
 
-See <<#no_ab>>.
+Refer to the _Lankhmar conversion document for SWADE_, LCT, and LSSoN.
+See also <<#no_ab>>.
  
 
 
@@ -56,6 +67,7 @@ For example, the hero might add an electrical Trapping to her existing freeze en
 
 .References:
 * Lankhmar: City of Thieves (LCoT)
+* Lankhmar: Savage Seas of Nehwon (LSSoN)
 * Savage Worlds Adventure Edition Fantasy Companion (FC)
 * Savage Worlds Adventure Edition (SWADE)
 * link:https://peginc.com/store/lankhmar-conversion-for-adventure-edition-pdf-swade/[Lankhmar conversion document for SWADE]
