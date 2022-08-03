@@ -7,12 +7,14 @@ In terms of the the _Savage Worlds Adventure Edition Fantasy Companion_ (FC), th
 
 == Setting rules
 
+We're largely using the rules as set put in LCoT but there are a few differences.
+
 .The setting rules we use are:
 * Betrayal - FC p 76 (replaces "No honor among thieves" from LCoT)
-* Dynamic Backlash
 * Unarmored Hero - SWADE p 141 (replaces "Unarmored heroes" from LCoT)
 * Fast Healing - SWADE p 139 (replaces "Larger than life" from LCoT)
 * Knockout Blow (SWADE p 100) is a standard SWADE rule
+// * Dynamic Backlash
 // * Hard Choices (&#x2021;)
 // * New Power (&#x2020;) edge
 
