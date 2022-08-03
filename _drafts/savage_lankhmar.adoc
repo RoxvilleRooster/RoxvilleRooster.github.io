@@ -26,6 +26,11 @@ See LCoT 24.
 === Guilds
 See LCoT 24-25.
 
+[[no_ab]]
+=== No arcane backgrounds for player characters
+
+The player characters do not have arcane backgrounds.
+
 == Character creation
 
 === Starting experience
@@ -34,7 +39,8 @@ Player characters start at Seasoned rank (4 advances).
 
 === Edges
 
-The player characters do not have arcane backgrounds. 
+See <<#no_ab>>.
+ 
 
 
 
