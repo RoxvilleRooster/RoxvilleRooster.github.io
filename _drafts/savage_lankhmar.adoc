@@ -58,6 +58,7 @@ As per the standard SWADE rules, characters start with 12 points to allocate to 
 
 * Hacking is recast as "Cryptography and Ciphers"
 * Academics covers scientific subjects so there is no need for a Science skill
+* Riding also covers the driving of animal-propelled vehicles such as wagons and chariots
 
 
 ==== Removed Skills
@@ -77,7 +78,7 @@ As per the standard SWADE rules, characters start with 12 points to allocate to 
 
 === Edges
 
-Edges that support arcane backgrounds (or have arcange background requirements) and related powers are off limits to player characters.
+Edges that support arcane backgrounds (or have arcane background requirements) and related powers are off limits to player characters.
 See also <<#no_ab>>.
 
 Refer to the _Lankhmar conversion document for SWADE_, LCT, and LSSoN.
