@@ -47,11 +47,41 @@ The player characters do not have arcane backgrounds.
 
 Player characters start at Seasoned rank (4 advances).
 
+=== Skills
+
+Characters begin with a d4 in Athletics, Stealth, Notice, and Persuasion.
+
+As per the standard SWADE rules, characters start with 12 points to allocate to skills.
+
+
+==== Changed Skills
+
+* Hacking is recast as "Cryptography and Ciphers"
+* Academics covers scientific subjects so there is no need for a Science skill
+
+
+==== Removed Skills
+
+.Removed arcane background-related skills
+* Focus, applies to the Arcane Background (Gifted)
+* Faith, applies to the Arcane Background (Miracles)
+* Psionics, applies to the Arcane Background (Psionics)
+* Spellcasting, applies to the Arcane Background (Magic)
+* Weird Science, applies to the Arcane Background (Weird Science)
+//* Language (see the Multiple Languages setting rules in SWADE p 140)
+
+.Other removed skills
+* Electronics
+* Piloting
+* Science
+
 === Edges
 
-Refer to the _Lankhmar conversion document for SWADE_, LCT, and LSSoN.
+Edges that support arcane backgrounds (or have arcange background requirements) and related powers are off limits to player characters.
 See also <<#no_ab>>.
- 
+
+Refer to the _Lankhmar conversion document for SWADE_, LCT, and LSSoN.
+
 
 
 
