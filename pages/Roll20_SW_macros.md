@@ -10,237 +10,237 @@ permalink: /roll20_macros_sawo/
 
 ## Roll20 macros for Savage Worlds
 
-### Attributes
+### Attribute macros
 
-.at.Agility
+`.at.Agility`
 ```
 Agility roll! [[{1d@{Selected|Agility}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]    
 ```
 
-.at.Smarts
+`.at.Smarts`
 ```
 Smarts roll! [[{1d@{Selected|Smarts}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
 ```
 
-.at.Spirit
+`.at.Spirit`
 ```
 Spirit roll! [[{1d@{Selected|Spirit}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
 ```
 
-.at.Strength
+`.at.Strength`
 ```
 Strength roll! [[{1d@{Selected|Strength}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
 ```
 
-.at.Vigor
+`.at.Vigor`
 ```
 Vigor roll! [[{1d@{Selected|Vigor}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]  
 ```
 
 
-### Skills
+### Skill macros
 
 
-.sk.Notice
+`.sk.Notice.wc`
 ```
-Here's a notice roll! [[{1d@{Selected|Notice}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
-```
-
-.sk.Fighting
-```
-Fighting attack! [[{1d@{Selected|Fighting}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]    
+Notice roll for wild card! [[{1d@{Selected|Notice}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
 ```
 
-.sk.Shooting
+`.sk.Fighting.wc`
 ```
-Shooting roll! [[{1d@{Selected|shooting}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
-```
-
-.sk.Athletics
-```
-Athletics roll! [[{1d@{Selected|Athletics}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
+Fighting attack for wild card! [[{1d@{Selected|Fighting}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]    
 ```
 
-.sk.Intimidation
+`.sk.Shooting.wc`
+```
+Shooting roll for wild card! [[{1d@{Selected|shooting}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
+```
+
+`.sk.Athletics.wc`
+```
+Athletics roll for wild card! [[{1d@{Selected|Athletics}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
+```
+
+`.sk.Intimidation.wc`
 ```
 Intimidation roll! [[{1d@{Selected|Intimidation}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
 ```
 
-.sk.Taunt
+`.sk.Taunt.wc`
 ```
 Here's a taunt roll! [[{1d@{Selected|Taunt}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
 ```
 
-.sk.Persuasion
+`.sk.Persuasion.wc`
 ```
 Here's a persuasion roll! [[{1d@{Selected|Persuasion}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
 ```
 
-.sk.Stealth
+`.sk.Stealth.wc`
 ```
 Here's a stealth roll! [[{1d@{Selected|Stealth}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
 ```
 
-.sk.Faith
+`.sk.Faith.wc`
 ```
 Faith roll! [[{1d@{Selected|Faith}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
 ```
 
-.sk.Focus
+`.sk.Focus.wc`
 ```
 Faith roll! [[{1d@{Selected|Focus}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
 ```
 
-.sk.Psionics
+`.sk.Psionics.wc`
 ```
 Faith roll! [[{1d@{Selected|Psionics}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
 ```
 
-.sk.Spellcasting
+`.sk.Spellcasting.wc`
 ```
 Faith roll! [[{1d@{Selected|Spellcasting}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
 ```
 
-.sk.Weird-Science
+`.sk.Weird-Science.wc`
 ```
 Faith roll! [[{1d@{Selected|Weird-Science}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
 ```
 
-.sk.Boating
+`.sk.Boating.wc`
 ```
 Boating roll! [[{1d@{Selected|Boating}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
 ```
 
-.sk.Driving
+`.sk.Driving.wc`
 ```
 Driving roll! [[{1d@{Selected|Driving}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
 ```
 
-.sk.Riding
+`.sk.Riding.wc`
 ```
 Riding roll! [[{1d@{Selected|Riding}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
 ```
 
-.sk.Piloting
+`.sk.Piloting.wc`
 ```
 Piloting roll! [[{1d@{Selected|Piloting}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
 ```
 
-.sk.Healing
+`.sk.Healing.wc`
 ```
 Healing roll! [[{1d@{Selected|Healing}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
 ```
 
-.sk.Research
+`.sk.Research.wc`
 ```
 Here's a research roll! [[{1d@{Selected|Investigation}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
 ```
 
-.sk.Academics
+`.sk.Academics.wc`
 ```
 Here's a research roll! [[{1d@{Selected|Academics}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
 ```
 
-.sk.Science
+`.sk.Science.wc`
 ```
 Here's a research roll! [[{1d@{Selected|Science}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
 ```
 
-.sk.Battle
+`.sk.Battle.wc`
 ```
 Here's a research roll! [[{1d@{Selected|Battle}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
 ```
 
-.sk.Common-Knowledge
+`.sk.Common-Knowledge.wc`
 ```
 Here's a research roll! [[{1d@{Selected|Common-Knowledge}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
 ```
 
-.sk.Gambling
+`.sk.Gambling.wc`
 ```
 Here's a research roll! [[{1d@{Selected|Gambling}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
 ```
 
-.sk.Hacking
+`.sk.Hacking.wc`
 ```
 Here's a research roll! [[{1d@{Selected|Hacking}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
 ```
 
-.sk.Electronics
+`.sk.Electronics.wc`
 ```
 Here's a research roll! [[{1d@{Selected|Electronics}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
 ```
 
-.sk.Thievery
+`.sk.Thievery.wc`
 ```
 Thievery roll! [[{1d@{Selected|Lockpicking}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
 ```
 
-.sk.Performance
+`.sk.Performance.wc`
 ```
 Here's a persuasion roll! [[{1d@{Selected|Performance}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
 ```
 
-.sk.Repair
+`.sk.Repair.wc`
 ```
 Repair roll! [[{1d@{Selected|Repair}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
 ```
 
 
-.sk.Survival
+`.sk.Survival.wc`
 ```Here's a survival roll! [[{1d@{Selected|Survival}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
 ```
 
 ### General rolls
 
-.dmg.melee
+`.dmg.melee`
 ```
 melee damage is
 /r {1d?{Strength|6}! + 1d?{Weapon Damage Die|6}! +?{Modifier|0}}
 ```
 
-.dmg.ranged
+`.dmg.ranged`
 ```
 ranged damage is
 /r ?{Number of Dice|2}d?{Die Type|6}! + ?{Modifier|0}
 ```
 
-:Trait+Wild
+`:Trait+Wild`
 ```
 /r {1d?{Trait Die|6}! , 1d6!}kh1 + ?{Modifier|0}
 ```
 
-:d12!
+`:d12!`
 ```
 A simple d12 roll! [[1d12!]]
 ```
 
-:d10!
+`:d10!`
 ```
 A simple d10 roll! [[1d10!]]
 ```
 
-:d8!
+`:d8!`
 ```
 A simple d8 roll! [[1d8!]]
 ```
 
-:d6!
+`:d6!`
 ```
 A simple d6 roll! [[1d6!]]
 ```
 
-:d4!
+`:d4!`
 ```
 A simple d4 roll! [[1d4!]]
 ```
 
-:d4!-2
+`:d4!-2`
 ```
 An untrained roll for an extra! [[1d4!-2]]
 ```
 
-:d4!-2.wildcard
+`:d4!-2.wc`
 ```
 An untrained roll for a wild card!
 /r {1d4!-2 , 1d6!-2}kh1 + ?{Modifier|0}
@@ -248,16 +248,16 @@ An untrained roll for a wild card!
 
 ### Special cases
 
-!Running
+`!Running`
 ```
 *@{selected|character_name}* runs and has a total movement of [[@{selected|pace}+1?{Running die|d6|d4|d6|d8|d10|d12|d12+1|d12+2|d12+3|d12+4}]]
 ```
 
-!token_info
+`!token_info`
 ```
 @{selected|character_name} ||@{selected|wounds} Wounds ||@{selected|fatigue} Fatigue ||@{selected|pace} Pace ||@{selected|parry} Parry ||@{selected|toughness} Toughness ||@{selected|toughnessArmor} Armor ||@{selected|smarts} Smarts ||@{selected|agility} Agility ||@{selected|strength} Strength ||@{selected|vigor} Vigor ||@{selected|spirit} Spirit ||@{selected|fighting} Fighting ||@{selected|shooting} Shooting ||@{selected|athletics} Athletics ||@{selected|notice} Notice ||@{selected|stealth} Stealth ||@{selected|persuasion} Persuasion ||@{selected|taunt} Taunt ||@{selected|intimidation} Intimidation
 ```
-!raise.calc
+`!raise.calc`
 ```
 Raises=[[floor((?{Die Roll|0}-?{Target Number|4})/4)]]
 ```
