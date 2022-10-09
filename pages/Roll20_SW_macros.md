@@ -178,7 +178,7 @@ Thievery roll! [[{1d@{Selected|Lockpicking}!, 1d6!}kh1 + ?{Modifier|0} -@{Select
 
 `.sk.Performance.wc`
 ```
-Here's a persuasion roll! [[{1d@{Selected|Performance}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
+Persuasion roll for a wild card! [[{1d@{Selected|Performance}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
 ```
 
 `.sk.Repair.wc`
@@ -189,7 +189,8 @@ Repair roll! [[{1d@{Selected|Repair}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Woun
 
 `.sk.Survival.wc`
 
-```Here's a survival roll! [[{1d@{Selected|Survival}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
+```
+Here's a survival roll! [[{1d@{Selected|Survival}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
 ```
 
 ### General rolls
