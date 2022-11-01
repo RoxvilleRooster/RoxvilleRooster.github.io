@@ -16,11 +16,11 @@ This was drafted with the intent to support my own Weird Wars Rome campaign that
 I encourage Savage Worlds enthusiasts of all stripes to purchase Weird Wars Rome (2013) from the link:https://peginc.com/product-category/weird-wars-rome/[Pinnacle Entertainment Group site]. 
 
 This document features excerpts of that book and is not intended to plagiarize elements from it. 
-It also includes additional content that was adapted from the link:https://peginc.com/savage-settings/savage-pathfinder/[Pathfinder for Savage Worlds] rules set.
+It also includes additional content that was adapted from the link:https://peginc.com/savage-settings/savage-pathfinder/[Pathfinder for Savage Worlds] rules set and the link:https://peginc.com/product-category/savage-worlds-companions/fantasy-companion/[Savage Worlds Fantasy Companion].
 ****
 
 ////
-The campaign focused on a group of Roman soldiers of _Legio VI Victrix_, who are posted to the northern frontier near the end of the second century AD, around the xref:https://en.wikipedia.org/wiki/List_of_Roman_emperors#193%E2%80%93235:_Year_of_the_Five_Emperors_and_Severan_dynasty[year of the five emperors].
+The campaign focused on a group of Roman soldiers of _Legio VI Victrix_, who are posted to the northern frontier near the end of the second century AD, around the link:https://en.wikipedia.org/wiki/List_of_Roman_emperors#193%E2%80%93235:_Year_of_the_Five_Emperors_and_Severan_dynasty[year of the five emperors].
 
 
 _Legio sexta victrix_ ("Victorious Sixth Legion") was a legion of the Imperial Roman army that was founded in 41 BC by the Emperor Augustus.
@@ -43,15 +43,16 @@ This legion was stationed at Hadrian's Wall at the end of the second century AD.
 
 
 At the outset of the campaign, the players play members of a unit of auxiliary cavalry instead of legionaries.
-The _Ala II Asturum_, or second Asturian cavalry unit, was a cavalry unit from the province of Hispania (Spain). After 180 AD, this cavalry unit was based at Cilurnum (Chesters).
-// footnote:[In the 2004 movie xref:https://en.wikipedia.org/wiki/King_Arthur_(2004_film)[King Arthur], the protagonists were Sarmatian cavalry attached to a Roman legion around 410 CE.]
+The _Ala II Asturum_, or second Asturian cavalry unit, was a cavalry unit from the province of Hispania (Spain). 
+After 180 AD, this cavalry unit was based at Cilurnum (Chesters).
+// footnote:[In the 2004 movie link:https://en.wikipedia.org/wiki/King_Arthur_(2004_film)[King Arthur], the protagonists were Sarmatian cavalry attached to a Roman legion around 410 CE.]
 As cavalry, they can engage in irregular operations and have some mobility to get into different types of action. 
 
 As _auxilia_, you are one of the _peregrini_, a free provincial subject of the Empire.
 At the end of 25 years of service in the _auxilia_, you are awarded Roman citizenship.
 ****
 
-At the start, you play a soldier who is competent but relatively insignificant. 
+At the start, you play a soldier who is generally competent but relatively insignificant. 
 You're stationed on the frontier of a land that is far from home, family, and the burial ground of your ancestors.
 
 At the outset, the protagonists are involved in military endeavors. 
@@ -67,7 +68,8 @@ Over time, your soldier can rise to that of hero and agent, a member of the Twil
 
 Use the Weird Wars Rome setting in https://savaged.us/.
 
-Sanity is a derived trait, which functions as mental toughness. See <<#_sanity>>.
+Sanity is a derived trait, which functions as mental toughness. 
+See <<#_sanity>>.
 
 Requirements;; Foreigner, Riding d6+, Fighting d6+
 
@@ -126,7 +128,7 @@ Characters who hail from Hispania speak Latin as their native tongue.
 
 Members of the _auxilia_ cavalry have the following standard equipment.  
 
-Equipment;; Scale mail, metal helmet, hasta (spear) and clipeus (medium shield), spatha (long sword), riding horse w/scale barding.
+Equipment;; Scale mail, metal helmet, hasta (spear) and clipeus (medium shield), spatha (long sword), riding horse with scale barding.
 
 === Skills
 
@@ -198,7 +200,7 @@ Requirements;; Seasoned, Strength d8+, Athletics d10+
 
 Formation fighter::
 The character increases the Gang Up bonus by an additional +1 for himself and his allies. 
-The maximum Gang Up bonus is still +4 no matter how many Formation Fighters stand together. footnote:[The "Formation Fighter" edge appears in Savage Pathfinder core rules and was not part of Weird Wars Rome.]
+The maximum Gang Up bonus is still +4 no matter how many Formation Fighters stand together. footnote:[The "Formation Fighter" edge appears in Savage Worlds Fantasy Companion and was not part of Weird Wars Rome.]
 Requirements;; Novice, Fighting d8+
 
 Shield wall::
@@ -387,6 +389,12 @@ His reputation for being lazy may not sit well with his companions or superior o
 The following are "character-facing" setting rules.
 
 NOTE: Setting rules for naval combat, sieges, travel, the _tetsudo_ formation, and volley fire still apply but are not discussed here. 
+
+=== Betrayal
+
+Characters may not Soak Wounds caused by The Drop,
+nor may they spend Bennies to resist a Knockout Blow.
+See the Savage Worlds Fantasy Companion for more information.
 
 === Sanity
 
@@ -598,7 +606,7 @@ No refund is due if the roll is failed.
 === New combat maneuver: Desperate Attack
 The character unleashes a frantic attack that focuses on hitting a target at the expense of damage. 
 He adds +2 or +4 to any Fighting roll and subtracts the corresponding amount from damage if the hit is successful. 
-This can be determined per attack (before rolling); it can't be combined with the Wild Attack combat maneuver. footnote:[The "Desperate Attack" maneuver appears in Savage Pathfinder core rules and was not part of Weird Wars Rome.]
+This can be determined per attack (before rolling); it can't be combined with the Wild Attack combat maneuver. footnote:[The "Desperate Attack" maneuver appears in Savage Pathfinder core rules and the Savage Worlds Fantasy Companion and was not part of Weird Wars Rome.]
 
 [appendix]
 == Military structure
@@ -759,11 +767,12 @@ The Roman equivalent of an admiral, this officer commanded a fleet.
 == Inspiration
 
 .Movies
-* xref:https://www.imdb.com/title/tt0349683/?ref_=fn_al_tt_2[King Arthur] (2004)
-* xref:https://www.imdb.com/title/tt1020558/?ref_=fn_al_tt_1[Centurion] (2010)
-* xref:https://www.imdb.com/title/tt1034389/?ref_=fn_al_tt_2[The Eagle] (2011)
-* xref:https://www.imdb.com/title/tt0462396/?ref_=fn_al_tt_1[The Last Legion] (2007)
-* xref:https://www.imdb.com/title/tt0172495/?ref_=fn_al_tt_1[Gladiator] (2000)
+* link:https://www.imdb.com/title/tt0349683/?ref_=fn_al_tt_2[King Arthur] (2004)
+* link:https://www.imdb.com/title/tt1020558/?ref_=fn_al_tt_1[Centurion] (2010)
+* link:https://www.imdb.com/title/tt1034389/?ref_=fn_al_tt_2[The Eagle] (2011)
+* link:https://www.imdb.com/title/tt0462396/?ref_=fn_al_tt_1[The Last Legion] (2007)
+* link:https://www.imdb.com/title/tt0172495/?ref_=fn_al_tt_1[Gladiator] (2000)
 
 .TV
-* xref:https://www.imdb.com/title/tt0384766/?ref_=fn_al_tt_1[Rome] (2005-2007)
+* link:https://www.imdb.com/title/tt0384766/?ref_=fn_al_tt_1[Rome] (2005-2007)
+* link:https://www.imdb.com/title/tt9184986/[Barbarians] (2020-)
