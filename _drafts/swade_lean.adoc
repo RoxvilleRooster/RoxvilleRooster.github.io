@@ -1,0 +1,8 @@
+= Lean SWADE
+
+* If player characters can use powers, you increase play complexity and game latency (slowness).
+Arcane backgrounds, powers, and even complex devices,  are more complex than most traits and edges. 
++ 
+There are plenty of ways you can create interesting PCs in Savage Worlds without powers and arcane backgrounds
+* Players like powers and arcane backgrounds, so most settings need to support players with those interests but they do not need to part of every setting.
+Savage Worlds is a toolbox - use the tools you need and leave others out.
