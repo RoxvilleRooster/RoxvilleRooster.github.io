@@ -5,22 +5,47 @@
 
 The initial inspiration for this attempt to _savage_ Pendragon is from the blog post by xref:https://mostunreadblogever.blogspot.com/2018/04/savaging-pendragon.html[original proposal] by Tommy Brownell.
 
-The Pendragon RPG, a property of https://www.chaosium.com/pendragon-rpg/[Chaosium] in 2021, is a tremendous game that is tuned perfectly for its setting. 
+The King Arthur Pendragon RPG, or just Pendragon or KAP, is a game that is tuned perfectly for its setting.
+KAP is a property of https://www.chaosium.com/pendragon-rpg/[Chaosium] in 2022. 
 Greg Stafford was an all-time great game designer and world builder.
 The sad reality is that Pendragon does not get played as much as it deserves.
-Even I, someone who loved playing the game when I was younger, does not plan to play the game.
-It will be hard to find players for Pendragon and I am heavily invested in running and playing Savage Worlds, which provides a toolkit for running all sorts of games. 
+// Even I, someone who loved playing the game when I was younger, does not plan to play the game.
+// It will be hard to find players for Pendragon and I am heavily invested in running and playing Savage Worlds, which provides a toolkit for running all sorts of games. 
 
 The _Great Pendragon Campaign_ campaign is a 434-page campaign book for KAP:
 ____
-Great Pendragon Campaign is a tool to run a year-by-year Pendragon campaign that allows each player to establish a dynasty of knights whose family story coincides with King Arthur’s. Through play these knights help or hinder the High King establish his fabled realm.
+Great Pendragon Campaign is a tool to run a year-by-year Pendragon campaign that allows each player to establish a dynasty of knights whose family story coincides with King Arthur's. Through play these knights help or hinder the High King establish his fabled realm.
 ____
 
-This campaign has to be played.
+This campaign must be played.
 
-Pendragon (and Savaged Pendragon) is a game of knights and not thieves, wizards, and clerics.
+Pendragon is a game of knights and not thieves, wizards, and clerics.
+
+.Savaging Pendragon
+****
+
+We can borrow rules from existing Savage Worlds publications:
+
+* From _Death at the Joust_, the rules on jousting
+* From _Hellfrost_, the rules on honor
+* From _All For One: Regime Diabolique_, the rules on lackeys and social duels
+* From _Rippers Player's Guide_, the rules on status
+
+I suggest that we borrow the rules on passions full-cloth from KAP.
+It's a great part of the game.
+
+The Fantasy Companion suggest that the following setting rules might be appropriate for a historical fantasy game:
+
+* Betrayal
+* Born a Hero
+* Conviction
+* Downtime
+* Hard Choices
+* High Adventure
+* Villainous Conviction
 
 
+****
 
 == Race and Ethnicity
 
@@ -154,7 +179,7 @@ This allows time for armor dents to be straightened out, and a single Healing ro
 
 ===== Scoring
 A successful hit to the torso in which the lance shatters earns one point.
-A head shot (–4 penalty) and a broken lance earns two points.
+A head shot (-4 penalty) and a broken lance earns two points.
 Unseating a rider, no matter where he is struck gives the attacker 3 points.
 
 The match winner is the knight who scores the most points. 
@@ -163,7 +188,7 @@ If there is still a tie, the knight with the most head shots wins.
 In the event they are still equal, both knights face an "overtime" final run.
 A further tie results in both knights being eliminated from the competition.
 
-At the end of a match, a knight who has unseated his opponent more times than he has been unseated may claim his rival’s horse as a prize.
+At the end of a match, a knight who has unseated his opponent more times than he has been unseated may claim his rival's horse as a prize.
 It is traditional to allow the rival to buy back his mount at the full market price.
 
 ==== Initiative
@@ -201,17 +226,17 @@ On the VTT, an easy way to handle this is to message the GM with your jousting m
 .Standard jousting maneuvers
 ====
 Braced (1):: The knight braces himself for a hit, but in doing so loses accuracy for his own attack.
-He gains +2 to Riding rolls to remain mounted, but suffers a –2 penalty on his attack.
+He gains +2 to Riding rolls to remain mounted, but suffers a -2 penalty on his attack.
 Aggressive (2):: This is essentially a Wild Attack.
-The knight has +2 to Fighting rolls and damage, but suffers a –2 penalty to his Parry.
+The knight has +2 to Fighting rolls and damage, but suffers a -2 penalty to his Parry.
 Standard (3):: No modifiers apply.
 Head Shot (4):: The knight is trying to earn more points.
-His attack roll is made at –4, but he inflicts +4 damage (and thus also has a greater chance of unseating his opponent). If his opponent has his eyes fixed (see below), he also risks killing him.
+His attack roll is made at -4, but he inflicts +4 damage (and thus also has a greater chance of unseating his opponent). If his opponent has his eyes fixed (see below), he also risks killing him.
 Eyes Fixed (5):: Just before impact, knights tend to look away from their opponent.
-This lessens the chance of a wooden splinter piercing the helmet’s visor and causing lethal injury.
+This lessens the chance of a wooden splinter piercing the helmet's visor and causing lethal injury.
 A knight who keeps his eyes fixed on his target gains +1 to his Fighting roll, but if he takes a head shot the damage is considered lethal.
-Deflective (6):: The knight turns his body at the last second, hoping his opponent’s lance will glance off his shoulder.
-He has +1 Parry but –1 to Fighting.
+Deflective (6):: The knight turns his body at the last second, hoping his opponent's lance will glance off his shoulder.
+He has +1 Parry but -1 to Fighting.
 ====
 
 ===== Fighting roll
@@ -223,8 +248,8 @@ Both attackers then roll their Fighting or Riding die (plus Wild Die if applicab
 Damage for a jousting lance is `Str+d6`; there is no AP. 
 Damage is treated as nonlethal but the dice can still Ace.
 Results from the "Injury Table" still apply but they are only temporary until all of the wounds are healed.
-Unless you take a Called Shot (i.e., the "Head Shot" maneuver), you automatically hit the knight’s torso.
-If the victim is at least Shaken, the attacker’s lance shatters (a broken lance earns points).
+Unless you take a Called Shot (i.e., the "Head Shot" maneuver), you automatically hit the knight's torso.
+If the victim is at least Shaken, the attacker's lance shatters (a broken lance earns points).
 
 See <<#_scoring>>.
 
@@ -240,7 +265,7 @@ If both opponents fall in the same round, both may remount, and each scores 3 po
 
 ===== Forfeiting the match
 A knight may withdraw from a match at any time.
-// Typically this is done when facing an important nobleman, as causing him injury, or killing him, limits one’s social aspirations.
+// Typically this is done when facing an important nobleman, as causing him injury, or killing him, limits one's social aspirations.
 // Some nobles disguise their identity under a pseudonym or lesser title in order they may joust and actually face opponents.
 If a knight takes more than 10 minutes between runs is disqualified.
 If a knight strikes a horse, whether by accident or not, he is disqualified.
@@ -252,7 +277,7 @@ A noble may challenge any other noble.
 However, a social superior does not have to accept a challenge, and his reputation is not tarnished for refusing—one cannot expect the king to joust with a knight, for instance.
 Likewise, asking for something the challenged knight cannot give (the throne of England, for example), results in the challenger becoming a laughing stock.
 The challenger must publicly state the reason for the challenge.
-Typical challenges are grudge matches, to win back a lost possession, or even the seemingly trivial request of a kiss from a noble’s daughter (or wife, if the hero has
+Typical challenges are grudge matches, to win back a lost possession, or even the seemingly trivial request of a kiss from a noble's daughter (or wife, if the hero has
 the nerve to ask).
 Challenges are not the same as duels in later periods—they are never fought to the death.
 Instead, the challenged knight sets the terms. At minimum,
@@ -266,17 +291,17 @@ These rules are derived from the rules on status in the _Rippers Players' Guide_
 ****
 
 Status is of great importance.
-A hero’s Status reflects not only his position in society, but also the esteem in which he is held, his ability to affect those around him, and his approximate wealth.
+A hero's Status reflects not only his position in society, but also the esteem in which he is held, his ability to affect those around him, and his approximate wealth.
 
-Your hero’s Status starts as 4 (gentry), but can be affected by Edges and Hindrances as well as by his or her actions during the course of the game.
+Your hero's Status starts as 4 (gentry), but can be affected by Edges and Hindrances as well as by his or her actions during the course of the game.
 
-Status is not a reflection of your hero’s standing amongst other knights.
-That is shown by your character’s Rank (Novice, Seasoned, and so on).
+Status is not a reflection of your hero's standing amongst other knights.
+That is shown by your character's Rank (Novice, Seasoned, and so on).
 
 
 === Social order
 
-Your character’s Status can be used to influence others.
+Your character's Status can be used to influence others.
 Inferiors are not permitted to socialize with their betters.
 There are, however, certain notable exceptions able to fraternize with nearly all ranks of society.
 
@@ -284,7 +309,7 @@ Status is crucial for determining how characters interact with people of differe
 In general, the “inferior” classes are expected to show a proper modicum of respect to their “betters,” and the upper classes expected to adopt a protective, almost patriarchal
 stance over the less fortunate.
 The very concept of status is based on a responsibility to aid those who have aided you in the past.
-A person’s status determines their influence and ability to call upon more powerful favors from those who owe them.
+A person's status determines their influence and ability to call upon more powerful favors from those who owe them.
 All too often, status is used as a means of intimidation by the upper classes, and an excuse for surliness by lower
 classes.
 
@@ -296,7 +321,7 @@ Starting characters, assumed to be knights, begin as Gentry (status 4), barring 
 
 Being Rich increases Status by +1 level, and Filthy Rich increases it by another +1.
 Characters with the Aristocrat edge have their starting Status increased by +1 level.
-The Poverty hindrance reduces Status by –1 level.
+The Poverty hindrance reduces Status by -1 level.
 
 You cannot reduce a knight's status below 4 (Gentry) at character generation.
 
@@ -316,7 +341,7 @@ This might reflect someone who has a wealth, but spends it wastefully (resulting
 | Greater Nobility | 6
 |===
 
-// A character’s Status cannot drop lower than Underclass.
+// A character's Status cannot drop lower than Underclass.
 
 
 === Status effects
@@ -324,13 +349,13 @@ This might reflect someone who has a wealth, but spends it wastefully (resulting
 People of different status levels do not interact as equals; the upper classes tend look down on the lower ones and the lower classes tend to resent and envy their “betters.”
 
 Upper classes wield power over the lower ones.
-When using the Intimidation skill, a character gains a +1 bonus for each Status level he is higher than his target, or suffers a –1 penalty for each Status level he is lower.
+When using the Intimidation skill, a character gains a +1 bonus for each Status level he is higher than his target, or suffers a -1 penalty for each Status level he is lower.
 
 On the other side, higher classes are more easily incensed by the mocking of those beneath their station, while the lower classes are unimpressed by the ridicule of those who have such an easy life.
-Characters gain +1 to Taunt rolls for each Status level they are lower than their target, or suffer a –1 penalty for each Status level they are higher than their target.
+Characters gain +1 to Taunt rolls for each Status level they are lower than their target, or suffer a -1 penalty for each Status level they are higher than their target.
 
 The downside of class separation is that no class talks freely or shares information with someone of another station.
-Any attempt at Networking suffers a –1 penalty for each level of Status difference between the characters.
+Any attempt at Networking suffers a -1 penalty for each level of Status difference between the characters.
 
 
 == Talking to nobles
@@ -357,11 +382,11 @@ See "GAINING AUDIENCES" in the scenario "Death at the Joust" for the initial rul
 These rules are derived from the rules on Glory in the _Hellfrost Player's Guide_ (Triple Ace Games).
 ****
 
-Glory is a mark of a character’s reputation as a hero.
+Glory is a mark of a character's reputation as a hero.
 Only through heroic deeds can a character aspire to enter the annals of history books and oral history.
 
 Glory is measured with Glory Points. +
-Your hero’s Glory starts at zero but this value can be affected by his or her actions. +
+Your hero's Glory starts at zero but this value can be affected by his or her actions. +
 The higher your knight's Glory, the more renowned he is and the more benefits he gains. +
 Glory can go negative, but this grants no benefits.
 
@@ -372,13 +397,14 @@ Glory is earned through heroic exploits.
 After each adventure, and only when the heroes return to civilization, one member of the party may tell the tale of their heroic deeds and battles. +
 The character makes a Performance roll, modified as described below.
 
-The GM may add positive modifiers for truly heroic actions or based on the character’s weaknesses and how he overcame them.
+The GM may add positive modifiers for truly heroic actions or based on the character's weaknesses and how he overcame them.
 
-Think of how the heroes’ true exploits (as opposed to any invented bits) sound as a tale that is told by a bard or poet.
+Think of how the heroes' true exploits (as opposed to any invented bits) sound as a tale that is told by a bard or poet.
 This is important, because the listeners are effectively
 granting the heroes Glory.
 An extra +1 or +2 should be the maximum.
-For instance, slaying a notorious giant is certainly worthy of praise, but that is already covered in the table. However, cleaving the head with a Called Shot as the killing blow is worth a small modifier, as it is the sort of detail found in epic poems.
+For instance, slaying a notorious giant is certainly worthy of praise, but that is already covered in the table. 
+However, cleaving the head with a Called Shot as the killing blow is worth a small modifier, as it is the sort of detail found in epic poems.
 Likewise, a Novice party who slay a bunch of greater foes in melee without any assistance should be rewarded with a greater chance of fame.
 
 The GM may add penalties to reflect weaker opponents (such as ragged brigands) or favorable character circumstances.
@@ -391,19 +417,19 @@ The GM may add penalties to reflect weaker opponents (such as ragged brigands) o
 | Reason | Modifier
 2+a| **Storyteller**
 | Is a trained poet | +1
-| Has negative Glory | –2
+| Has negative Glory | -2
 2+a| **Highest Character Rank**
-| Seasoned | –1
-| Veteran | –2
-| Heroic | –4
-| Legendary | –6
+| Seasoned | -1
+| Veteran | -2
+| Heroic | -4
+| Legendary | -6
 2+a| **Highest Number of Foes**
-| You outnumbered them | –1
+| You outnumbered them | -1
 | They outnumbered you more than 2 to 1 | +1
 | They outnumbered you more than 4 to 1 | +2
 | They outnumbered you more than 10 to 1 | +4
-2+a| **Highest Foes’ Toughness**
-| 4 or less | –1
+2+a| **Highest Foes' Toughness**
+| 4 or less | -1
 | 5 to 6 | +0
 | 7 to 10 | +1
 | 11 to 15 | +2
@@ -421,8 +447,8 @@ The GM may add penalties to reflect weaker opponents (such as ragged brigands) o
 ****
 
 Arcane Background:: Where multiple foes with an Arcane Background were defeated, only the highest bonus applies.
-Character Rank:: The higher the heroes’ Rank, the more dangerous foes they must overcome before anyone is interested in their tales.
-Foes’ Toughness:: Only the highest Toughness of defeated foes counts.
+Character Rank:: The higher the heroes' Rank, the more dangerous foes they must overcome before anyone is interested in their tales.
+Foes' Toughness:: Only the highest Toughness of defeated foes counts.
 Named Wild Card:: Not every Wild Card should,
 or indeed can, be named.
 Named wild card foes are more memorable than unnamed foes. Number of Foes:: Only record the greatest number of foes slain in a single encounter.
@@ -430,7 +456,7 @@ Defeating three Pictish warriors in one combat and eight in another melee equate
 
 .Party size and foes
 ****
-The size of the party includes any allies on the heroes’ side - a party with 20 members must defeat a lot of foes at once to get noticed.
+The size of the party includes any allies on the heroes' side - a party with 20 members must defeat a lot of foes at once to get noticed.
 If the heroes forget to mention their helpers, any survivors will tell their own stories across the land.
 ****
 Single Blow:: A Wild Card who is killed in a single blow must have been unwounded when the killing blow was delivered.
@@ -452,7 +478,7 @@ Modifiers normally apply to individual members of the party, not every member.
 For example, the hero who delivered the Called Shot to the head, killing the infamous foe, should earn a +1 or +2 bonus for his notable deed.
 
 Of course, if one hero played little part in the action, he should receive less Glory than those who were more actively involved.
-Such a hero may roll his dice with a –3 penalty, for example, possibly earning a small penalty overall with an unlucky roll because of his inaction.
+Such a hero may roll his dice with a -3 penalty, for example, possibly earning a small penalty overall with an unlucky roll because of his inaction.
 
 
 
@@ -487,13 +513,13 @@ All Glory modifiers are fixed.
 | Smallest army had thousands of troops | +3
 | Smallest army had more than 10,000 troops | +5
 2+a| *Enemy*
-| Saxon army | +/–1
+| Saxon army | +/-1
 2+a| *Victory*
 | Enemy had less tokens or was equal | +1
 | For each token the enemy had above yours | +2
 2+a| *Defeat*
-| Enemy had more tokens or was equal | –1
-| For each token less your enemy had | –3
+| Enemy had more tokens or was equal | -1
+| For each token less your enemy had | -3
 2+a| *Personal Heroics*
 | Two raises on Heroes in Mass Battles roll | +1
 2+a| *Commander*
@@ -504,24 +530,24 @@ All Glory modifiers are fixed.
 Character Roll:: Scoring a double raise is more than
 just a die result.
 It represents a major event within a battle, such as vanquishing an enemy commander or cleaving through so many foes that a unit breaks.
-The modifier only applies if the number of enemy tokens was less than or equal to your army’s tokens at the time (defeating an enemy commander when you have a +3 bonus is nowhere near as heroic as when you have a –3 penalty).
+The modifier only applies if the number of enemy tokens was less than or equal to your army's tokens at the time (defeating an enemy commander when you have a +3 bonus is nowhere near as heroic as when you have a -3 penalty).
 Commander:: A hero who commands an army gains greater Glory than his troops for victory, but also suffers more ignominy if he loses the field.
 Take the final Glory modifier and double it to see what the knight earned.
 Defeat:: Defeat is never easy to live with, but the ignominy is far worse if you outnumbered your foe.
-For each token that you outnumbered your enemy by at the start of a battle, you suffer a –3 penalty.
+For each token that you outnumbered your enemy by at the start of a battle, you suffer a -3 penalty.
 Enemy Forces:: Certain races are more despised than
 others.
-To qualify for the bonus, the specific enemy must account for more than 75% of the enemy army’s troop strength.
+To qualify for the bonus, the specific enemy must account for more than 75% of the enemy army's troop strength.
 Add the modifier if the heroes won, and subtract it if they lost.
 Size:: Huge armies are rare and thus, while any battle earns Glory, the more participants there are, the greater the tale told.
 Victory:: The greater the size of the enemy army, the more reward is earned.
-For each token your enemy’s army was larger than yours when
+For each token your enemy's army was larger than yours when
 the battle commenced, the hero earns a +2 Glory bonus.
 
 
 ==== Rescue
 
-Even if the knight’s tale of his valorous deeds doesn’t earn them any immediate Glory, having prisoners recount the tale of their rescue quickly causes word to spread.
+Even if the knight's tale of his valorous deeds doesn't earn them any immediate Glory, having prisoners recount the tale of their rescue quickly causes word to spread.
 
 * Important NPCs must be famous, powerful, and _named_.
 ** A priest, minor noble, or similar noteworthy NPC is worth +1 Glory.
@@ -531,7 +557,7 @@ Even if the knight’s tale of his valorous deeds doesn’t earn them any immedi
 For groups of lesser NPCs, rescuing ten or so is worth +1 Glory, a few tens +2, and a hundred or more +3.
 Saving a lone peasant is not enough to be retold by poets.
 
-Rescue doesn’t have to mean entering a dungeon and breaking captives out.
+Rescue doesn't have to mean entering a dungeon and breaking captives out.
 If the rescue involves a Mass Battle rather than tabletop action, the party is deserving of the Mass Battle rewards as well.
 
 
@@ -553,7 +579,7 @@ Unless otherwise stated, benefits can be taken multiple times—the number in pa
 Fill in the appropriate section of the character sheet.
 // TK@fup Character sheet tracks glory and benefits
 
-Should the Glory value drop below a multiple of 20, any benefits above the character’s current Glory level are temporarily lost (unless otherwise stated) until Glory is regained.
+Should the Glory value drop below a multiple of 20, any benefits above the character's current Glory level are temporarily lost (unless otherwise stated) until Glory is regained.
 Dropping below 20 and then rising above it again does not grant the opportunity to take a new benefit—it simply allows the “lost” one to be used again.
 
 ===== COMBAT PROWESS (2)
@@ -564,13 +590,13 @@ He must meet all the requirements as normal.
 ===== CONNECTION (4)
 Requirements:: 20+ Glory +
 When a knight gains a Connection, he must pick a specific faction, as per the Edge of the same name.
-The hero does not belong to the faction—he simply has friends among their number willing to assist him (though he may, at the GM’s discretion, be offered membership as well).
-The Connection should be appropriate to the character’s background and his deeds.
+The hero does not belong to the faction—he simply has friends among their number willing to assist him (though he may, at the GM's discretion, be offered membership as well).
+The Connection should be appropriate to the character's background and his deeds.
 Note that the hero still needs make a Networking check for this benefit to be of any use.
 
 ===== FAVORED (2)
 Requirements:: 60+ Glory +
-The knight can do things others can’t.
+The knight can do things others can't.
 He gains an extra benny per session.
 
 ===== FOLLOWERS (10)
@@ -579,8 +605,8 @@ The knight gains the Followers Edge regardless of his character Rank.
 The GM and player work together to determine the nature of the Followers, based on the knight's deeds.
 Followers are not automatically replaced when they die. Additional Followers may be gained at Legendary as normal through taking the Followers Edge with advances or by earning more Glory and taking this benefit.
 +
-Followers don’t automatically leave if a character’s Glory drops below the level he gained this benefit, but they begin to grumble, refuse orders, and eventually mutiny.
-In game terms, the character’s Leadership Edges no longer work on them.
+Followers don't automatically leave if a character's Glory drops below the level he gained this benefit, but they begin to grumble, refuse orders, and eventually mutiny.
+In game terms, the character's Leadership Edges no longer work on them.
 When his Glory rises above the threshold again, his Followers stop grumbling. +
 
 NOTE: Having Extras accompany you on every mission means you have to slay more foes to earn Glory.
@@ -610,10 +636,10 @@ Sample penalties are included below.
 |===
 | Glory | Event
 | Special | Slaying or defeating a good and just powerful knight or worthy
-| –1 to –20 | Caught committing a crime
-| –3 | Cowardice or leaving a comrade behind
-// | –3 | Refusing Orders (the Hindrance)
-| –10 | Breaking an oath
+| -1 to -20 | Caught committing a crime
+| -3 | Cowardice or leaving a comrade behind
+// | -3 | Refusing Orders (the Hindrance)
+| -10 | Breaking an oath
 |===
 
 Crime:: This is a catchall penalty covering anything
@@ -621,38 +647,32 @@ considered abhorrent to civilized society.
 Oaths:: Knights who renege on sworn oaths are considered treacherous.
 Slaying:: Killing a good, just, and powerful NPC, such as a king, causes a hero to suffer a drastic loss of Glory.
 The knight's Glory is swapped from a positive to a negative immediately.
-For instance, a knight with +50 Glory drops to –50 and becomes a very wanted man.
+For instance, a knight with +50 Glory drops to -50 and becomes a very wanted man.
 
 ===== Negative glory
 A knight with negative Glory does not earn rewards. He suffers drawbacks.
 
 ===== Wanted
 
-When a hero reaches –20 Glory, he gains the Wanted (Minor) Hindrance. + 
-At –40, this changes to the Major version. + 
+When a hero reaches -20 Glory, he gains the Wanted (Minor) Hindrance. + 
+At -40, this changes to the Major version. + 
 Generally, the Minor Hindrance extends to a single realm, usually the one where the Glory penalty was incurred. + 
 The Major version, on the other hand, covers pretty much all the civilized.
-A hero who gains enough Glory to rise above the rating at which he gained this Hindrance, doesn’t lose the Hindrance. He may have performed some heroic deeds, but he is still a wanted man.
+A hero who gains enough Glory to rise above the rating at which he gained this Hindrance, doesn't lose the Hindrance. He may have performed some heroic deeds, but he is still a wanted man.
 
 ===== Enemy
-At –10 Glory, the hero acquires the Enemy (Minor) Hindrance. + 
-At –30 (or lower), the Enemy becomes a Major Hindrance. + 
-The exact nature of the enemy depends on the villain’s deeds. 
-It doesn’t matter if the hero’s Glory rises above the level at which he gained his foe, because his Enemy doesn’t give up his vendetta.
+At -10 Glory, the hero acquires the Enemy (Minor) Hindrance. + 
+At -30 (or lower), the Enemy becomes a Major Hindrance. + 
+The exact nature of the enemy depends on the villain's deeds. 
+It doesn't matter if the hero's Glory rises above the level at which he gained his foe, because his Enemy doesn't give up his vendetta.
 If the hero gains a Major Enemy while his Minor Enemy is still at large, the foe simply steps up his campaign against the character.
 Otherwise, the hero gains a new enemy.
 
 
-
-// ==== Inherited honor
-
-
-// TK@FUP left off at Death and Honor
-
 == Character death and replacement
 
 When a character dies, his replacement begins with half of his advances (round down).
-// However, high or low Glory at the time of the character’s death can alter this amount.
+// However, high or low Glory at the time of the character's death can alter this amount.
 // When a character dies with below 99 Glory, the character has 50% Experience as standard.
 // Between 100 and 199 Glory, the replacement has 75% Experience, and at 200 and over he retains the full Experience Points of his predecessor.
 
@@ -685,9 +705,9 @@ Replaced squires begin with the same experience as their predecessor.
 Fortunately, most villains ignore squires who do not attack them. 
 Unless a hero places his squire in direct danger, villains will always target a player character over the squire.
 
-// The lackey’s basic salary (typically a small sum) is assumed covered by whatever income his master has. Any bonus rewards must come from the Musketeer’s pocket. 
+// The lackey's basic salary (typically a small sum) is assumed covered by whatever income his master has. Any bonus rewards must come from the Musketeer's pocket. 
 
-Typically, a squire begins with the basic tools needed for his profession, a dagger, and appropriate clothing, though the lackey’s background may alter this.
+Typically, a squire begins with the basic tools needed for his profession, a dagger, and appropriate clothing, though the lackey's background may alter this.
 
 A squire is usually age 15 at the start of his service, but as high as 20. 
 When a squire reaches 21, he is usually knighted, whereupon you take a new squire of 15 years into service.
@@ -729,12 +749,12 @@ He may, if he so chooses, instigate social duels, though.
 | Tie | 
 There is no clear winner. 
 Both parties have slandered each other, but the insults have not damaged their reputations. Neither feels the need to pursue the matter further, at least not until their next meeting.
-| 1-2 | The loser’s honor and reputation are besmirched, but only temporarily. 
-He suffers a –1 penalty to Intimidation, Persuasion, and Taunt rolls.
-| 3-4 | A stinging remark has left a deep wound on the loser’s reputation. 
-He suffers a –2 penalty to Intimidation, Persuasion, and Taunt roll.
-| 5+ | The target’s honor is beyond tarnished! 
-He suffers a –4 penalty to Intimidation, Persuasion, and Taunt rolls.
+| 1-2 | The loser's honor and reputation are besmirched, but only temporarily. 
+He suffers a -1 penalty to Intimidation, Persuasion, and Taunt rolls.
+| 3-4 | A stinging remark has left a deep wound on the loser's reputation. 
+He suffers a -2 penalty to Intimidation, Persuasion, and Taunt roll.
+| 5+ | The target's honor is beyond tarnished! 
+He suffers a -4 penalty to Intimidation, Persuasion, and Taunt rolls.
 |===
 
 How else might a character repair his reputation? Perform a deed of glory
@@ -748,7 +768,7 @@ It is intended for players and prospective players.
 
 // The scenario "Death at the Joust" contains the _Daring Tales of Adventure_ setting rules.
 
-=== References
+== References
 
 * _All For One: Regime Diabolique_ (Second Edition (2019, Paul "Wiggy" Wade-Williams, Triple Ace Games)
 * _Death at the Joust_ (2008, Paul "Wiggy" Wade-Williams, Triple Ace Games) 
