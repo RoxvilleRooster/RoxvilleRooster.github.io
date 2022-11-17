@@ -69,7 +69,7 @@ This does *not* count towards your normal Hindrance total.
 ==== Languages
 Besides their native tongue, all agents know half their Smarts die in languages.
 They speak with an obvious accent, betraying their nationality. Social interaction
-skills dependent upon speech are at a -2 when attempted in the speaker’s nonnative
+skills dependent upon speech are at a -2 when attempted in the speaker's nonnative
 tongue.
 
 ==== New skills
@@ -81,7 +81,7 @@ Explosions may be planted in a focused and discrete manner, or "shaped" to cover
 
 Forgery (Smarts)::
 The ability to fabricate, adapt, or imitate objects or documents with the intent to deceive. 
-Attempting to make forgeries without the proper tools is done at –2. 
+Attempting to make forgeries without the proper tools is done at -2. 
 The tools vary wildly, depending upon the nature of the item in question.
 
 Tradecraft (Smarts)::
