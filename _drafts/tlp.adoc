@@ -1,0 +1,27 @@
+== The Last Parsec (SWADE) 
+
+The Last Parsec was written for Savage Worlds Deluxe we're using Savage Worlds Adventure Edition.
+
+.We're using the following documents as our guide: 
+* The Last Parsec core book (aka Core)
+* The Last Parsec Conversion document (aka TLPSwade)
+
+== Changes to the default setting
+
+* Serrans are not a playable race
+* Psionics is not available as an arcane background 
+
+
+== Setting rules
+
+* Conviction + 
+This is used instead of the Resolve mechanics (under "Compensation" in Core) 
+
+* Default skills +  
+Characters begin with their native language and Electronics at d6.
+
+* High adventure + 
+Spend a benny to get a one-time combat edge
+
+// * More skill points + 
+// Start with 15 skill points in addition to the TLP Default Skills and the standard core skills  
