@@ -56,7 +56,7 @@ In addition to the standard core skills, characters have 12 skill points to spen
 * Shooting
 * Tradecraft
 * Demolitions
-* Eletronics
+* Electronics
 
 Some sample tokens are https://drive.google.com/open?id=0B0lb1qfRe-jtQ2dIY3FwQk1QMmc[in Google Drive here].
 
