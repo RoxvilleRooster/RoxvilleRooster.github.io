@@ -1,0 +1,64 @@
+= Savaged Dramune Run
+:bbg: The Malthar
+:bbgh1: Dablak
+:local_system: Inner Reach 
+:friendly_faction: JumpCorp
+
+== NPCs
+
+Garlus Typar::
+Old-timer smuggler captain who has grown a conscience in his last days
+
+Zinivik Kikitil::
+Bartender at space station and trusted friend of Garlus 
+
+Admiral Kadara::
+Officer of {friendly_faction};
+knows Garlus from way back
+
+Commodore Klatic Katl::
+Captain of the Melinda McKoy
+
+{bbg}::
+Crime boss; 
+wants the chukkas for his nefarious purposes;
+runs Malco enterprises
+
+{bbgh1}::
+Enforcer for {bbg}
+
+
+== Creatures
+
+Chukkas::
+Cute critters; 
+protected species;
+symbol of the {local_system}; 
+Garlus has named them Zak and Ermaline 
+
+== Vehicles
+
+The Gullwind::
+Garlus' light freighter
+
+The Nighthshade::
+Armed freighter of {bbg}
+
+Drasimian::
+Frigate of {bbg}
+
+Starhawk::
+Frigate of {bbg}
+
+Maltharia::
+Assault scout of {bbg} 
+
+Melinda McKoy::
+Destroyer of {friendly_faction}
+
+The Dirk::
+Assault scout of {friendly_faction}
+
+
+
+
