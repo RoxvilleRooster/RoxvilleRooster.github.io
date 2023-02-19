@@ -8,7 +8,7 @@
 
 .Disclaimer
 ****
-As of February 2022, Pinnacle Entertainment Group has not released a document that supports the conversion of the Weird Wars Rome books from 2013, which was published for the Savage Worlds Explorer's Edition (SWDEE), for the use with Savage Worlds Adventure Edition (SWADE).
+As of February 2023, Pinnacle Entertainment Group has not released a document that supports the conversion of the Weird Wars Rome books from 2013, which was published for the Savage Worlds Explorer's Edition (SWDEE), for the use with Savage Worlds Adventure Edition (SWADE).
 
 This document is not intended as a conversion document for mass consumption by Savage Worlds fans and gamers.
 This was drafted with the intent to support my own Weird Wars Rome campaign that will be played using SWADE.
