@@ -1,0 +1,103 @@
+@startuml
+
+' left to right direction
+
+'default
+top to bottom direction
+
+
+
+
+
+rectangle Act1 as "Act 1: Departures" {
+usecase "San Diego Airfield" as a1s1a
+note left
+Heroes fly in from Boston
+Agents debrief the heroes
+Heroes fly to Island Town
+Interlude during bad weather
+end note
+usecase "Island town" as a1s1b
+note left
+Heroes meet contact
+Heroes meet Brown and Afu
+Nazi agents attack heroes
+end note
+usecase "Troubled waters" as a1s2
+note left
+Heroes rescue Brown and Afu from wreck (sabotage?)
+Mysterious marine entity chases and wrecks boat
+end note
+}
+
+a1s1a --> a1s1b
+a1s1b --> a1s2
+
+
+
+rectangle Act2 as "Act 2: Storm Island" {
+usecase "Out of the pot" as a2s1
+note left
+Survival on the island (quick encounter)
+Heroes meet good tribe
+Good tribe tells heroes of cave
+end note
+usecase "Into the fire" as a2s2
+note left
+Bad tribe ambushes heroes
+Bad tribe go to cook heroes
+Heroes escape
+Bad tribe tells chases heroes through jungle
+end note
+usecase "Get the totem" as a2s3
+note left
+Heroes evade Nazis, enter cavern
+Heroes evade traps
+Heroes solve puzzle
+Heroes find totem
+Nazis comfront heroes, take totem?
+end note
+usecase "Unlikely allies" as a2s4
+note left
+Heroes escape deathrap
+Bad tribe helps heroes escape
+Nazis take idol to shrine island
+Nazis might take Brown with them
+Heroes find boat and chase Nazis
+end note
+}
+
+a2s1 --> a2s2
+a2s2 --> a2s3
+a2s3 --> a2s4
+
+
+rectangle Act3 as "Act 3: Heart Attack" {
+usecase "Race to the island" as a3s1
+note left
+Good weather favors heroes
+Nazi boats attack
+end note
+usecase "Ritual" as a3s2
+note left
+Scanlan and Brown argue
+Preparation for ritual
+Heroes arrive just as the ritual starts
+end note
+usecase "Get the totem" as a3s3
+note left
+Dramatic task to disrupt the ritual
+end note
+usecase "Safe harbor" as a3s4
+note left
+TBD
+end note
+}
+
+a3s1 --> a3s2
+a3s2 --> a3s3
+a3s3 --> a3s4
+
+
+Act1 --> Act2 
+Act2 --> Act3
