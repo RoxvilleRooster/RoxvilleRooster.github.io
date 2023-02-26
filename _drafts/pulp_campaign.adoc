@@ -1,0 +1,5 @@
+= Pulp campaign adventures
+:tt: Thrilling Tales
+
+{tt} Valley of Mystery::
+"Hollow Earth"-type adventure
