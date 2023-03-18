@@ -33,7 +33,7 @@ Why are the thugs after the skipper?
 ** Assume the heroes come to the skipper's aid
 * Do the heroes ask the skipper to take them to thew island
 ** "You don't want to go to that island"
-** "Funny. I know someone else asked me to go that island. I don't her to hit the bricks." +
+** "Funny. I know someone else asked me to go that island. I told her to hit the bricks." +
 He's talking about Dr. Brown.
 . Skipper takes the heroes to the island
 + Rescue?
