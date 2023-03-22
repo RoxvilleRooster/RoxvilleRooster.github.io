@@ -9,10 +9,10 @@
 == Session 1
 
 . The {party} arrive at {island_town}.
-** A storm is coming in and thew landing is rough and dramatic!!!
+** A storm is coming in and the landing is rough and dramatic!!!
 ** The contact of the {party} meets them when they land.
 . Contact is run down in the streets and he's in a bad way.
-.. Contact utters final words as a clue.
+.. Contact utters final words as a clue: "notes...baseboard" and then he has a laundry ticket and a book of matches from the hotel.
 . Do the heroes give chase through the streets of the island town?
 . Clue leads to the room of {contact} and to the location of dead drop.
 // The clue should lead the heroes to their boat captain and the name of the boat.
