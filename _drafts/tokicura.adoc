@@ -34,7 +34,7 @@ A train conductor moves through the coach toward the front of the train, acting 
 [quote, Stampfer, opening monologue]
 ____
 Senors and Senoras, I am Major Otto Stampfer of the German army.
-You have my sincere apologies for this interruption to your journey.
+You have my sincere apologies for this interruption to your trip.
 I have one request and then you may continue with your journey unmolested.
 I am looking for a young lady of Mapuche descent, a Senorita Licarayen Maripan.
 Where is she?
