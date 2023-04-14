@@ -12,7 +12,7 @@ top to bottom direction
 rectangle Act1 as "Act 1: Departures" {
 usecase "San Diego Airfield" as a1s1a
 note left
-Heroes fly in from Boston
+Heroes arrive in Valparaiso
 Agents debrief the heroes
 Heroes fly to Island Town
 Interlude during bad weather
