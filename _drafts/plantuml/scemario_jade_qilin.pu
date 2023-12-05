@@ -65,8 +65,13 @@ Heroes chase Villains
 JJ and Trace catch Hitnan and Big Fella
 Cost chases Spy
 Billy shadows Spy
+Spy evades Billy and Costa
+Heroes subdue Villains
+Heroes travel to Warehouse
 end note
-usecase "Next?" as a2s4
+usecase "Warehouse Meeting" as a2s4
+Spy reveals herself as B5 agent Mallory Chow
+
 note left
 
 end note
