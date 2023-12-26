@@ -44,13 +44,6 @@
                                             "meta": {}
                                         },
                                         {
-                                            "id": "363e7dc9-3691-40fa-99db-f576305852ba",
-                                            "label": "Gender",
-                                            "type": "Text",
-                                            "value": "",
-                                            "meta": {}
-                                        },
-                                        {
                                             "id": "81f5e10f-26ff-4d24-8e7e-344b2a07dc70",
                                             "label": "",
                                             "type": "Image",
