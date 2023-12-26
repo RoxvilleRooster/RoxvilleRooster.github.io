@@ -478,6 +478,22 @@
         }
     ],
     "template": "Blank",
+    "theme": {
+        "style": "@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Montserrat&display=swap');",
+        "backgroundColor": "#fcfcfc",
+        "pageHeadingFontFamily": "Montserrat",
+        "sectionHeadingFontFamily": "Montserrat",
+        "labelFontFamily": "Montserrat",
+        "pageHeadingFontSize": 1.25,
+        "hideSectionBackground": false,
+        "sectionHeadingFontSize": 2.125,
+        "labelFontSize": 1.5,
+        "textFontSize": 1,
+        "textFontFamily": "Didact Gothic",
+        "pageHeadingFontWeight": "",
+        "infoTextFontFamily": "Didact Gothic",
+        "helperTextFontFamily": "Didact Gothic"
+    },    
     "version": 6,
     "group": "Dicey Tales",
     "wide": false
