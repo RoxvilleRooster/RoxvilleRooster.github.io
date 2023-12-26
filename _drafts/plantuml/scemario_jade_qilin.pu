@@ -70,8 +70,12 @@ Heroes subdue Villains
 Heroes travel to Warehouse
 end note
 usecase "Warehouse Meeting" as a2s4
-Spy reveals herself as B5 agent Mallory Chow
-
+Spy reveals as Mallory Chow
+Chow debriefs Heroes
+Chow offers Help
+Chow gives Messsage
+Tong attack Heroes
+Heroes find Ruin
 note left
 
 end note
