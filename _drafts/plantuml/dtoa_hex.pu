@@ -1,0 +1,14 @@
+@startuml
+
+node sit1 as "Heroes confronted by Amazons" 
+node sit2 as "situation 2" 
+
+sit1 --> sit2 : "big clue"
+
+/'
+Where has Stampfer gone?
+Why are hex degens attacking? What are they looking for?
+'/
+
+
+@enduml
