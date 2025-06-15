@@ -1,0 +1,47 @@
+@startuml
+skinparam handwritten true
+skinparam notes {
+  BorderColor #FF6600
+  FontColor #000000
+  BackgroundColor #FFDD99
+}
+
+title Pulp Adventure RPG Scenario: The Obsidian Heart of Xylos
+
+note "A race against time to prevent an ancient, malevolent artifact from falling into the wrong hands!" as Tagline
+
+package "ACT I: Whispers in the Shadow" {
+  note "The heroes are drawn into the mystery." as Act1Note
+  (Scene 1: The Cryptic Dispatch) as A1S1
+  (Scene 2: The Thieving Cult) as A1S2
+  (Scene 3: A Clue to the Jungle) as A1S3
+}
+
+package "ACT II: Perilous Pursuit" {
+  note "The heroes face escalating challenges in pursuit of the artifact." as Act2Note
+  (Scene 4: River of No Return) as A2S4
+  (Scene 5: The Lost Temple's Labyrinth) as A2S5
+  (Scene 6: Guardians of the Gateway) as A2S6
+  (Scene 7: The Chamber of Whispers) as A2S7
+}
+
+package "ACT III: Confrontation at the Crossroads" {
+  note "The heroes face their ultimate challenge and determine the fate of the artifact." as Act3Note
+  (Scene 8: The Ritual's Edge) as A3S8
+  (Scene 9: The Race Against Time) as A3S9
+  (Scene 10: The Artifact's Fate) as A3S10
+}
+
+A1S1 --> A1S2 : Leads to
+A1S2 --> A1S3 : Reveals
+A1S3 --> A2S4 : Directs to
+
+A2S4 --> A2S5 : Continues
+A2S5 --> A2S6 : Navigates
+A2S6 --> A2S7 : Enters
+
+A2S7 --> A3S8 : Reveals location of
+A3S8 --> A3S9 : Triggers
+A3S9 --> A3S10 : Culminates in
+
+@enduml
