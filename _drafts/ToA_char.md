@@ -34,13 +34,17 @@
 *   **Rerolls:** 
 *   **Attack Bonus:** Melee `[  ]` Ranged `[  ]`
 
-## Skills & Abilities
-*   (Ability/Skill 1)
-*   (Ability/Skill 2)
-*   (Ability/Skill 3)
-*   (Ability/Skill 4)
+## Skills
+* (Skill 1)
+* (Skill 2)
+* (Skill 3)
+* (Skill 4)
 
-
+## Abilities
+* (Ability 1)
+* (Ability 2)
+* (Ability 3)
+* (Ability 4)
 
 ## Equipment & Gear
 
