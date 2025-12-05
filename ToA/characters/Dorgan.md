@@ -1,4 +1,4 @@
-# Dorgan the Scholar
+# Dorgan the Scholar 🎓
 
 ## Core Details
 *   **Race:** Human
