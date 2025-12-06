@@ -100,7 +100,8 @@ Expended uses may be regained by taking Short or Long Rests.
 ## Weapons
 
 ```
-WEAPON 1: [Spear] RNG: [ Far ] HIT: [ +1 / +0 ] DMG: [ d6+1 ] NAT 19: [ d12 Blade Trauma ] CRIT: [ 20 ] PROPERTIES: [ +1 damage two-handed; second rank weapon ]
+WEAPON 1: [Spear] RNG: [ Far ] HIT: [ +1 / +0 ] DMG: [ d6+3 ] NAT 19: [ d12 Blade Trauma ] CRIT: [ 20 ] PROPERTIES: [ +1 damage two-handed; second rank weapon ]
 WEAPON 2: [Name] RNG: [ ] HIT: [ ] DMG: [ ] NAT 19: [ ] CRIT: [ ] PROPERTIES: [ ]
 WEAPON 3: [Name] RNG: [ ] HIT: [ ] DMG: [ ] NAT 19: [ ] CRIT: [ ] PROPERTIES: [ ]
+WEAPON 4: [Name] RNG: [ ] HIT: [ ] DMG: [ ] NAT 19: [ ] CRIT: [ ] PROPERTIES: [ ]
 ```
