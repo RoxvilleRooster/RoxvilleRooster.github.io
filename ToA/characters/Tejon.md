@@ -44,9 +44,14 @@
 * Stealth
 
 ## Abilities
-* Formless Water - Until the start of your next turn, gain a bonus equal to your Will mod to AC, Luck (Dex) saves, and defensive Dex checks. 
+* **Martial Arts** - You are a master of unarmed combat, causing 1d6 damage (Nat 19 Blunt Trauma 1d12) with your 
+hands, feet, and other body parts. 
+You may apply your Dex mod to your melee attack and damage rolls (armed or unarmed) rather than Strength. 
+You make an Extra attack each turn with a punch, kick, headbutt, etc, as if Two Weapon Fighting, but this Extra attack does not suffer disadvantage (p.80).
+* **Monk Techniques:**
+  * **Formless Water** - Until the start of your next turn, gain a bonus equal to your Will mod to AC, Luck (Dex) saves, and defensive Dex checks. 
 You may trigger this ability after being hit or otherwise  targeted by an opponent (potentially turning a hit into a miss, etc)
-* Fork the River - When damaged by a melee attack, you may trigger this ability to make a Will check to transfer the damage to another enemy instead (within Melee range of yourself or the original attacker). 
+  * **Fork the River** - When damaged by a melee attack, you may trigger this ability to make a Will check to transfer the damage to another enemy instead (within Melee range of yourself or the original attacker). 
 This ability may not be used more than once per round.
 
 
@@ -98,6 +103,6 @@ This ability may not be used more than once per round.
 ## Weapons
 
 ```
-WEAPON 1: [Unarmed] RNG: [ NA ] HIT: [ +2 ] DMG: [ d6+2 ] NAT 19: [ d12 Blunt Trauma ] CRIT: [ ] PROPERTIES: [ ]
+WEAPON 1: [Unarmed] RNG: [ NA ] HIT: [ +2 ] DMG: [ d6+2 ] NAT 19: [ d12 Blunt Trauma ] CRIT: [ 20 ] PROPERTIES: [  ]
 WEAPON 2: [Staff] RNG: [ NA ] HIT: [ +2 ] DMG: [ +2 ] NAT 19: [ d12 Blunt Trauma ] CRIT: [ ] PROPERTIES: [ +1 damage two handed; second rank weapon]
 ```
