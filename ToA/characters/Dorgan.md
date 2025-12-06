@@ -8,7 +8,7 @@
 *   **Class:** Rogue   
 *   **Level:** 1
 *   **XP:** 0
-*   **Party Bonds:** Ashwyllyms (captives for a brief time); Ronjon (survivors of the Great March)
+*   **Party Bonds:** Ashwyllyms (deceased mentor); Ronjon (survivors of the Great March)
 
 
 ### Attributes (SCORE | MOD | GS | TF)
@@ -98,8 +98,8 @@
 ## Weapons
 
 ```
-WEAPON 1: [Shortsword] RNG: [ NA ] HIT: [ +1 ] DMG: [ d6 ] NAT 19: [ d12 Blade Trauma ] CRIT: [ 20 ] PROPERTIES: [ +2 initiative; Nat 19 alternative is disarm ]
-WEAPON 2: [Dagger] RNG: [ Close ] HIT: [ +1 ] DMG: [ d4 ] NAT 19: [ d10 Blade Trauma ] CRIT: [ ] PROPERTIES: [ +2 initiative; easily concealed ]
+WEAPON 1: [Shortsword] RNG: [ NA ] HIT: [ +1 ] DMG: [ d6+1 ] NAT 19: [ d12 Blade Trauma ] CRIT: [ 20 ] PROPERTIES: [ +2 initiative; Nat 19 alternative is disarm ]
+WEAPON 2: [Dagger] RNG: [ Close ] HIT: [ +1 ] DMG: [ d4+1 ] NAT 19: [ d10 Blade Trauma ] CRIT: [ ] PROPERTIES: [ +2 initiative; easily concealed ]
 WEAPON 3: [Name] RNG: [ ] HIT: [ ] DMG: [ ] NAT 19: [ ] CRIT: [ ] PROPERTIES: [ ]
 WEAPON 4: [Name] RNG: [ ] HIT: [ ] DMG: [ ] NAT 19: [ ] CRIT: [ ] PROPERTIES: [ ]
 ```
