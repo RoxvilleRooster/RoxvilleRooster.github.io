@@ -103,5 +103,7 @@ This ability may not be used more than once per round.
 
 ```
 WEAPON 1: [Unarmed] RNG: [ NA ] HIT: [ +2 ] DMG: [ d6+2 ] NAT 19: [ d12 Blunt Trauma ] CRIT: [ 20 ] PROPERTIES: [  ]
-WEAPON 2: [Staff] RNG: [ NA ] HIT: [ +2 ] DMG: [ +2 ] NAT 19: [ d12 Blunt Trauma ] CRIT: [ ] PROPERTIES: [ +1 damage two handed; second rank weapon]
+WEAPON 2: [Staff] RNG: [ NA ] HIT: [ +2 ] DMG: [ d6+2 ] NAT 19: [ d12 Blunt Trauma ] CRIT: [ ] PROPERTIES: [ +1 damage two handed; second rank weapon]
+WEAPON 3: [Name] RNG: [ ] HIT: [ ] DMG: [ ] NAT 19: [ ] CRIT: [ ] PROPERTIES: [ ]
+WEAPON 4: [Name] RNG: [ ] HIT: [ ] DMG: [ ] NAT 19: [ ] CRIT: [ ] PROPERTIES: [ ]
 ```
