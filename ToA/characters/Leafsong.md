@@ -116,7 +116,7 @@ Reac 2-4 Hostile 5-6 Hungry 7-8 Cautious 9-10 Curious 11-12 Friendly.
 
 ```
 WEAPON 1: [Long bow] RNG: [ Very Far ] HIT: [ +3 ] DMG: [ D8 ] NAT 19: [ d12 Missile Trauma ] CRIT: [ 20 ] PROPERTIES: [ Two handed; one gear slot for bow and one slot for quiver ]
-WEAPON 2: [Short sword] RNG: [ NA ] HIT: [ +0 ] DMG: [ d6 ] NAT 19: [ d12 Blade Trauma ] CRIT: [ 20 ] PROPERTIES: [ +2 initiative bonus; alternate nat 19 effect: disarm ]
+WEAPON 2: [Short sword] RNG: [ NA ] HIT: [ +0 ] DMG: [ d6-1 ] NAT 19: [ d12 Blade Trauma ] CRIT: [ 20 ] PROPERTIES: [ +2 initiative bonus; alternate nat 19 effect: disarm ]
 WEAPON 3: [Name] RNG: [ ] HIT: [ ] DMG: [ ] NAT 19: [ ] CRIT: [ ] PROPERTIES: [ ]
 WEAPON 4: [Name] RNG: [ ] HIT: [ ] DMG: [ ] NAT 19: [ ] CRIT: [ ] PROPERTIES: [ ]
 ```
