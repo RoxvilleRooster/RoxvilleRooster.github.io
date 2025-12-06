@@ -50,6 +50,15 @@ You begin an adventure with one use of this ability per level.
 You may use Inspire Greatness at any time (no action) provided an ally is within Far range, and able to see or hear you. 
 When you inspire an ally, grant them one of the following effects. 
 Expended uses may be regained by taking Short or Long Rests.
+    * Apply a bonus equal to your Cha modifier on any single roll (excluding Trauma rolls). 
+    You may use this ability after seeing the result of the roll. 
+    You may use this ability on your own rolls if you can see or hear an ally within Far range. 
+    The GM may limit the kinds of rolls this ability applies to and/or if it stacks with other modifiers p.64.
+    * If an ally has suffered an adverse magical effect for at least one round, they may attempt a second Luck save to end it. 
+    If successful, the PC's Luck score is reduced by two points instead of one. 
+    This ability is not applicable to instant durations or permanent effects, and may not be activated more than once per round or effect.
+    * If an ally is reduced to zero hp, that ally gains an immediate melee or ranged attack against their opponent. 
+    The ally is reduced to zero hp regardless of the outcome of their attack (any hits occur simultaneously, which may lead to both combatants being incapacitated).
 
 
 ## Equipment & Gear
