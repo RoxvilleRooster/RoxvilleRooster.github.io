@@ -58,7 +58,6 @@ This ability may not be used more than once per round.
 ## Equipment & Gear
 
 *   **Coin:**
-*   **Favour:**
 
 #### Worn
 *   Leather Armor
