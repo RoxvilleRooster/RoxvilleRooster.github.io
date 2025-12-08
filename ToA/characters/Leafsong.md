@@ -8,7 +8,7 @@
 *   **Class:** Ranger  
 *   **Level:** 1
 *   **XP:** 0
-*   **Party Bonds:** With Tejon - bodyguard duties; with Ashwyllyms - captives for a brief time
+*   **Party Bonds:** With Tejon - bodyguard duties; with Groo - captives for a brief time
 
 
 ### Attributes (SCORE | MOD | GS | TF)

@@ -8,7 +8,7 @@
 *   **Class:** Rogue   
 *   **Level:** 1
 *   **XP:** 0
-*   **Party Bonds:** Ashwyllyms (deceased mentor); Ronjon (survivors of the Great March)
+*   **Party Bonds:** Groo (deceased mentor); Ronjon (survivors of the Great March)
 
 
 ### Attributes (SCORE | MOD | GS | TF)

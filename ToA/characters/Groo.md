@@ -1,4 +1,4 @@
-# Ashwyllyms
+# Groo
 
 ## Core Details
 *   **Race:** Human
