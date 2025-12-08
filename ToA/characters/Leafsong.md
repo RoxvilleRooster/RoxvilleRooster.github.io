@@ -61,6 +61,7 @@ injuries, and (iii) healing.
     * Only makes Morale checks in exceptional circumstances (GM's call).
     * Shares your Rerolls.
 
+### Wolf
 >>> WOLF AC 11 + ranger's Perc mod HD 1+2 Bite 1d8 Nat 19 Knocked prone, Str contest to stand up 
 S15 D13 C16 I5 P14 W13 Ch7 L special. 
 Move Far. Adv when tracking, and extra +1 to attack when outnumber foe. 
