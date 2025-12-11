@@ -46,6 +46,8 @@
 * Blessings: 
     * Abjure the Unnatural - Conjure a protective field that keeps supernatural creatures at bay
     * Pierce the Veil - Identify magic, veil echoes, and illusions
+    *  Elemental Ward - Gain immunity to one kind of element or supernatural attack form
+    *  None Shall Pass - Magically seal a door, window, box, etc
 * Sacred Lore - You have a detailed knowledge of religions. 
 You may roll against Will rather than Int on checks relating to Divine Lore, holy or unholy, including deities, undead, and demons.
 
