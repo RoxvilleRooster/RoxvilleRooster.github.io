@@ -29,9 +29,9 @@
 29|A copper ring with a flat shield motif, polished to a mirror like state (25 sp).
 30|A counterfeit coin of the local currency, weighted to favour one side (70% chance of coming up heads). replica is a perfect copy apart from weight (Perc or Int check detects).
 31|A tiny gilded cage (38 sp) with a spotted moth inside, and a medicine dropper filled with nectar. If the moth is released underground, it unerringly flies towards the nearest surface exit.
-32|A fine hide throat collar with bone studs. Once every 1d4 days, the user may press one of the studs to magnify their voice up to 10 times as loud for a few seconds.
+32|A fine hide throat collar with bone studs. Once every [[1d4]] days, the user may press one of the studs to magnify their voice up to 10 times as loud for a few seconds.
 33|A strange yellow candle of foul smelling wax. Inscribed on the bottom of the candle is a single word: the adventurer’s name.
-34|An apparently empty glass jar with a whitewood lid. Any attempt to twist the lid loose is met with a loud hissing noise. If thrown, the bottle explodes in a Melee area for 3d6 damage.
+34|An apparently empty glass jar with a whitewood lid. Any attempt to twist the lid loose is met with a loud hissing noise. If thrown, the bottle explodes in a Melee area for [[3d6]] damage.
 35|This corpse has a map tattooed on its back. The map is in the ancient Serpentmen tongue. If translated, the map reveals the secret location of the Spire of Abartu.
 36|A secure, enameled box, bound with silver cord. Inside is a purple seedling growing a single golden leaf (Goldenward, 1,000 sp).
 37|A multi-coloured gemstone of curious origin. No stone dealer alive is able to identify it (2,000 sp?).
@@ -53,7 +53,7 @@
 53|A small book entitled Path to Forgiveness, edged in gold filigree. Some pages have been cut away to insert a small gold ingot (350 sp) and a handwritten note, stating “As agreed, three more once Father Moon is crow pickings.”
 54|An antique crystal perfume dispenser with a hose and squeeze pump (76 sp). The top of the dispenser is decorated with a pewter octopus. A green liquid can be seen inside.
 55|A small cane box with the words “Eat Me” imprinted on a small nickel plate set into the top. Inside is a small iced cake.
-56|A polished jet black orb that reflects nothing, wrapped in cloth (130 sp). If the orb is revealed within 2 ft of a small open flame (torch/candle), the flame is extinguished and the orb grows warm for 1d4 hours.
+56|A polished jet black orb that reflects nothing, wrapped in cloth (130 sp). If the orb is revealed within 2 ft of a small open flame (torch/candle), the flame is extinguished and the orb grows warm for [[1d4]] hours.
 57|A cold iron amulet stamped with geometric designs not attributable to any recorded culture (280 sp). Anyone who wears the amulet does not dream.
 58|A small drawstring pouch containing a 4 inch statuette of pure gold, shaped to resemble a field mouse standing on its hind legs, pawing at the sky (400 sp, but possibly cursed…).
 59|An ebony ring carved like entwined vines (111 sp). If exposed to water, the ring sprouts tiny green leaves.
@@ -75,13 +75,13 @@
 75|A kraken like statuette, carved from blue and white coral (48 sp).
 76|In a padded pouch is a small, brass hourglass, filled with a very dense, dark red mist. Surprisingly heavy (176 sp).
 77|A tiny opal jar containing two pinches of fine bright blue dust. If sprinkled on a non-magical object, it forms into an exact, permanent copy.
-78|A thick journal bound in grubby fur (10 sp). Intensive study (3d6 days) grants ability to cast one spell per Long Rest, but causes incurable Madness.
+78|A thick journal bound in grubby fur (10 sp). Intensive study ([[3d6]] days) grants ability to cast one spell per Long Rest, but causes incurable Madness.
 79|A white veil with a slim adamantine chain that could be used as a garrotte (210 sp).
 80|An ebony canister filled with ash, in the middle of which are a pair of pulsating, purple pods connected by slick black tendrils.
-81|A hemp sack filled with coal. Concealed inside are 1d2 Xornlings, diminutive fey that eat rocks and metals.
+81|A hemp sack filled with coal. Concealed inside are [[1d2]] Xornlings, diminutive fey that eat rocks and metals.
 82|A tarnished jar containing a perfectly preserved Cyclops eye (134 sp).
 83|A colourful seashell amulet on a string of dark beads. A friendly, amphibious hermit crab lives in the shell and keeps watch for the wearer.
-84|A drawstring pouch containing three sticks of green incense. Breathing the smoke (5 mins) causes a Luck (Will) check or Madness for 1d10 days.
+84|A drawstring pouch containing three sticks of green incense. Breathing the smoke (5 mins) causes a Luck (Will) check or Madness for [[1d10]] days.
 85|A stout smoking pipe made from hardened iron, expertly painted to pass for wood; makes an excellent bludgeon (50 sp).
 86|A glass jar with air holes in the lid, containing a dozen small beetles. If tapped, the beetles glow brightly (illuminates Melee range).
 87|A brick. Looks harmless enough. Might be inscribed with the words "Mr Brick" (50%).
