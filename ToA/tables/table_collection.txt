@@ -1,0 +1,494 @@
+### **1. Chase Events (1d20)**
+
+```text
+1|Large Crowd: A group (herd, procession, etc.) impedes progress. If not managed or bypassed (via Persuasion, Intimidation, etc.), the opposing side changes the gap by two lengths.
+2|Dangerous Hazard: Physical threat (riot, poisonous vines, slime). 1d4 characters must make a Luck (Dex) save or suffer 2d6 + level damage.
+3|Obstruction: Physical obstruction (horse & cart, thick scrub, winds). If not bypassed or resolved, the opposing side changes the gap by 1d2 lengths.
+4|Snap Opportunity: 1d4 characters from both sides may take one action (attack, spell, etc.) to assist themselves or hinder the opposition, provided they declare it within a 5-second countdown.
+5|Random Setback: Roll 1d6: (i) Drop Item (Battle Gear), (ii) Fatigue (Leader is Fatigued), (iii) Head Strike (Con save or Stunned), (iv) Fall (Dex check or trip), (v) Hostile Third Party (Random encounter), (vi) Lost (Int check or separated).
+6|Burst of Speed: The party attempts a Group Con (Athletics) check. On a success, they put on a burst of speed and change the gap by one length.
+7|Dangerous Hazard: Falling debris, hunting trap, or hostile bird. The leader must make a Luck (Dex) save or roll 1d12 on an appropriate Trauma table.
+8|Obstruction: Barrels, crates, jammed door, or smoke. If not bypassed or resolved, the opposing side changes the gap by two lengths.
+9|Random Setback: As Entry #5.
+10|Hidey Hole: Quarry locate a hiding place. Group Dex (Stealth) check (if PCs are quarry) or Group Perc (Detection) check (if PCs are chasers). Success means quarry escape; failure means they are caught. Either way, chase ends.
+11|Snap Opportunity: As Entry #4.
+12|Third Party: A small number of creatures (beggars, rock grinders, sprites) impede progress. If not managed or bypassed, the opposing side changes the gap by 1d2 lengths.
+13|Fell Vapours: Gaseous or inhalation threat (poison vapours, carbon dioxide, spores). 1d4 PCs must make a Luck (Con) save or roll 1d12 on the Toxin Trauma table.
+14|Cross Paths: A random chaser catches up to a lagging quarry. Each character may make a single melee attack against the other before being separated again.
+15|Split Up: Opponents split. If quarry split, party chooses which group to focus on (may require mini-chase). If chasers split, half the NPCs are fatigued and drop out.
+16|Random Setback: As Entry #5.
+17|Major Obstruction: Busy marketplace, mud, hail storm. If not resolved, opposition changes gap by 1d2 lengths. Random PC makes Luck (Dex) save or a pack tear causes loss of random Pack Gear.
+18|Burst of Speed: The opposition is inspired to put on a burst of speed, changing the gap by two lengths! The party may attempt a group Luck save to negate this.
+19|All In!: The whole party and equal number of opponents may take an action (attack, spell, etc.) provided each player declares within a 5-second countdown.
+20|Hidey Hole: As Entry #10, but after the chase ends, all PCs must make a Luck (Con) save or be Fatigued.
+```
+
+### **2. Fancy Meeting You Here (1d6)**
+
+```text
+1|Lone Survivor: A lone survivor of an adventuring party, lost in the tunnels. Half hp & rations, no torches. Might know about nearby monsters.
+2|Prisoner: A prisoner of the next monster or chained up to a pillar, makeshift shrine, in a pit or cell, etc. Dazed and confused, Fatigued, no gear.
+3|I’m Standing Right Here: The PC was always with the party, just in the background as a torch bearer, rear sentry, porter, etc. Similar injuries and resources used as the other PCs.
+4|I’ve Got a Bad Feeling About This: PC was minding the horses or guarding the entrance, but felt something was wrong and came to help. Same rations as party, but horses are lost and camp gear is stolen, trashed, or burnt when the party eventually departs.
+5|Stone Curse: The PC is the victim of a decades-old Veil curse encasing them in stone. Freeing the PC by breaking the rock triggers an instant DDM effect. No rations or torches, and the character has aged an extra 1d10+20 years.
+6|Belly of the Beast: A hostile ten-foot burrowing worm (as Plague Worm but AC 12) attacks! If killed, the new PC is found in its belly, alive but starving with 5 hp and no gear.
+```
+
+### **3. Dungeon Event (2d6)**
+
+```text
+2-3|Clue or Gear: The party finds a helpful clue or piece of gear (d100 on the Pilfer Pouch UF table p.48).
+4|Lore: The party learns a new piece of lore through a ceiling fresco, wall tapestry, bas-relief, old scroll, artefact, and so on. At the GM’s option, a player might introduce new lore relevant to their PC instead (if so, +2 xp).
+5|Resource: A party resource is somehow used up, damaged, lost, left behind, or otherwise expended. Roll for which PC and a random piece of Pack Gear.
+6-8|A Random Encounter occurs.
+9|Warning sign of nearby danger (prints, scratches, nest materials, sounds, scents, droppings, remains of recent victim, etc).
+10|Terrain change (visibility, temperature, water, odour, stability/footing, etc).
+11-12|Potential Ally: The PCs find a prisoner, opposing faction, enemy turncoat, third party, other adventurers, etc.
+```
+
+### **4. Exploring - Hex Points of Interest (1d20)**
+
+```text
+1|Sacred site, Ley Line, etc.
+2|Landmark or Natural Wonder.
+3|Small Ruin.
+4|Rare Herbs, Ore, etc. (1d6 x 60 sp).
+5|Random Encounter.
+6|Camp.
+7|Game Trail, Short Cut, Path.
+8|Cave Complex.
+9|Small Lair.
+10|Random Encounter.
+11|Outpost, Inn, Tower, etc.
+12|Waterfall, Pool, Stream, Creek.
+13|Vantage Point.
+14|Corpses, Bones, Graves, Cairn.
+15|Random Encounter.
+16|Hamlet, Village.
+17|Large Lair.
+18|Large Ruins.
+19|Dungeon.
+20|Random Encounter.
+```
+
+### **5. Travel Events - Underground (1d20)**
+
+```text
+1|Dangerous terrain must be passed through (unstable tunnel, gas, magma, etc). Montage (Mod, 3F) to avoid 2d6 + level damage per PC.
+2|Off Course: Party risks becoming lost. Montage (Mod, 3F) to regain bearings. Failure: become lost and roll Random Encounter.
+3|A Random Encounter occurs. Roll for Reaction and Activity.
+4|Vagaries of Adventure: Consult the Bones for weal (1d4 PCs get a reroll) or woe (roll 1d6 for setbacks like disease or theft).
+5|Forgotten Ruins beckon: Montage (Mod, 3F) to explore. Success: each PC finds loot. Failure: awaken guardians (Random Encounter).
+6|Overwhelming Numbers block the path. Montage (Hard, 2F) to slip by. Failure: run a Chase.
+7|A Random Encounter occurs.
+8|New Lore: GM provides a new rumour, myth, or legend to the party.
+9|Natural Wonder: Spend a day resting to allow one PC with Madness to make a Luck (Will) save to remove it.
+10|Other Travellers: Roll 1d8: (i) Skorn, (ii-iii) Dwarves, (iv) Caravan, (v) Rivals, (vi) Miners, (vii) Cultists, (viii) GM special.
+11|A Random Encounter occurs.
+12|Camaraderie: One player reveals a PC secret. If entertained, each PC recovers 1 Luck or takes a Short Rest.
+13|Short Cut: Resolve as Int or Perc (Wilderness Lore) check. On a Great Success the party enters this hex for free.
+14|Lost Supplies: Group Luck save or rations/water halved. Tainted food requires Luck (Con) save vs disease/poison.
+15|A Random Encounter occurs.
+16|Discovery: Find hex secret or a Monster Lair (use Lair numbers).
+17|Unfortunate Injury: NPC, animal, or PC suffers Sprained Ankle. Impacts travel speed unless assisted by Support role.
+18|Taxing Terrain (chasm, collapse, etc). Montage (Hard, 2F) required. Failure: party is Fatigued and loses gear.
+19|A Random Encounter occurs.
+20|Perfect Campsite: Perc (Wilderness Lore*) check. Success: PCs restore 1d3 attribute points, one Reroll, or one Luck point.
+```
+
+### **6. Travel Events - Voyage (1d20)**
+
+```text
+1|Weather change: (i) Perfect, (ii) Storm, (iii) Fog, (iv) Gale, (v) Severe Storm, (vi) Becalmed.
+2|Off Course: Risks becoming lost in hex. Montage (Mod, 3F) to regain bearings.
+3|A Random Encounter occurs. Roll for Reaction and Activity.
+4|Vagaries of Adventure: Consult the Bones for weal (rerolls) or woe (setbacks).
+5|Forgotten Ruins beckon: Montage (Mod, 3F) to explore. Success: loot for all. Failure: Random Encounter.
+6|Chance Salvage: Shipwreck or drift cargo. Group Luck save for loot; Consult Bones for disease.
+7|A Random Encounter occurs.
+8|New Lore: GM provides a new rumour, myth, or legend.
+9|Natural Wonder: Rest a day to allow one PC to attempt removing Madness (Luck (Will) save).
+10|Other Sailors: Roll 1d8: (i) Warship, (ii-iii) Merchant, (iv) Canoes, (v) Rivals, (vi) Pirates, (vii) Lifeboat, (viii) GM special.
+11|A Random Encounter occurs.
+12|Camaraderie: Entertaining tale allows recovery of 1 Luck or a Short Rest.
+13|Short Cut (currents, reefs). Int or Perc (Watercraft*) check. Great Success: free hex entry.
+14|Lost Supplies: Group Luck save or rations/water halved. Tainted food risk.
+15|A Random Encounter occurs.
+16|Discovery: Find hex secret or Monster Lair.
+17|Unfortunate Injury: NPC, animal, or PC falls ill/lame. Impacts speed unless assisted.
+18|Strange Waters (tsunami, whirlpool). Montage (Hard, 2F) required. Failure: Fatigued and lose gear.
+19|A Random Encounter occurs.
+20|Safe Harbour: Perc (Watercraft*) check. Success: restore 1d3 attribute points, one Reroll, or one Luck point.
+```
+
+### **7. Random Encounters - Aerial (1d20)**
+
+```text
+1|Winds: Hurricane strength winds force grounding for 4d6 hours. Roll ground encounter.
+2|Eclipse: Solar/lunar event. PCs exposed Consult the Bones to gain or lose 1 Luck.
+3|Intercept: Flying ship, mounted patrol, or sorcerer approaches to intercept.
+4|Dust Storm: Breathing difficulty. Lose 1d2 Con (Luck (Con) save negates).
+5|Peak: High peak spire with a jade tip and rune-marked iron door at base.
+6|Cloud Vortex: Lightning flashes around an unnatural swirling vortex that tugs at the party.
+7|Malfunction: Ship/mount falters. Grounded for 1 day; repairs or healing checks required.
+8|Curious Bat: Solitary bat follows. (30% curious, 50% lost pet, 20% vampire).
+9|Eagles: 3d6 Giant Eagles with riders approach for parlay.
+10|Elemental: 10 HD Air Elemental follows parallel, curious about the party.
+11|Manticore: Hunting for a meal. (30% Boss behemoth). May parlay for trinkets/mounts.
+12|Stowaway: Discovered aboard ship, or 2d4 Xornlings/Treasure Ticks in gear.
+13|Spores: Tainted winds carry disease. Luck (Con) save to resist.
+14|Wyverns: 1d4 territorial Wyverns attempt to destroy or drive off intruders.
+15|Harpies: 2d6 Harpies hearable on wind before they attempt to beguile a PC.
+16|Roc: 40-foot bird blacks out the sun/moon before diving to eat a PC.
+17|Dire Bats: 3d6 screeching bats attempt to grab and fly off with PCs to devour.
+18|Bats: Flock flies through. Luck (Con) save vs disease from bat/droppings hit.
+19|Griffons: 2d6 Griffons play games around ship or attack flying mounts.
+20|Wasps: 2d4 Giant Wasps carrying 1d6 paralyzed humans to their nest.
+```
+
+### **8. Random Encounters - City, Town, Village (1d100)**
+
+```text
+1-2|Farmers: Mortin and Jeraal brawling over livestock or crops.
+3-4|Con: Doska inviting marks to gamble on cups and balls (Sleight of Hand).
+5-6|Fowl: Ducks/chickens scatter. Riva "Homeslice" (pickpocket) uses diversion.
+7-8|Noble: Lord Ibrenon on a charger; arrogant and insulting.
+9-10|Bard: Arthur Excelsior offers to compose a ballad about the party (for a fee).
+11-12|Merchant: Eggbert Cruthers selling weapons; discreetly offers specialty gear.
+13-14|Brawl: Screaming Goat Tavern fight spills out; 5d6 drunken brawlers.
+15-16|Alchemist: Gusterro ("Gus") hawking fire pots; hides them from guard patrols.
+17-18|Pot: Chamber pot emptied from 2nd story. Dex check to avoid excreta.
+19-20|Cows!: Herd spooked by thunder, about to stampede.
+21-22|Fire!: Woman yells "Fire!" at a smoke-filled building; well is distant.
+23-24|Guards: 4d6 patrolling guards; may question strange adventurers.
+25-26|Axemen: Trio selling firewood; tiny fey hiding behind a log knot.
+27-28|Oleg Arkoza: Renowned potion maker speaking with a noblewoman.
+29-30|Falconer: Ms Eliana selling an assortment of hunting birds.
+31-32|Funeral: Procession of pall bearers, priests, and relatives.
+33-34|Gangs: 3d6 thugs of rival gangs clash with knives/hatchets.
+35-36|Rats!: 3d6 starving rats attack Totha, a street kid with safe house knowledge.
+37-38|Troupe: 3d6 performers gathering a crowd (30% pickpockets present).
+39-40|Repent: 2d6 clergy berating party for violence and greed.
+41-42|Shuba: Thugs beating merchant Shuba Sendarran over gang debts.
+43-44|Pie: Ghirk Galak, pigeon pie seller and street informant.
+45-46|Farrier: Elderly Ugalos gifts a lucky shoe (restores 1 Luck once) if impressed.
+47-48|Execution: Magistrate presiding over hanging of three criminals; 3d6 guards.
+49-50|Plague: Stacked plague bodies in alley; ornate bracer (Valuables A) visible.
+51-52|Tarot: Madame Eshorri (Sun: +1 Luck; Moon: -1 Luck).
+53-54|Moon: Blood moon superstitions. Consult Bones for ferrocious Lycanthrope hunt.
+55-56|Dog: Elderly street dog follows party; canny fighter if befriended.
+57-58|Rooftop Rumble: Guards and cowled Urgot fighting along rooftops.
+59-60|Rain: Miserable driving rain makes roads slippery and deep with puddles.
+61-62|Mimes: A plague of mute performers descended on the street.
+63-64|Riot: 1d100+100 dock workers take up arms; guards about to lose control.
+65-66|Actor: Aros or Odea; skilled impersonator (Cha 15).
+67-68|Books: Merchant Thelsa selling books/maps; excellent forger.
+69-70|Rivals: 6d10 members of three rival parties in bellicose brawl.
+71-72|Thief!: Bjernvin sprints by with a pouch; Yornic follows yelling "Thief!".
+73-74|Blood: Young noble Carrex staggers into alley and collapses bleeding.
+75-76|Hypnotist: Alal the Mysterious performing; knows Gaze of Beguilement.
+77-78|Explosion!: Deafening blast from a nearby tower; thick plume of smoke.
+79-80|Monkey: Escaped monkey hides in PC backpack; performer follows with net.
+81-82|Fog: Consult Bones for 2d4 Will o' Wisps at dusk.
+83-84|Race: Horses/carriages racing; nobles from opposing houses at reins.
+85-86|Body: Crashes to ground; 1d3 shadows escaping across rooftops.
+87-88|Orb: Castin has glass orb; asks if you are the one it waits for.
+89-90|Crier: Town crier ringing bell: "The duke is dead!".
+91-92|Zealot: Preaching end of days and welcoming Old Ones.
+93-94|Ritual: 3d6 priests offering blessings and scripture.
+95-96|Licences: Tax Collector Cruxus asking for weapon licences.
+97-98|Cat: Tabby cat with cropped ears; loyal watch-cat if befriended.
+99-00|Wind: Blustering wind knocking objects off tables.
+```
+
+### **9. Random Encounters - Deserts (1d20)**
+
+```text
+1|Plateau: 40-ft outcropping with piles of stones at the top edge.
+2|Oasis: Bitter watering pool. Consult Bones for predators (Crocs/Scorpions).
+3|Sandstorm: Luck (Con) save or become Fatigued.
+4|Heat: Con check or roll 1d10 on Toxin Trauma table.
+5|Statue: Serpent statue with Giant Serpents/Serpentmen (40%) on pilgrimage.
+6|Raiders: 3d10 Berserkers (60%) or 3d6 Bandits (40%).
+7|Dungeon: Unearthed beetle-headed statue next to descending stone steps.
+8|Pillars: Salt pillars with half-buried ancient weapons/shields.
+9|Beetles: 2d4 Giant black Scarab Beetles playing in dune shadows.
+10|Camp: 4d6 Skorn (60%) or 2d6 Urgot (40%) nearby.
+11|Ambush!: Desert Bulette bursts from drifts to swallow a PC.
+12|Scorpions: 1d6 Giant Scorpions crawl out of sand for ambush.
+13|Cyclopes: 3d6 hunters (30% have pet Wyvern).
+14|Elemental: 10-15 HD Fire Elemental seeking to burn everything.
+15|Tribute: Sand Genie (Malafas) demands tribute or test for passage.
+16|Hydra: Prowls wastes; leaves tracks and digs daily burrows.
+17|Worm: Purple Worm hunts here; 15-ft wide collapsed tunnels warn of it.
+18|Ants: 2d6 Giant Worker Ants (70%) with Soldier escorts (30%).
+19|Guardians: 3d8 animal-headed humanoids demanding tribute (as Skorn).
+20|Scarabs: Swarm infests food/gear; Luck save vs spoiled rations and -1 Luck.
+```
+
+### **10. Random Encounters - Jungles (1d20)**
+
+```text
+1|Poison: Vines/spores cause 1d10 dmg and Madness (Luck (Con) resists).
+2|Insects: Cloud carries disease. Luck (Con) save or Weeping Limbs (Dex loss).
+3|Pit: Spiked traps (3d6 dmg) or tree snares (Luck (Dex) resists).
+4|Statue: 15-ft serpentman statue wrapped in tended flowering vines.
+5|Hut: Set in branches of kapok tree with hanging vine ropes.
+6|Monkeys: 5d6 Man Eating Monkeys stalking from trees.
+7|Centipedes: 2d12 Giant Centipedes seeking to implant eggs in warm bodies.
+8|Ants: 2d6 Giant Worker Ants (70%) with Soldier escorts (30%).
+9|Splintering: Colossal creature bucking treetrees; humanoid scream cut short.
+10|Vines: 5d6 Flesh Eating Vines surge to strangle and absorb party.
+11|Serpents: Nest of 2d4 Giant Serpents (30% have Serpentman handler).
+12|Serpentmen: Band of Hraarsk/Ssurlocs moving toward ley line.
+13|Sabretooth: Tiger(s) tracking party (70% solitary, 30% pack).
+14|Apes: 2d6 territorial Giant Apes lounging under kapok trees.
+15|T-Rex: 40-foot Tyrannosaurus Rex rampaging through area.
+16|Drums: Tribal drums from east (Human cannibals or Skorn).
+17|Lair: Hungry Hydra nearby with recent hatchlings.
+18|Leeches: 5d4 Projectile Leeches in trees or 3d6 Urgot concealed in thicket.
+19|Skorn: 5d6 making noise; Consult Bones to see if they scented the party.
+20|Boar: Boar thunders past, followed by 2d4 Tigers.
+```
+
+### **11. Random Encounters - Forests (1d20)**
+
+```text
+1|Poison: Trees/vines cause 2d6 dmg, 1 Con loss, and Madness (Luck (Con) resists).
+2|Huts: Dilapidated huts and five burial mounds beside a brook.
+3|Snared: Barbarian Iriti suspended in snare. 2d6 Ogres arrive in 2d4 rounds.
+4|Bridge: Ancient stone bridge. Crossing has 50% chance of DDM Rift.
+5|Carving: Gnarled white tree with carving; possible fey, curse, or fortune.
+6|Stones: Sinkhole beside rune-marked stones; steps lead into darkness.
+7|Puff: Mushroom puffs spores; Luck (Con) save vs Toxin Trauma.
+8|Webs: Sticky webbing on ground/branches; 2d4 Giant Spiders in shadows.
+9|Hive: Giant Ant hive nearby; 2d6 Workers (70%) or 1d4 Soldiers (30%).
+10|Beetles: 2d4 Fire Beetles laying eggs; will drive off interlopers.
+11|Serpents: 2d6 Giant Serpents. Consult Bones for ambush.
+12|Cracking: Owlbear(s) scratching against ancient trunks.
+13|Howls: 3d4 Wolves (70%) or 2d4 Dire Wolves (30%) surround party.
+14|Death: 2d6 Shades silently glide toward sentry at night.
+15|Treants: 1d4 Bloodroot Treants masquerading as trees.
+16|Rats: 5d4 Giant Rats (70%) or 3d4 Dire Rats (30%) scavenging.
+17|Skorn: 4d6 Skorn (60%) or 2d6 Urgot (40%) camped at pond.
+18|Bats: 3d6 Vampire Bats (Stirge) hanging high; attack bloody wounds.
+19|Branch: Heavy deadwood falls; 1d10 dmg (Dex check resists).
+20|Light: Wisps circle branches above, humming an ethereal dirge.
+```
+
+### **12. Random Encounters - Mountains & Hills (1d20)**
+
+```text
+1|Obelisk: Silver markings in mirrored floor crater reflecting stars.
+2|Tunnel: 10-ft tunnel with warded entryway (Luck (Will) vs 2d6 cold dmg).
+3|Steep: Slope/ridge climb. Failure: Fatigued by the top.
+4|Cave: Torchlight visible. 4d6 Skorn (60%) or 2d6 Urgot (40%) inside.
+5|Encampment: Dozens of smoke columns over a high ridge.
+6|Cloud: Low-lying cloud matching party speed and drawing nearer.
+7|Quarrel: 2d6 Ogres arguing over direction; may smell party if downwind.
+8|Nest: 100-ft nest with 12-ft feathers and three 4-ft eggs.
+9|Taurs: 1d8 Minotaurs hunting for man flesh.
+10|Feasting: 1d6 Giant Scorpions eating dead skorn.
+11|Run!: 1d4 barbarians sprint past, followed by 1d12 Hill Giants.
+12|Cyclopes: 3d6 Cyclopes scouting for humans to feast upon.
+13|Manticores: 1d4 Manticores on ledge devouring a wolf.
+14|Bulette: Hungry beast bursts from earth to bite PC.
+15|Ambush: 1d6 Hill Giants waiting; successful Perc (Det) hears their hunger.
+16|Wyverns: 1d4 Wyverns hunting metallic humanoids to drop from heights.
+17|Griffons: 2d6 Griffons (50%) or Harpies (50%) circling above.
+18|Pools: 1d3 Grey Ooze mimicking rock depressions.
+19|Rockslide!: All PCs Luck (Dex) save or 3d6 dmg (13+ dmg causes Blunt Trauma).
+20|Xornlings: 2d4 blending into rock face, seeking to eat precious metals/gems.
+```
+
+### **13. Random Encounters - Oceans, Lakes, Rivers (1d20)**
+
+```text
+1|Storm: Heavy rain and winds; watercraft damage risk and reduced visibility.
+2|Becalmed: No winds. Group Luck save daily to see if winds return.
+3|Raiders: 2d10+40 Vikings in longship intercept.
+4|Dolphins: 2d6 inquisitive marine life following ship.
+5|Wreck: Damaged caravel. Consult Bones for 1d4 survivors.
+6|Inky Depths: Water turns jet black; diving birds do not resurface.
+7|Balloon: Hot air balloon ship flies overhead.
+8|Fog: Reduced visibility. Consult Bones for Will o' Wisps at dusk.
+9|Trolls: 2d6 Sea Trolls scale hull at night to eat crew.
+10|Pirates: Carrack with 2d10+40 pirates gives chase.
+11|Hag: Blue Hag follows ship seeking opportunity to snatch crew.
+12|Jelly: Ochre Jelly undulates toward ship; slurps up side.
+13|Mutiny!: 80% of crew seeks control; losers walk the plank.
+14|Wyverns: 1d6 circling down for potential meal.
+15|Sabotage: Tainted stores. Luck (Con) save daily or lose 1d2 Con.
+16|Pox: Crew has Lake Pox (1d6 Dex loss); highly contagious.
+17|Slavers: Idle merchant galley displaying shackle icon.
+18|Sprites: 5d4 water Sprites swimming alongside causing mischief.
+19|Battle: Two cogs fighting 1d3 pirate caravels on horizon.
+20|Dinosaur: Kronosaurus surfaces and fixes gaze on ship.
+```
+
+### **14. Random Encounters - Plains & Grasslands (1d20)**
+
+```text
+1|Wildfire: Grassland fire; group Luck save or 4d6 dmg and roll on Injuries & Setbacks table.
+2|Shaman: Masked humanoid raises arms; thunder sounds.
+3|Palisade: Wooden defense with large tent; guarded by Stone Golem.
+4|Scavengers: 5d4 Giant Rats (70%) or 3d4 Dire Rats (30%) scavenging.
+5|Crater: Meteorite crater with crystal; serpent tracks lead away.
+6|Footprints: Clear pond with wet footprints leading to underwater tunnel.
+7|Centaurs: 2d8 hostile sentries guarding ancestral territory.
+8|Fog: Visibility Far range. Check for 3d6 Skorn, Centaurs, or tribesmen within.
+9|Eagles: 2d4 Giant Eagles wheeling overhead.
+10|Tiger: Tiger (70%) or mated pair (30%) stalking the rear PC.
+11|Captive: 2d4 Ogres taunting trussed up barbarian Bok.
+12|Pack: 3d4 Wolves led by 1d4+2 Dire Wolves.
+13|Wasps: 2d4 Giant Wasps searching for humanoid prey.
+14|Holes: Bulette hunting ground evidenced by collapsed tunnels.
+15|Willow: Bloodroot Treant with bloodstained branches.
+16|Clash: 4d8 Ogres clashing with mounted barbarians or Skorn.
+17|Serpents: 1d6 Giant Serpents or one massive 10 HD specimen.
+18|Wolves: Two rival packs fighting over hunting grounds.
+19|Barbarians: 3d10+20 xenophobic riders appear in distance.
+20|Skorn: 3d10 hunters. Consult Bones for downwind ambush.
+```
+
+### **15. Random Encounters - Roads & Trails (1d20)**
+
+```text
+1|Cart: Broken firewood cart. Wagoners Orson/Rugert ask for mend help.
+2|Visitors: 2d6 wealthy tourists with 4d6 guards.
+3|Crow Cage: Thief Beth starving in cage; pleads for release.
+4|Patrol: 4d6 Soldier/Militia patrol; will not suffer cheek.
+5|Caravan: 5d6 guards protecting merchant goods (roll 1d8 for type).
+6|Pilgrims: 4d6 pilgrims heading toward shrine/temple.
+7|Carriage: Lord Verne escorted by 3d4 knights.
+8|Quest: Robed woman and three animal-featured men seeking scripture.
+9|Bandits: 3d6 bandits blocking road demanding "tax".
+10|Crone: Hag posing as crone to gain trust before eating PC.
+11|Raiders: 3d10 Barbarians (60%) or 4d6 Skorn (40%) risking road raids.
+12|Impersonators: 1d6 Lycanthropes in human form posing as travellers.
+13|Beggars: 2d4 line thoroughfare; some may be network spies.
+14|Wagon: Undertaker Tibbers (possible Doppelganger) asking for guards.
+15|Smugglers: 2d6 smugglers transporting illegal goods (roll 1d8 for type).
+16|Horse: Riderless messenger horse gallops past; messenger dead half-mile back.
+17|Adventurers: 2d4 rivals chasing rumours of treasure/glory.
+18|Troupe: 3d6 performers/bards; potential thieves/spies.
+19|Knights: 4d6 knights hunting criminal; interrogate all encountered.
+20|Treant: Bloodroot Treant masquerading as tree; signs of blood at base.
+```
+
+### **16. Random Encounters - Snow & Ice (1d20)**
+
+```text
+1|Blizzard: Many hours duration. Luck (Con) save or 1d3 Con loss and Fatigued.
+2|Glacier: 40-ft metallic cylinder unearthed in ice.
+3|Crevasse: Lead PC must Luck (Dex) save or fall 1d3 x 10 ft.
+4|Cave: Serpent-like mouth with flickering torchlight inside.
+5|Pack: Wolves or Winter Wolves (30%) tracking party for weakest member.
+6|Smoke: Explorer sitting by campfire beyond rise.
+7|Altar: Ring of ice statues around black altar with bone horn.
+8|Encampment: 5d10 Urgot practicing dark rituals in hide skin camp.
+9|Frost Worms: 2d4 burrowing through ice, attracted to footfalls.
+10|Cyclopes: 3d6 foul-mood outcasts scavenging here.
+11|Ooze: Dormant Ooze beneath ice. Consult Bones to see if it wakes.
+12|Ice Bulette: Cold-immune beast hunting the region.
+13|Yeti: 14-ft shaggy beast prowling for warm flesh.
+14|Roc: Flying overhead scouring wastes for giants/mammoths.
+15|Giants: 1d10 Frost Giants traversing fields for meeting.
+16|Elemental: 15 HD Water/Ice Elemental (Int 4) attempting communication.
+17|Beetles: 2d4 blue Ice Beetles hibernating in snow-mound shells.
+18|Ice Serpent: Dormant giant waiting for large prey.
+19|Raiders: 3d10 Vikings pulling gear on sleds.
+20|Avalanche!: Each PC suffers 4d6 dmg (Luck (Dex) save for half).
+```
+
+### **17. Random Encounters - Swamps (1d20)**
+
+```text
+1|Quicksand!: Lead PC Luck (Dex) save or sucked under (1d3 Con loss).
+2|Scales: Half-submerged dragon skeleton with usable scales.
+3|Bog Fumes: Luck (Con) save or 1d6 dmg and random Madness.
+4|Stirges: 3d10 ravenous swarm descends.
+5|Chest: Mangrove merged with oaken chest (Valuables B). 2d4+1 Sprites.
+6|Vermin: 5d4 Projectile Leeches (50%) or 2d12 Giant Centipedes (50%).
+7|Refuse: 10-ft wide pile in dark pool; contains shiny objects.
+8|Hut: Elevated wooden hut with smoke rising; insects are silent.
+9|Swarm: Stinging insects. Luck (Con) save vs Febrile Rot (Str loss).
+10|Crocs: 2d4 Giant Crocodiles lying in ambush.
+11|Nest: 1d6 Giant Serpents and eggs (worth 1d4x100 sp).
+12|Trolls: 1d12 Moor Trolls searching for flesh; some dormant in mud.
+13|Snails: 1d4 Hammer Snails surging out of bracken.
+14|Eels: 2d6 Giant Eels; electric shock (Luck (Con) save or Stunned).
+15|Treants: 1d4 Bloodroot Treants masquerading as cypress trees.
+16|Toads: 2d6 Giant Toads croaking loudly.
+17|Hut: Hags live in ramshackle mud brick hut (30% coven of three).
+18|Fog: Persistence for 1d4 hours. Consult Bones for Will o' Wisps.
+19|Horns: 3d6 Skorn or 4d4 barbarians; half of party arrives as reinforce.
+20|Serpentmen: 4d4 Hraarsk scouting ley lines; leader has Ruin map.
+```
+
+### **18. Random Encounters - Underground (1d20)**
+
+```text
+1|Rockfall!: Group Luck (Dex) save or 2d4 dmg and Blunt Trauma.
+2|Crevasse: 1d4 x 10 ft wide and 1d10 x 10 ft deep.
+3|Underwind: Extinguishes non-magical lights. Check for Green Slime drop.
+4|Clanking: Empty well/chute; grinding noises from deep below.
+5|Fungi Forest: Cavern with lake, giant fungi, and 40-ft golden monolith.
+6|Webs: 2d4 Giant Spiders in webs or behind trapdoors.
+7|Mould: 2d4 patches of Yellow Mould growing in corners.
+8|Mouth: 6-ft carved devil face set into wall; interior is pitch black.
+9|Gas: Flammable pocket. 3d6 explosion dmg if light not extinguished.
+10|Fungi: 2d4 Mushroom Men hibernating; wake in 1d4 rounds if party lingers.
+11|Jelly: Ochre Jelly undulating along wall/rooftop for organic matter.
+12|Worms: 1d6 Plague Worms tasting air for flesh.
+13|Statue Pieces: Basilisk home; remnants of old petrified meals.
+14|Mould: Miner’s Woe; Luck (Con) save vs hacking cough.
+15|Aberrant: Tentacle Spawn or Eye Terror exploring area.
+16|Ambush!: 1d6 Rock Grinders burst from surfaces seeking metals.
+17|Elemental: 10 HD Earth Elemental replenishing strength from stone.
+18|Skorn: 4d6 Skorn or 2d6 Urgot exploring or skeletons (Carry Loot B).
+19|Ooze: Grey Ooze stalking; uses Emotion Burst to isolate member.
+20|Antennae: 2d12 Giant Centipedes crawling across ceiling.
+```
+
+### **19. Heavy Abilities (1d20)**
+
+```text
+1|Scrapper: Suffers half damage while Wounded.
+2|Bloodletter: Rolls double melee damage dice.
+3|Warlord: Adv on Cha/Will checks; allies gain adv on Morale.
+4|Eldritch Blood: Adv vs magic; their spells impose disad on target saves.
+5|True Prodigy: May attempt one Major Exploit per combat.
+6|Void Conduit: May cast one spell per combat (Int 16).
+7|Triple Threat: May use any weapon/armour; exceptionally good looking.
+8|Sentinel: May attempt one Rescue per adventure.
+9|Infamous: Beheads defeated foes; PC at zero hp dies if not recovered now.
+10|Shield Master: May negate two attacks with a shield before repair.
+11|Ruinous Corruption: Roll on DDM table entry #99-100.
+12|Mercurial: No free attacks granted for move; once per combat turn hit to miss.
+13|Auspicious: Once per combat may reroll any single die after an action.
+14|Back in Black: If reduced to zero hp, she miraculously survives if not beheaded.
+15|Treacherous Dog: Adv on sneaky tactics/Minor Exploits (trip, sand in eyes).
+16|Lightning Reflexes: GM chooses when they take their turn.
+17|Monstrous Ally: Loyal Dire Wolf, Giant Eagle, or similar monstrous friend.
+18|Arcana Equipped: Possesses a random Major Magical Item.
+19|Backup: When Wounded, 2d6 allies break cover to assist.
+20|Doom Pact: At death, a Rift monster (DDM #11-12) bursts from corpse.
+```
+
+### **20. Terror Traits (1d12)**
+
+```text
+1|Many Maws: Makes 3 bonus attacks each action: Bite 1d10.
+2|Cannot be Unseen: Horrifying visage causes random Madness (no save).
+3|Psychic Lash: When Wounded, unleashes Brain Burst (Int 16).
+4|Crushing Tentacle: Bonus attack: Constrict 1d8 + Str contest or Helpless.
+5|Floaty: Ignores gravity, moves in any direction.
+6|Veil Rupture: Slain Terror unleashes DDM effect on killer.
+7|Pestilent Vapours: Luck (Con) save after Melee engage or suffer disease.
+8|Warp Call: When Wounded, another Terror manifests (once).
+9|Acid Flesh: Touch melts bone/flesh/steel: +1d8 damage.
+10|Unholy Stench: Close range Luck (Con) save or lose 1d6 Con.
+11|Eye Stalks: Has 1d3 eye stalks acting as an Eye Terror.
+12|Time Shunt: 18+ attack roll shunts target for 1d4 rounds (no save).
+```
