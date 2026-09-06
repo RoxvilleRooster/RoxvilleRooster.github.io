@@ -1,0 +1,160 @@
+1|find a castle
+2|find a town
+3|find a swamp
+4|find a river
+5|find a pass or defile
+6|find a mountain
+7|find a valley
+8|find a manor house
+9|find a house
+10|find a dock
+11|find a guildhall
+12|find a warehouse
+13|find a dungeon
+14|find a cave
+15|find a palace
+16|find a temple
+17|find a stable
+18|find a wall
+19|find a forest
+20|find a reef
+21|capture a castle
+22|capture a town
+23|capture a swamp
+24|capture a river
+25|capture a pass or defile
+26|capture a mountain
+27|capture a valley
+28|capture a manor house
+29|capture a house
+30|capture a dock
+31|capture a guildhall
+32|capture a warehouse
+33|capture a dungeon
+34|capture a cave
+35|capture a palace
+36|capture a temple
+37|capture a stable
+38|capture a wall
+39|capture a forest
+40|capture a reef
+41|map a castle
+42|map a town
+43|map a swamp
+44|map a river
+45|map a pass or defile
+46|map a mountain
+47|map a valley
+48|map a manor house
+49|map a house
+50|map a dock
+51|map a guildhall
+52|map a warehouse
+53|map a dungeon
+54|map a cave
+55|map a palace
+56|map a temple
+57|map a stable
+58|map a wall
+59|map a forest
+60|map a reef
+61|defend a castle
+62|defend a town
+63|defend a swamp
+64|defend a river
+65|defend a pass or defile
+66|defend a mountain
+67|defend a valley
+68|defend a manor house
+69|defend a house
+70|defend a dock
+71|defend a guildhall
+72|defend a warehouse
+73|defend a dungeon
+74|defend a cave
+75|defend a palace
+76|defend a temple
+77|defend a stable
+78|defend a wall
+79|defend a forest
+80|defend a reef
+81|destroy a castle
+82|destroy a town
+83|destroy a swamp
+84|destroy a river
+85|destroy a pass or defile
+86|destroy a mountain
+87|destroy a valley
+88|destroy a manor house
+89|destroy a house
+90|destroy a dock
+91|destroy a guildhall
+92|destroy a warehouse
+93|destroy a dungeon
+94|destroy a cave
+95|destroy a palace
+96|destroy a temple
+97|destroy a stable
+98|destroy a wall
+99|destroy a forest
+100|destroy a reef
+101|hide a castle
+102|hide a town
+103|hide a swamp
+104|hide a river
+105|hide a pass or defile
+106|hide a mountain
+107|hide a valley
+108|hide a manor house
+109|hide a house
+110|hide a dock
+111|hide a guildhall
+112|hide a warehouse
+113|hide a dungeon
+114|hide a cave
+115|hide a palace
+116|hide a temple
+117|hide a stable
+118|hide a wall
+119|hide a forest
+120|hide a reef
+121|build a castle
+122|build a town
+123|build a swamp
+124|build a river
+125|build a pass or defile
+126|build a mountain
+127|build a valley
+128|build a manor house
+129|build a house
+130|build a dock
+131|build a guildhall
+132|build a warehouse
+133|build a dungeon
+134|build a cave
+135|build a palace
+136|build a temple
+137|build a stable
+138|build a wall
+139|build a forest
+140|build a reef
+141|besiege a castle
+142|besiege a town
+143|besiege a swamp
+144|besiege a river
+145|besiege a pass or defile
+146|besiege a mountain
+147|besiege a valley
+148|besiege a manor house
+149|besiege a house
+150|besiege a dock
+151|besiege a guildhall
+152|besiege a warehouse
+153|besiege a dungeon
+154|besiege a cave
+155|besiege a palace
+156|besiege a temple
+157|besiege a stable
+158|besiege a wall
+159|besiege a forest
+160|besiege a reef

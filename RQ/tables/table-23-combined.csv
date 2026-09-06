@@ -1,0 +1,9 @@
+Range|Text
+1|Show member accuses a player-character of stealing from them during their last show.
+2-4|Player-characters see show members putting on a lewd / ribald act. Roll [[1d20]]: on a result of 1-10, the crowd is appreciative; on 11-20, the offended crowd throws things, boos, etc.
+5-8|The player-characters see a good-quality show presented.
+9-11|It's a terrible show, with old animals, bad dancers, stale jokes, etc. Roll [[1d20]]: on a result of 1-8, the crowd is indifferent; on 9-19, the crowd is booing and throwing garbage; on 20, a near-riot breaks out and the town watch is on the way.
+12-14|The carnival is a front for a band of pickpockets; [[1d10]] pickpockets of low to medium skill work the crowd. For each pickpocket present, the chance increases by 5 percentiles that a player-character is a victim (for example, if 4 pickpockets are rolled, then a player-character has a 20% chance of being robbed - roll [[1d100]]: on a roll of 01 to [5 x number of pickpockets] they are robbed).
+15-17|The player-characters see a fortuneteller. Roll [[1d20]]: on a result of 1-15, any fortune will be false; on a roll of 16-20, any fortune will be true.
+18-19|The show-people ask the player-characters to act as guards while they travel to the next city.
+20|The show is a front for a group of spies. They mistake a player-character for a contact and pass him a message. Roll [[1d20]]: on a result of 1-10, it's in code; on a roll of 11-20, it's in a random language. Opposition agents may observe the exchange, try to recover the message, etc.
