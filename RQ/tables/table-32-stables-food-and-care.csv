@@ -1,0 +1,5 @@
+Daily Level|Description|Food & Water Quantity|Food & Water Quality|Animal Combed|Hooves Cleaned|Minor Healing|Tack Cleaning|Tack Repaired|Daily Stabling Cost (pennies)
+1|Below Normal|Limited|Poor|No|No|No|No|No|1
+2|Normal|Sufficient|Average|Yes|No|No|No|No|1
+3|Above Normal|Plentiful|Good|Yes|Yes|No|Yes|No|3
+4|Special|Plentiful|Excellent|Yes|Yes|Yes|Yes|Yes|6
